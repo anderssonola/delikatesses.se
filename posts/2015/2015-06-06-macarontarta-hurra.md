@@ -16,9 +16,9 @@ tags:
   - "tarta"
 ---
 
-**Ha den äran Sverige, farmor och Selma!** Nationaldag, sommaren som kom igår, vårt lilla hjärta blir 8 månader  och mina fina favoritfarmor fyller 85 år idag, **HURRA!** Allt värt att fira storartat. Korka upp champagne, dra i snöret till partypopsen, blås upp ballongerna, hissa flaggan och baka en fantatsisk tårta. Förslagsvis denna fantastiska tårta som  Zara bjöd på när vi firade hennes första 30 jordsnurr förra veckan, och som jag skulle vilja utnämna till årets sommartårta no 1. Originalet är signerat Roy Fares. Lova mig nu att fira stort idag, vad det än är du vill fira.....[![IMG_7686](images/IMG_7686.png)](http://import.local/wp-content/uploads/2015/06/IMG_7686.png)Min härliga farmor! GRATTIS PÅ DIN DAG!
+**Ha den äran Sverige, farmor och Selma!** Nationaldag, sommaren som kom igår, vårt lilla hjärta blir 8 månader  och mina fina favoritfarmor fyller 85 år idag, **HURRA!** Allt värt att fira storartat. Korka upp champagne, dra i snöret till partypopsen, blås upp ballongerna, hissa flaggan och baka en fantatsisk tårta. Förslagsvis denna fantastiska tårta som  Zara bjöd på när vi firade hennes första 30 jordsnurr förra veckan, och som jag skulle vilja utnämna till årets sommartårta no 1. Originalet är signerat Roy Fares. Lova mig nu att fira stort idag, vad det än är du vill fira.....[![IMG_7686](/static/img/IMG_7686.png)](http://import.local/wp-content/uploads/2015/06/IMG_7686.png)Min härliga farmor! GRATTIS PÅ DIN DAG!
 
-[![image](images/image12-e1433104241648-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/05/image12-e1433104241648.jpg)
+[![image](/static/img/image12-e1433104241648-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/05/image12-e1433104241648.jpg)
 
 **Macarontårta**
 

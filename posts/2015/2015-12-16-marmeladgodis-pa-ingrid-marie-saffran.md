@@ -13,7 +13,7 @@ tags:
 
 Efter världens bästa helg i huvudstaden med efterlängtade vänner, god mat, dito dryck och massa mys och bus startar julledigheten idag. Vi startade med öppna förskolan, sen lunch på superstället Di Penco. Lätt södra Sveriges bästa italienare. Rustik god pasta med mycket omtanke. Brödet är ett måste att suga upp den goda såsen med. Perfekt att köpa med sig lite italiensk chark hem och deras oliver är ljuvliga för inga pengar alls. Julstämmningen då? Nja, den har väl inte riktigt infunnit sig. 13 grader ger väl ingen vinterfeeling direkt. Jag har tittat på ett par avsnitt av Sunes jul (bästa julkalendern ever) och börjat ta till det tunga artilleriet genom att "bjuda in" Ernst i köket. Tant Therese har kokt marmeladgodis. Jo då, har lagt fram den lilla sockertången som man kan ta dom med... Hur gör ni för att skapa julstämningen?
 
-![IMG_0284](images/IMG_0284-e1450298896127-1020x1360.jpg)
+![IMG_0284](/static/img/IMG_0284-e1450298896127-1020x1360.jpg)
 
 ## Marmeladgodis på Ingrid-Marie & saffran
 

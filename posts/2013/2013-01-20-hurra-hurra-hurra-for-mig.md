@@ -20,7 +20,7 @@ Firade födelsedagen igår med närmsta familjen, precis som jag ville ha det. E
 
 Tror att vi ändå börjar med fikan...  
   
-[![20130120-205344.jpg](images/20130120-205344.jpg)](http://import.local/wp-content/uploads/2013/01/20130120-205344.jpg) **Blueberry, lemon & meringue cake** Två färdigköpta tårtbottnar ( [baka själv](http://www.sockerkakor.se/tartbotten) om du hinner...jag gjorde på 6 delar)
+[![20130120-205344.jpg](/static/img/20130120-205344.jpg)](http://import.local/wp-content/uploads/2013/01/20130120-205344.jpg) **Blueberry, lemon & meringue cake** Två färdigköpta tårtbottnar ( [baka själv](http://www.sockerkakor.se/tartbotten) om du hinner...jag gjorde på 6 delar)
 
 1 burk lemoncurd (finns färdig men blir [ljuvlig på ekologiska citroner](http://www.efterratten.se/lemoncurd/))
 

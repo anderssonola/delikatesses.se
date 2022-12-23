@@ -15,7 +15,7 @@ tags:
 
 Vi har planer att inta Ven under helgen. Tanken är att lördagen ska gå i Whiskyns tecken. Vi ska smutta på fruktiga, rökiga och smakrika whiskys. Jag tänker mig att vi ska dricka whisky till maten, kaffet och bara för att vi kan återkommer mer om det. Men lite kaffegodis har jag redan gjort så det kommer här. Originalreceptet hittar ni på _Allt om mat._
 
-[![IMG_9744](images/IMG_9744-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9744.jpg)
+[![IMG_9744](/static/img/IMG_9744-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9744.jpg)
 
 ## Chokladtryffel med fikon & whisky
 

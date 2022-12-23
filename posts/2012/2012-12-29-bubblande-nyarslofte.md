@@ -30,7 +30,7 @@ Sen var det ju det här med priset. Champagne i alla ära, det är gudagott, men
 
 Köp hem dom allihopa! och skulle man nu vilja köpa en riktig champagne så är min favorit [Pol Roger](http://www.systembolaget.se/Sok-dryck/Dryck/?searchquery=pol+roger&sortfield=Default&sortdirection=Ascending&hitsoffset=0&page=1&searchview=All&groupfiltersheader=Default&artikelId=3986&varuNr=7549&filters=searchquery%2c&referringUrl=%2fSok-dryck%2f%3fsearchquery%3dpol%2broger%26sortfield%3dDefault%26sortdirection%3dAscending%26hitsoffset%3d0%26page%3d1%26searchview%3dAll%26groupfiltersheader%3dDefault%26filters%3dsearchquery%252c "Pol Roger"), men huschampagnen är [Piper-Heidsieck](http://www.systembolaget.se/Sok-dryck/Dryck/?searchquery=piper+heidseck&artikelId=166635&varuNr=7332&referringUrl=%2fTemplates%2fPublic%2fPages%2fGlobalSearchPage.aspx%3fsearchquery%3dpiper%2bheidseck%26id%3d1594%26epslanguage%3dsv "piper") som är några tior billigare.
 
-[![20121230-220227.jpg](images/20121230-220227.jpg)](http://import.local/wp-content/uploads/2012/12/20121230-220227.jpg) Nåt att knapra på hör ju liksom till så här kommer en favorit i repris.
+[![20121230-220227.jpg](/static/img/20121230-220227.jpg)](http://import.local/wp-content/uploads/2012/12/20121230-220227.jpg) Nåt att knapra på hör ju liksom till så här kommer en favorit i repris.
 
 **Jordärtskockschips** 2 st jordärtskockor med skalet kvar Olja att fritera i Salt Termometer Mandolin eller en riktigt vass kniv
 

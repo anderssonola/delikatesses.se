@@ -8,7 +8,7 @@ categories:
 
 Den lilla tanten i mig är svag för romrussin. Igår gjordes det dessert på härligheten! Har man inte en lite tant i sig så går det bra med vanlig vaniljglass.....
 
-# **[![](images/IMG_3477-1024x682.jpg "IMG_3477")](http://import.local/wp-content/uploads/2012/01/IMG_3477.jpg)**
+# **[![](/static/img/IMG_3477-1024x682.jpg "IMG_3477")](http://import.local/wp-content/uploads/2012/01/IMG_3477.jpg)**
 
 ## **Romrussinglass**
 

@@ -14,7 +14,7 @@ tags:
 
 Helgen närmar sig igen. Fredag eller lördagkvällar ska det mysas till med nåt gott att dricka och nåt att tugga på till. Det där lilla extra tilltugget hittade vi i en tidning, Mat & vänner. Det fiffiga med detta recept är att man kan förbereda idag, frysa in och sen bara fritera när det är dags. De kan ligga i en burk i frysen. Ta bara fram så många man vill. De är så där herregud-goda, doppade i sin tryffelmajonäs blir detta en perfekt början. Har man tillgång till färsk tryffel så är det en superbonus... Antingen servera ett mousserande vin, ett gott Amarone eller varför inte en klassisk cocktail. Perfekt till nyår!  
   
-[![IMG_1116.JPG](images/IMG_1116.jpg)](http://import.local/wp-content/uploads/2014/12/IMG_1116.jpg)Konstig bild kan tyckas, men dessa rackare är farligt goda till hamburgare med. Så uppe till vänster ligger de små raringarna. (Detta blir nog inte årets bloggbild...)
+[![IMG_1116.JPG](/static/img/IMG_1116.jpg)](http://import.local/wp-content/uploads/2014/12/IMG_1116.jpg)Konstig bild kan tyckas, men dessa rackare är farligt goda till hamburgare med. Så uppe till vänster ligger de små raringarna. (Detta blir nog inte årets bloggbild...)
 
 **Svampkroketter med tryffelmajonäs** 2 charlottenlökar, finhackade 2 vitlöksklyftor, finhackade 300 gram kantareller, hackat 300 gram skogschampinjoner, hackat 40 gram smör + neutral olja Salt och peppar 5 dl mjölk 40 gram smör 1,5 dl vetemjöl 150 gram västerbottenost eller parmesan, riven 1/2 citron,saften Salt och peppar
 

@@ -7,7 +7,7 @@ categories:
 
 Jag är en sån där som har näsa för detaljer och lägger ofta märke till sånt som folk egentligen inte ser eller bryr sig om. Sånt som jag formligen älskar. Det där lilla extra. Jag sparar saker i köket som får Ola att ibland klia sig i huvudet och undra varför vi (läs jag) ska spara. Ofta är det något jag sett någon annanstans men som inte riktigt hinns med just då. En sådan sak har varit tre konservburkar som diskats i diskmaskinen och trängts och flyttats runt i skåpen. Så igår knackade 25 gram jäst inne i från kylskåpet och bad om att bli använd innan det var försent, så det var dags; för "konserverat" lökbröd. Snygga bröd som kan serveras som kuvertbröd på vilken middag som helst.
 
-[![20130906-214141.jpg](images/20130906-214141.jpg)](http://import.local/wp-content/uploads/2013/09/20130906-214141.jpg)
+[![20130906-214141.jpg](/static/img/20130906-214141.jpg)](http://import.local/wp-content/uploads/2013/09/20130906-214141.jpg)
 
  
 

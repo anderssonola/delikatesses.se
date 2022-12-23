@@ -16,7 +16,7 @@ tags:
 
 Halloweenhelg, eller Alla helgon om man föredrar det. Hur som haver så karvas det pumpor, skapas kreativa och läskiga kostymer och knapras godis. Vi nöjer oss med pumpan i år, å knappt det heller eftersom vi använde oss av butternut, som är en squash. Nåväl orange mat akompanjerad av anka, mycket gott. Den oundvikliga frågan kring bordet dök upp "- Varför äter vi inte mer anka?!" Håller sig alla till det magiska **58 grader**, så blir det inte segt eller överstekt. Mer anka åt folket!  
   
-[![IMG_5665-0.JPG](images/IMG_5665-0.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_5665-0.jpg) Återigen är det Paul Svensson som inspirerat. Lite småjusteringar och nytt namn. En av kvällens gäster hörde nämligen pumpad anka när menyn dikterades......
+[![IMG_5665-0.JPG](/static/img/IMG_5665-0.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_5665-0.jpg) Återigen är det Paul Svensson som inspirerat. Lite småjusteringar och nytt namn. En av kvällens gäster hörde nämligen pumpad anka när menyn dikterades......
 
 **Pumpad Anka** 4 personer
 

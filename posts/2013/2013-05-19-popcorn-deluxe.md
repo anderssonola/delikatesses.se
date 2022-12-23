@@ -15,4 +15,4 @@ Att ange mängd när man ska poppa popcorn är galet svårt beroende på hur sto
 
 Smält smöret, mät upp kryddorna och låt allt bli varmt. Häll smöret i en stor bunke. Häll över popcornen. Rör runt ordentligt från botten flera gånger så alla popcorn får krydda. Avsluta med salt. Jag kör från kvarnen.
 
-[![20130519-231400.jpg](images/20130519-231400.jpg)](http://import.local/wp-content/uploads/2013/05/20130519-231400.jpg)
+[![20130519-231400.jpg](/static/img/20130519-231400.jpg)](http://import.local/wp-content/uploads/2013/05/20130519-231400.jpg)

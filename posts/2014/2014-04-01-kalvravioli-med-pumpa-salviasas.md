@@ -15,9 +15,9 @@ tags:
 
 Varför gör man inte mer egen pasta? Visst det tar lite tid men det är ju så otroligt gott. Jag rotade fram mammas och pappas pastamaskin som stått förvisad i förrådet i typ 15 år, då jag vet att pappa hade den framme sist. Men den funkar finfint. Vi har mest gjort spegetti, tagliatelle, [öppen lasagne,](http://import.local/2013/03/03/oppen-lasagne/) men undvikt ravioli.... fram tills nu. Dessutom så fick vi en utstansare just till ravioli av min lillasyster efter en av deras reser till Scicilien. Receptet kommer från appen Kokbokshyllan från Alexandra Zazzis "bok".  
   
-[![20140401-221441.jpg](images/20140401-221441.jpg)](http://import.local/wp-content/uploads/2014/04/20140401-221441.jpg)  
+[![20140401-221441.jpg](/static/img/20140401-221441.jpg)](http://import.local/wp-content/uploads/2014/04/20140401-221441.jpg)  
   
-[![20140401-221412.jpg](images/20140401-221412.jpg)](http://import.local/wp-content/uploads/2014/04/20140401-221412.jpg)
+[![20140401-221412.jpg](/static/img/20140401-221412.jpg)](http://import.local/wp-content/uploads/2014/04/20140401-221412.jpg)
 
 **Pastadeg** 3 ägg 5 dl durumvetemjöl 1,5 msk olivolja ev lite kallt vatten
 

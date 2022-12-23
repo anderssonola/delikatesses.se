@@ -16,4 +16,4 @@ Hacka räkorna och ägget grovt, och löken fint. Blanda i övriga ingredienser 
 
 Lägg röran på rågbröd, på knäcke eller i avokado så är vi åter på 80-talet....  
   
-[![20120312-204049.jpg](images/20120312-204049.jpg)](http://import.local/wp-content/uploads/2012/03/20120312-204049.jpg)
+[![20120312-204049.jpg](/static/img/20120312-204049.jpg)](http://import.local/wp-content/uploads/2012/03/20120312-204049.jpg)

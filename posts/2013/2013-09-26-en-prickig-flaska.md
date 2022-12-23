@@ -9,7 +9,7 @@ Förra veckan tillbringades i Riojan, tapasens, paellans och inte minst sangrian
 
 Hur snygg är inte flaskan då?
 
-![http://www.sangrialolea.com/images/press/producto/SANGRIA-LOLEA-GRAPHIC-11.jpg](images/SANGRIA-LOLEA-GRAPHIC-11.jpg)
+![http://www.sangrialolea.com//static/img/press/producto/SANGRIA-LOLEA-GRAPHIC-11.jpg](/static/img/SANGRIA-LOLEA-GRAPHIC-11.jpg)
 
 **_Because Lolea is a tribute to friendship, family, holidays and joy._**
 
@@ -17,7 +17,7 @@ Leola är en Sangria gjord av ett gäng kompisar som vill dela med sig av den k�
 
 Jag ska försöka jaga tag i ett par flaskor till, även den vita No2 Clarea gjord på vitt vin. En lätt pärlande sangria med mycket smak av citrusen som den blandas med. Inga tillsatser och gjort på kvalitetsvin. Serveras med en skiva citron och apelsin på vilket cocktailparty eller picknick som helst.
 
-![Sangía Lolea - La mejor sangría del mundo](images/sangria-lolea.jpg)
+![Sangía Lolea - La mejor sangría del mundo](/static/img/sangria-lolea.jpg)
 
 _Bilder lånade från www.sangrialolea.com_
 

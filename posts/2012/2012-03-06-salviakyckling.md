@@ -9,7 +9,7 @@ categories:
 
 I höstas norpade jag en stor kvist salvia hos storasyster och frös in i en liten burk. Salvia är en sån där krydda som passar för sig själv. Det är helt ljuvligt att bryna den med smör och servera till stekt fisk.  Nu så var det återigen dags att plocka fram den lilla burken och befria några blad från sitt ide.
 
-[![](images/IMG_3603-1024x682.jpg "IMG_3603")](http://import.local/wp-content/uploads/2012/03/IMG_3603.jpg)
+[![](/static/img/IMG_3603-1024x682.jpg "IMG_3603")](http://import.local/wp-content/uploads/2012/03/IMG_3603.jpg)
 
 **Salviakyckling**
 

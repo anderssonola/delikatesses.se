@@ -7,7 +7,7 @@ categories:
 
 Jojo, ibland äter vi med tacos, dock inte fredagstacos. Vi äter söndags fishtacos. Inget ont om svennebanantacos med majs, färdigkrydda och gurka, men detta recept slår det med hästlängder. Dessutom slängde jag ihop en majssoppa som den där Ola, som säger sig inte gilla majssoppa, tog dubbla portioner av...  
   
-[![20140805-192706-70026446.jpg](images/20140805-192706-70026446.jpg)](http://import.local/wp-content/uploads/2014/08/20140805-192706-70026446.jpg) **Fisktacos** 300 gram torsk eller kummel 1 dl vetemjöl 2 ägg 1-2 dl panko Kryddor , spiskummin, salt, peppar, oregano, paprikapulver
+[![20140805-192706-70026446.jpg](/static/img/20140805-192706-70026446.jpg)](http://import.local/wp-content/uploads/2014/08/20140805-192706-70026446.jpg) **Fisktacos** 300 gram torsk eller kummel 1 dl vetemjöl 2 ägg 1-2 dl panko Kryddor , spiskummin, salt, peppar, oregano, paprikapulver
 
 **_Kålsallad_** Ett halvt litet rödkålshuvud 2 vårlökar 1 stort knippe koriander 1/2 röd chili 1 lime, saft och zest 1 vitlöksklyfta 3 msk neutral olja, typ raps Salt och peppar
 

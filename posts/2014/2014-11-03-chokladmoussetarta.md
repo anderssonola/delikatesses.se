@@ -16,9 +16,9 @@ tags:
 
 Förra veckan och helgen var ganska intensiv. Det var tågpremiär för lilla hönan med besök i Hässleholm. Lunchhäng med mina vänner och hjärtats små vänner. Idag ligger vi på soffan och äter praliner, jag iallafall. Vi tar en lugn måndag med inga måsten och firar att vår älskling varit hos oss en månad just idag, 18;54 smäller det. HURRA för vår lilla tjej <3  
   
-[![IMG_5698-0.JPG](images/IMG_5698-0.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_5698-0.jpg)Vill man fira med en" stor pralin" så får man svänga ihop denna goda chokladmoussetårta som Anna bjöd på förra söndagen.
+[![IMG_5698-0.JPG](/static/img/IMG_5698-0.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_5698-0.jpg)Vill man fira med en" stor pralin" så får man svänga ihop denna goda chokladmoussetårta som Anna bjöd på förra söndagen.
 
-[![IMG_6633](images/IMG_6633-1024x683.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_6633.jpg)Vi måste sätta [glöggen](http://import.local/2013/10/28/glogg/) denna veckan, har googlat pepparkakshusinspiration med så nu vet jag hur årets arkitektur ska se ut. Kommer bli galet bra!
+[![IMG_6633](/static/img/IMG_6633-1024x683.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_6633.jpg)Vi måste sätta [glöggen](http://import.local/2013/10/28/glogg/) denna veckan, har googlat pepparkakshusinspiration med så nu vet jag hur årets arkitektur ska se ut. Kommer bli galet bra!
 
 **Chokladmoussetårta** 10 personer
 

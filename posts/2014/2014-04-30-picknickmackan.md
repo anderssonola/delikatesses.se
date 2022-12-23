@@ -7,7 +7,7 @@ categories:
 
 Hurra det är söndag, solen skiner och jag är ledig. Idag finns det inget annat att göra än att packa filten, dagens tidning, en flaska vatten, en termoskaffe, en påse nybakade bullar och dessa finfina picknickmackor. Sätta sig på en plätt i Kungsparken och bara vara. Do it!  
   
-[![20140504-092153.jpg](images/20140504-092153.jpg)](http://import.local/wp-content/uploads/2014/05/20140504-092153.jpg) **Picknickmacka med lammkorv** **_4 mackor_** 8 skivor surdegsbröd 4-6 lammkorvar 2 grillade paprikor 10 mjuktorkade aprikoser eller färska Ruccola 150 gram fetaost
+[![20140504-092153.jpg](/static/img/20140504-092153.jpg)](http://import.local/wp-content/uploads/2014/05/20140504-092153.jpg) **Picknickmacka med lammkorv** **_4 mackor_** 8 skivor surdegsbröd 4-6 lammkorvar 2 grillade paprikor 10 mjuktorkade aprikoser eller färska Ruccola 150 gram fetaost
 
 **Ruccolakräm** 1/2 liter ruccola 1/2 vitlöksklyfta 1/2 dl solroskärnor 1/2 dl rapsolja 1/2 röd chilipeppar 1 dl turkisk yoghurt Salt & svartpeppar
 

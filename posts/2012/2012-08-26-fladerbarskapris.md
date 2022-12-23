@@ -39,6 +39,6 @@ _**Receptet hämtat från taffel.se**_
 
 http://skafferiet.taffel.se/2010/08/16/fladerbarskapris
 
-[![20120826-210418.jpg](images/20120826-210418.jpg)](http://import.local/wp-content/uploads/2012/08/20120826-210418.jpg)
+[![20120826-210418.jpg](/static/img/20120826-210418.jpg)](http://import.local/wp-content/uploads/2012/08/20120826-210418.jpg)
 
 Jag gör halva satsen nu första gången.....

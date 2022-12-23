@@ -21,7 +21,7 @@ Många undrar om det inte är jobbigt de två fastedagarna i veckan, men läser 
 
 Jag dricker en stor kopp te på morgonen, till lunch blir det ofta någon form av ägg med grönsaker. Idag åt jag 3 dl riven morot med blomkål, örtkeso och ett mjukkokt ägg- ca 150 kalorier.... det står man sig på och är väldigt mumsigt. Men det är ju middagarna jag ser fram emot. Ikväll lagade vi en kanonrätt som absolut kommer återkomma. Fler som sitter på superrecept med lite kalorier?
 
-[![IMG_9409](images/IMG_9409-e1443647873591-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/09/IMG_9409.jpg)
+[![IMG_9409](/static/img/IMG_9409-e1443647873591-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/09/IMG_9409.jpg)
 
 ## Torsk med citronfrästa belugalinser & grillad paprikakräm
 

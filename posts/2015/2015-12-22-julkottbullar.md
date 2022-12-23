@@ -17,7 +17,7 @@ tags:
 
 Dan före dan, före dan. Det är idag det. Saffransknutar, sillinläggningar, Janssons frestelse och små goda julköttbullar har tillverkats i julfabriken. Årets köttbullar är en kalv- & fläskfärsvariant. Givetvis med kryddpeppar och lite kanel men även en gnutta mejram fick följa med. Den där kryddan som man bara använder till ärtsoppan annars, eller? Hur som haver så är de väldigt goda.
 
-![IMG_0343](images/IMG_0343-1020x1020.jpg)
+![IMG_0343](/static/img/IMG_0343-1020x1020.jpg)
 
  
 

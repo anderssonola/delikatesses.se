@@ -11,7 +11,7 @@ Mamma och pappa bjöd på denna goda [paj med sparris och lax](http://www.svt.se
 
 ;
 
-[![](images/IMG_4850-1024x682.jpg "IMG_4850")](http://import.local/wp-content/uploads/2012/06/IMG_4850.jpg)
+[![](/static/img/IMG_4850-1024x682.jpg "IMG_4850")](http://import.local/wp-content/uploads/2012/06/IMG_4850.jpg)
 
 # Smördegspaj med rödbetor, potatis & chevrécrème
 

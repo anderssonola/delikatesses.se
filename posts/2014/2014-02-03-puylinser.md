@@ -9,7 +9,7 @@ categories:
 
 På nyheterna idag meddelades det att Jamie Oliver ska öppna restaurang i Sverige. Som om det var planerat så var det en av hans rätter som stod på menyn just idag. Under mina år inom restaurangbranschen har jag stött på Puylinser, främst i såser, men aldrig lagat själv. De små gröna linserna odlas på vulkanisk mark i Frankrike och är extremt hållbara under kokning. De är näringsrika och blir inte alls så där grötiga som linser kan bli, utan behåller en härlig kärna. Så precis som vin så gör de sina linser ordentligt med. De är något dyrare än vad man vanligt betalar för linser, men så värt det.
 
-[![20140203-203729.jpg](images/20140203-203729.jpg)](http://import.local/wp-content/uploads/2014/02/20140203-203729.jpg) **Puylinser med kyckling, sparris & bacon** 4 portioner
+[![20140203-203729.jpg](/static/img/20140203-203729.jpg)](http://import.local/wp-content/uploads/2014/02/20140203-203729.jpg) **Puylinser med kyckling, sparris & bacon** 4 portioner
 
 1 lök 1 stor morot 250 gram linser, gröna puy 7,5 dl vatten 1,5 kycklingbuljongtärningar 6-8 cocktailtomater , klyftade 1 kvist rosmarin 200 gram spenat Salt & svartpeppar 1 tsk rödvinsvinäger En skvätt rapsolja
 

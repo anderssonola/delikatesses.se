@@ -21,4 +21,4 @@ Vispa ägg och socker pösigt. Tillsätt vetemjöl och bakpulver. Avsluta med de
 
 _Ett alternativ till äppelklyfta är äppelmos eller vaniljkräm, som kan smaksättas med rom eller punch,som spritsas in i munkarna när de är klara_!
 
-[![20120207-210337.jpg](images/20120207-210337.jpg)](http://import.local/wp-content/uploads/2012/02/20120207-210337.jpg)
+[![20120207-210337.jpg](/static/img/20120207-210337.jpg)](http://import.local/wp-content/uploads/2012/02/20120207-210337.jpg)

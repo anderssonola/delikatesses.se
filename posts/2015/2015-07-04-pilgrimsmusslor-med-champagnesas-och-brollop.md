@@ -18,7 +18,7 @@ Godmorgon! Solen gassar och klockan är bara 9:34. Hur ska det här sluta?! Vi d
 
 Är mycket spänd på middagen som serveras ikväll, efter att ha sett bilder på hemsidan som tror jag att det kommer bli riktigt riktigt bra. Dessutom vet jag att brudparet har önskat en ekologisk meny, hurra! Skulle det vara så att ,man själv vill stå för nåt lyxigt så är denna amusen helt magisk. Receptet kommer från Systrarna Eisenmann's Mingelmat. Såsen är to die for och kan lätt serveras bara den till en rimmad torskrygg eller marulk. Hög mumsfaktor med andra ord. Trevlig 4th of July!
 
-[![image](images/image-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/07/image.jpg)
+[![image](/static/img/image-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/07/image.jpg)
 
 **Pilgrimsmusslor med champagnesås** 24 pilgrimsmusslor (ca 350 g) salt och peppar 1 msk olivolja _**Champagnesås**_: 1 schalottenlök, -finhackad 1 msk smör 1 dl vitt vin 4 dl fiskbuljong 3 dl vispgrädde 1 msk ljus maizena-redning 1 tsk färskpressad citronsaft 1 dl champagne/mousserande vitt vin salt och vitpeppar Fräs löken i smör tills den mjuknar utan att ta färg. Häll på vin och buljong. Sjud tills vätskan reducerats till hälften.
 

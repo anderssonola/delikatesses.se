@@ -14,7 +14,7 @@ Så var det helg igen?! Känns mycket knäppt med alla helgdagar som infallit so
 
 Vi började det nya året med korv i bröd, en klassiker som passar finfint efter klockan slagit 03:00....  
   
-[![20140104-114006.jpg](images/20140104-114006.jpg)](http://import.local/wp-content/uploads/2014/01/20140104-114006.jpg) **Trilogi på jordärtskocka med pilgrimsmusslor, regnbågsrom & krasseklipp** 4 portioner
+[![20140104-114006.jpg](/static/img/20140104-114006.jpg)](http://import.local/wp-content/uploads/2014/01/20140104-114006.jpg) **Trilogi på jordärtskocka med pilgrimsmusslor, regnbågsrom & krasseklipp** 4 portioner
 
 Ca 1 kg jordärtskocka 25 gram smör
 

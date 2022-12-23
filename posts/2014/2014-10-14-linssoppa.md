@@ -7,7 +7,7 @@ categories:
 
 Igår var det verkligen höst. Regnet piskade mot rutan, gråa moln hängde tunga och gjorde himlen mörk. Vi stannade inne, tände ljus, mös under filt och svängde ihop (läs Ola) en alldeles ljuvlig, värmande linssoppa. Dessutom fick vi sällskap av finaste Carin som hängde med oss hela eftermiddagen. Supermysigt då det är en stund tills vi kan ses nästa gång...(_Är inte alls avundsjuka på dina 6 månader på Bali)_ We will miss you❤️  
   
-[![IMG_5530.JPG](images/IMG_5530.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5530.jpg)Soppan kommer från Ica.se
+[![IMG_5530.JPG](/static/img/IMG_5530.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5530.jpg)Soppan kommer från Ica.se
 
 **Linssoppa** 4 portioner
 

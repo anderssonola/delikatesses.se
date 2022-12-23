@@ -13,7 +13,7 @@ tags:
 
 Ofta undrar jag varför man inte kan köpa blåmusslor i lösvikt,  måste ju alltid köpa ett kilo. Detta går ju an om man  enbart ska mumsa musslor, men om man bara vill ha några stycken i en soppa, gryta eller på fiskgratängen. Som vi ju ville igår så står vi med minst ett halvt kilo kvar. Nu är det ju så att musslorna håller sig ett par dagar i kylskåpet i vattenbad och att man byter vattnet varje dag. Som tur är så är det just idag Eurovision Song Contest och då behövs det lite snacks till den lååååååånga sändningen. Då passade dessa överblivna skalprydda godingar perfekt. Man gratinerar dom helt enkelt. Vad som hände med de i går? Vi gjorde en galet god fisksoppa på en skaldjursfond som Ola kokade ihop för ett par veckor sen som göttat sig i frysen. Återkommer med recept på den. Trevlig kväll och heja Sverige såklart!
 
-[![image](images/image10-1020x765.jpg)](http://import.local/wp-content/uploads/2015/05/image10.jpg) [![image](images/image11-1020x765.jpg)](http://import.local/wp-content/uploads/2015/05/image11.jpg)
+[![image](/static/img/image10-1020x765.jpg)](http://import.local/wp-content/uploads/2015/05/image10.jpg) [![image](/static/img/image11-1020x765.jpg)](http://import.local/wp-content/uploads/2015/05/image11.jpg)
 
 **Gratinerade blåmusslor**
 

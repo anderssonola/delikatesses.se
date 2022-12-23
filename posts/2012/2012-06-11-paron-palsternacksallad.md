@@ -7,7 +7,7 @@ categories:
 
 Sommaren är här, sommarmånaderna iaf.... Den här årstiden så blir det mycket sallader, matiga sådana! Denna salladen är en kombination av några av våra favoritrecept. Man plockar helt enkelt det godaste från recepten och kombinerar med det godaste från ett annat annat. Just denna salladen är en kombination av tre andra recept....
 
-# [![](images/IMG_4417-1024x682.jpg "IMG_4417")](http://import.local/wp-content/uploads/2012/06/IMG_4417.jpg)
+# [![](/static/img/IMG_4417-1024x682.jpg "IMG_4417")](http://import.local/wp-content/uploads/2012/06/IMG_4417.jpg)
 
 # **Päron & palsternacksallad med sötsurt fläsk och chevré.**
 

@@ -13,7 +13,9 @@ Vi försöker lägga upp det som så att vi alltid veckohandlar på söndagen (o
 
 Lätt att göra är allt- i-ett-gratänger och grytor. Vi brukar göra två middagar på måndagen så är en helt klar när det är dags, typ en soppa. Jag tänkte dela med mig av våra enkla middagar som gör att vi får ihop det och maten står på bordet innan läggdags. Vi börjar med en superenkel tortellinigryta.
 
-## ![IMG_1243](images/IMG_1243-1020x1020.jpg)Gratinerad tortellinigryta med squash & parmesan
+![IMG_1243](/static/img//IMG_1243-1020x1020.jpg)
+
+## Gratinerad tortellinigryta med squash & parmesan
 
 4 personer
 

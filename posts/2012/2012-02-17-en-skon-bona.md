@@ -19,4 +19,4 @@ En annan [skön böna](http://www.matrepubliken.se) har gjort fantastiska chips 
 
   
   
-[![20120217-084651.jpg](images/20120217-084651.jpg)](http://import.local/wp-content/uploads/2012/02/20120217-084651.jpg)
+[![20120217-084651.jpg](/static/img/20120217-084651.jpg)](http://import.local/wp-content/uploads/2012/02/20120217-084651.jpg)

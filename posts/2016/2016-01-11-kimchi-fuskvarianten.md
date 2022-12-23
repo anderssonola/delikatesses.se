@@ -16,9 +16,9 @@ tags:
 
 I början på förra veckan hade vi min lillasyster med man på besök och bjöd på Pho, nudelsoppa. Det blev ganska mycket chili, koriander, mynta, böngroddar och räkor kvar så på onsdagen rullade vi sommarrullar och doppade i nouc chamdipp, trots minusgrader ute. Även efter detta så hade vi lite rester kvar + lite grönsaker som blivit över sen tidigare. Vad gör man med små rester? jo, paj , omelett eller pytt. Så jag marinerade grönsakerna som var kvar i sesam-, soja-, chilivarianter. Packade i påsar och dagen efter köpte vi en bit galet fint högrev. Tunnskar det, marinerade och stekte på hög värme. Sen kokte vi rundkornigt ris, blandade i risvinäger och socker, stekte ägg and voilá; Bim bim bap. Koreansk pyttipanna. Jag hade önskat att vi satt inne på en burk med riktig kimchi, men icke. Så jag blev lite lycklig när receptet från Remsans bistro smakade kimchi-ish.
 
-![IMG_0500](images/IMG_0500-1020x1020.jpg)
+![IMG_0500](/static/img/IMG_0500-1020x1020.jpg)
 
-![IMG_0506](images/IMG_0506-1020x1020.jpg)Fusk-kimchin är den mellan böngroddar och sojabönor
+![IMG_0506](/static/img/IMG_0506-1020x1020.jpg)Fusk-kimchin är den mellan böngroddar och sojabönor
 
 ## Kimchi- fuskvarianten
 

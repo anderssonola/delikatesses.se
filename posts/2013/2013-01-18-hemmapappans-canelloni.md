@@ -24,4 +24,4 @@ Häll tomatsåsen i en ugnsfast form. Skär pastan på mitten på längden. Hyvl
 
 Ställ in i ugnen på 200 grader i ca 20 min. Servera med riven parmesan och en senapskålsallad (ruccola för den moderne)  
   
-[![20130118-084728.jpg](images/20130118-084728.jpg)](http://import.local/wp-content/uploads/2013/01/20130118-084728.jpg)
+[![20130118-084728.jpg](/static/img/20130118-084728.jpg)](http://import.local/wp-content/uploads/2013/01/20130118-084728.jpg)

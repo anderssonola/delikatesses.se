@@ -15,7 +15,7 @@ tags:
 
 10 timmarsfläsk låter väl heeelt galet gott?! När den dessutom delar tallrik med en ramslökkräm och syrad blomkål så skulle man kunna tro att detta var bland det godaste vi lagat och avnjutit i vårt kök, men nja.... det var gott men inte fantatsiskt. Krämen blev inte som jag ville, utan lite lös. Berodde nog på att jag bara hade tillgång till fryst ramslök. Fläsket smakade gott, men grissida lagad i 2,5 timme gör det med. Så summa sumarum, absolut en god rätt och lite trevligt att bjuda sin gäster på om man vill bjuda på nåt som låter mer avancerat än det är.
 
-[![IMG_8207](images/IMG_8207-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/07/IMG_8207.jpg)
+[![IMG_8207](/static/img/IMG_8207-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/07/IMG_8207.jpg)
 
 ## 10 timmarsfläsk med ramslökkräm och syrad blomkål
 

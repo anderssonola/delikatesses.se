@@ -12,4 +12,4 @@ Det var under vinlusens framfart som spanjorerna sneglade på grannarna Frankrik
 
 Så var det lite tips med....  
   
-[![20130916-222011.jpg](images/20130916-222011.jpg)](http://import.local/wp-content/uploads/2013/09/20130916-222011.jpg) Återigen vill jag slå ett slag för denna goding som bara måste bli ett ordinarie inslag på Systembolaget. **Castillo Perelada** ,Cava Brut Reserva nr 77219 Små, små bubblor som stiger som fina pärlband i glaset. Delikata blommiga och fruktiga aromer med mognadston. Den är helt enkelt galet bra!! Beställ!
+[![20130916-222011.jpg](/static/img/20130916-222011.jpg)](http://import.local/wp-content/uploads/2013/09/20130916-222011.jpg) Återigen vill jag slå ett slag för denna goding som bara måste bli ett ordinarie inslag på Systembolaget. **Castillo Perelada** ,Cava Brut Reserva nr 77219 Små, små bubblor som stiger som fina pärlband i glaset. Delikata blommiga och fruktiga aromer med mognadston. Den är helt enkelt galet bra!! Beställ!

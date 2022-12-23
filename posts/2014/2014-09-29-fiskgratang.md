@@ -19,7 +19,7 @@ tags:
 
 Ny vecka. Undrar om denna veckan kan slå förra veckans dagar med ny bebis❤️_välkommen lilla J_, middag med tjejerna, lunch med mamma och mormor och solig lördag i Köpenhamn ?! Vi får väl hålla tummarna och se.... Veckan innan det, var med en ganska bra vecka. Min fina Anna kom med hemvirkad bebisfilt, vi traggade, fikade och käkade god fiskgratäng al a Jamie. Vi avslutade i soffan med glass, varma hallon och [krokant](http://import.local/2014/04/16/semifreddo/).
 
-[![IMG_5410.JPG](images/IMG_5410.jpg)](http://import.local/wp-content/uploads/2014/09/IMG_5410.jpg) **Fiskgratäng med ärtmos** 4 hungriga personer
+[![IMG_5410.JPG](/static/img/IMG_5410.jpg)](http://import.local/wp-content/uploads/2014/09/IMG_5410.jpg) **Fiskgratäng med ärtmos** 4 hungriga personer
 
 1 kg potatis 1 citron 40 g smör 400 g frysta gröna ärtor, Findus såklart 2 morötter 2 lökar olivolja 5 dl mjölk 200 gram lax 200 gram vit fisk, typ kolja, kummel eller torsk 65 g vetemjöl, knappt 1 dl 100 g fryst bladspenat 125 g räkor 1 rågad tesked Engelsk senap, Coldmans 40 g riven god ost Salt & svartpeppar
 

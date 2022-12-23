@@ -7,9 +7,9 @@ categories:
 
 Ja, i måndags, den 6 oktober 2014, hade vår lilla bula jäst klart. Hon kom på dagen beräknad, 4250 gram rejäl, 55 cm i långkalsongen, 10 fingrar, 10 tår och med en hattstorlek på 34. Vår fina lilla tjej ❤️ Så nu lever vi i vår lilla bebisbubbla. Där ingenting egentligen går att planera, man får bara flyta med.  
   
-[![IMG_5471.JPG](images/IMG_5471.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5471.jpg) Mellan amning, blöjbyten, gos och skrikfester försöker vi få i oss lite mat. [Pirogerna](http://import.local/2014/09/17/frysen-ar-full-av-piroger/) ligger i frysen redo för stunder då det måste gå fort. Men idag har vi en mysförmiddag med långfrukost, gos och förmiddagsnapping. Då passar vi på att röra ihop en sats jästa pannkakor till lunch. StigBritts morfars recept är det bästa❤️  
+[![IMG_5471.JPG](/static/img/IMG_5471.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5471.jpg) Mellan amning, blöjbyten, gos och skrikfester försöker vi få i oss lite mat. [Pirogerna](http://import.local/2014/09/17/frysen-ar-full-av-piroger/) ligger i frysen redo för stunder då det måste gå fort. Men idag har vi en mysförmiddag med långfrukost, gos och förmiddagsnapping. Då passar vi på att röra ihop en sats jästa pannkakor till lunch. StigBritts morfars recept är det bästa❤️  
   
-[![IMG_5508.JPG](images/IMG_5508.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5508.jpg) **Jästa pannkakor** Ca 12 st 25 gram jäst 5 dl mjölk 2 ägg 1/2 tsk salt 2,5 dl mjöl
+[![IMG_5508.JPG](/static/img/IMG_5508.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5508.jpg) **Jästa pannkakor** Ca 12 st 25 gram jäst 5 dl mjölk 2 ägg 1/2 tsk salt 2,5 dl mjöl
 
 Smör till stekning
 

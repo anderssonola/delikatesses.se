@@ -8,15 +8,15 @@ categories:
 
 Igår var vi en sväng på Malmö garden show i slottsparken. Det är ett miniformat av  det engelska Chelsea flower show. Oj så mycket fint där fanns. Inte nog med den vanligt prunkande trädgården i slottsträdgården och de små kolonilotterna. Slottsträdgården hade utökats med konstnärers växtliga syn på olika teman, drömbalkonger och gröna oaser. Stor marknad med allt från representanter för pelargonsällskapet till handelsträdgårdar som sålde blommor och små grönsaksplantor. Man blev galet sugen på en egen lite trädgård med egen odling av både vackra blommor och goda växter som man sen kan tillreda på allehanda vis. Jag fortsätter i min drömvärld och ger er ett finfint recept på en härligt somrig sallad.
 
-![](images/10354164_725677584151716_6398980565411678518_n.jpg)
+![](/static/img/10354164_725677584151716_6398980565411678518_n.jpg)
 
 Vem hade inte velat bli bjuden på en middag i denna oas?
 
-![Malmö Garden Show 2013](images/MG_5875-550x825.jpg)
+![Malmö Garden Show 2013](/static/img/MG_5875-550x825.jpg)
 
 Trädgårdsmarknad  
   
-[![20140602-095537-35737601.jpg](images/20140602-095537-35737601.jpg)](http://import.local/wp-content/uploads/2014/06/20140602-095537-35737601.jpg) **Betsallad med kalkon, bacon och fetaost**
+[![20140602-095537-35737601.jpg](/static/img/20140602-095537-35737601.jpg)](http://import.local/wp-content/uploads/2014/06/20140602-095537-35737601.jpg) **Betsallad med kalkon, bacon och fetaost**
 
 _**2 stora portioner**_
 

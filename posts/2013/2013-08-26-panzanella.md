@@ -5,7 +5,7 @@ categories:
   - "allmant"
 ---
 
-Det här med säsongsmat når sin topp nu när tomterna är som allra allra bäst. Ska man göra panzanella så är det nu eller aldrig. Tomatsalladen från Toscana gjort på gammalt bröd och solmogna härliga tomater. Detta är lycka! Do it! [![20130826-204438.jpg](images/20130826-204438.jpg)](http://import.local/wp-content/uploads/2013/08/20130826-204438.jpg) Originalreceptet är gjort av vår vän Paul Svensson på recept.nu
+Det här med säsongsmat når sin topp nu när tomterna är som allra allra bäst. Ska man göra panzanella så är det nu eller aldrig. Tomatsalladen från Toscana gjort på gammalt bröd och solmogna härliga tomater. Detta är lycka! Do it! [![20130826-204438.jpg](/static/img/20130826-204438.jpg)](http://import.local/wp-content/uploads/2013/08/20130826-204438.jpg) Originalreceptet är gjort av vår vän Paul Svensson på recept.nu
 
 **Panzanella** 2 paprikor, gul & röd **dressingen** 1 msk kapris 1 msk rödvinsvinäger 1/3 kruka basilika 2 tomater 2 dl olivolja 1 vitlöksklyfta svartpeppar
 

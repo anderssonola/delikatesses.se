@@ -13,4 +13,4 @@ Kör fisken i en matberedare så fisken blir till en färs. Klipp dill och gräs
 
 Servera med potatis- och palsternackspuré, skirat/brynt smör och gröna ärtor tom. lingon funkar för den som vill.  
   
-[![20130123-182727.jpg](images/20130123-182727.jpg)](http://import.local/wp-content/uploads/2013/01/20130123-182727.jpg)
+[![20130123-182727.jpg](/static/img/20130123-182727.jpg)](http://import.local/wp-content/uploads/2013/01/20130123-182727.jpg)

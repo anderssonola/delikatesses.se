@@ -6,7 +6,7 @@ categories:
 ---
 
 Igår firade vi lite förpåsk med svärföräldrarna. Vi bjöd på påskinspirerad middag där vårt lilla lamm spelade första fiol. Vi startade dock med en sparristarte med parmesan och god topping. Vi väntar med äggrullning och äggömmor till nästa lördag då det ska rullas påskgubbehatt och hoppas hare.  
-[![20140414-214720.jpg](images/20140414-214720.jpg)](http://import.local/wp-content/uploads/2014/04/20140414-214720.jpg) **Sparristarte med parmesan** 125 gram smör 3 dl mjöl 1 tsk salt en skvätt vatten
+[![20140414-214720.jpg](/static/img/20140414-214720.jpg)](http://import.local/wp-content/uploads/2014/04/20140414-214720.jpg) **Sparristarte med parmesan** 125 gram smör 3 dl mjöl 1 tsk salt en skvätt vatten
 
 2 ägg 2 äggulor( kan uteslutas) 2 dl grädde 1 dl riven parmesan 1 knippe sparris Svartpeppar
 

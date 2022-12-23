@@ -17,9 +17,9 @@ tags:
 
 Rött konstigt det där med julgodis. Varför är det bara till jul man hetsar och ska göra eget godis, varför inte till en vanlig lördag då man ändå är sugen på nåt gott?! Alla andra veckor om året handlar man sin godispåse, men julveckan ska det vara hemgjort. Jag tror att mitt nyårslöfte i år inte ska vara det vanliga att äta mindre godis och gå ner i vikt....nej, det ska vara att göra mer eget godis! Vi plockar ändå marmeladgodis i påsen i godisaffären så varför inte. Men först gör vi lite julgodisar!  
   
-[![IMG_5950.JPG](images/IMG_5950.jpg)](http://import.local/wp-content/uploads/2014/12/IMG_5950.jpg)  
+[![IMG_5950.JPG](/static/img/IMG_5950.jpg)](http://import.local/wp-content/uploads/2014/12/IMG_5950.jpg)  
   
-[![IMG_5915.JPG](images/IMG_5915.jpg)](http://import.local/wp-content/uploads/2014/12/IMG_5915.jpg) En ypperlig gå-bort-present
+[![IMG_5915.JPG](/static/img/IMG_5915.jpg)](http://import.local/wp-content/uploads/2014/12/IMG_5915.jpg) En ypperlig gå-bort-present
 
 **Chokladfudge med polkaströssel** 50 gram smör 3 msk kakao 5 dl socker 2 dl matlagningsgrädde 2 krm pepparmynts arom 1½ krm salt 100 gram mörk choklad, 60-70 % kakaohalt 2 msk ljus sirap
 

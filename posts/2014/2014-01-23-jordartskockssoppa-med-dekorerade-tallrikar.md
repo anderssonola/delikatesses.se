@@ -19,7 +19,7 @@ tags:
 
 Ibland snöar jag in på vissa ingredienser. Just nu är jordärtskockan hårt utsatt. Det är precis som att jag dras till den i hyllan i affären. Oftast då enkelt men otroligt gott. Förra lördagen hade jag inte bestämt någon förrätt till middagen på morgonen. Jag var borta en snabb sväng till affären för att köpa glömda saker till frukosten, men ut kommer jag även med ekologiska jordärtskockor och rökt lax. Jag märkte knappt att jag tog det, men så blev det. Resten till förrätten bestod av kylskåpsrens...  
   
-[![20140123-172355.jpg](images/20140123-172355.jpg)](http://import.local/wp-content/uploads/2014/01/20140123-172355.jpg) **Jordärtskockssoppa** 12 portioner 2 kg jordärtskockor, ekologiska såklart 2 potatisar vatten så det täcker, ca 1,5liter 1 msk grönsaksbuljong 2 dl grädde salt och peppar
+[![20140123-172355.jpg](/static/img/20140123-172355.jpg)](http://import.local/wp-content/uploads/2014/01/20140123-172355.jpg) **Jordärtskockssoppa** 12 portioner 2 kg jordärtskockor, ekologiska såklart 2 potatisar vatten så det täcker, ca 1,5liter 1 msk grönsaksbuljong 2 dl grädde salt och peppar
 
 **Brödsmulor** 2 dagsgammalt bröd rapsolja kryddblandning om man vill, jag hade nåt torkat grönt som jag köpt på marknad. salt & svartpeppar
 

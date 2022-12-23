@@ -16,7 +16,7 @@ tags:
 
 Trots att vi bara har en halv frys med 4  (_läs alldeles för små_) lådor så är det ofta så, som det gamla ordspråket säger "att det som göms i snö kommer upp i tö". Jag försöker ha någorlunda ordning med bär och grönsaker längst ner, kakor, bullar och glass i trean osv, men när det inte får rum så byter vissa saker plats. Alla som spelat Tetris kan förstå hur frysspelet går till när det kommer hem lite för många varor som vill bo extra kallt. Detta behöver inte alls vara av ondo, nej snarare tvärt om. När man minst anar det så dyker det upp en flaska fläderblomssaft som haft sin Törnrosasömn i lite olika lådor under året. Vi välkomnade och gjorde en Elderflower pie i Key-lime-pie-style.
 
-[![image](images/image4-e1428957274925-768x1024.jpg)](http://import.local/wp-content/uploads/2015/04/image4.jpg)
+[![image](/static/img/image4-e1428957274925-768x1024.jpg)](http://import.local/wp-content/uploads/2015/04/image4.jpg)
 
 **Elderflower pie**
 

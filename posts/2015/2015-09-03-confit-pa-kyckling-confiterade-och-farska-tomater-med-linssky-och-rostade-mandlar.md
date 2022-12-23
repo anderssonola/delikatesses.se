@@ -16,7 +16,7 @@ tags:
 
 Kylskåpsrens när den är som bäst! Vi confiterade kyckling för ett tag sen och blir det över av såna fina grejor så kan de snällt vila i sitt fett i kylen tills man behöver dom igen. Ikväll behövdes dom till middag. Ackompanjerade med variation på tomat - om nu skurna färska svenska tomater räknas som en variation.....De confiterade tomaterna får en koncentrerad smak och en oslagbar sötma. De färska ger textur och lite syra. Linserna i den reducerade buljongen skapar kraft i rätten och mandlarna ger en fin brytning till allt det mjuka. Hade nu inte min vinkyl ekat tom så hade jag korkat upp en flaska Pinot Noir så här en torsdag och serverat i glasen. Tipset ligger på _**District 7**_ som blir din för 119:- och står under nr 6578 på Systembolagets hyllor. By the way så går vår lilla bebis.....
 
-[![IMG_0858](images/IMG_0858-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/09/IMG_0858.jpg)
+[![IMG_0858](/static/img/IMG_0858-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/09/IMG_0858.jpg)
 
 ## Confit på kyckling, confiterade och färska tomater med linssky och rostade mandlar
 

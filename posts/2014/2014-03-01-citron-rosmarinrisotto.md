@@ -7,7 +7,7 @@ categories:
 
 När man skriver matblogg förväntas det att alla inlägg har en liten klatschig text som i slutändan hör ihop med det man lagat. Detta kommer inte bli ett sådant. Jag kommer inte på nåt finurligt att berätta utan ger er bara helt sonika ett recept som inte ens jag lagat utan han den där Ola som jag brukar hashtagga som #hankan på instagram. Varsågoda!  
   
-[![20140301-212327.jpg](images/20140301-212327.jpg)](http://import.local/wp-content/uploads/2014/03/20140301-212327.jpg) **Citron- & rosmarinrisotto** 4 portioner
+[![20140301-212327.jpg](/static/img/20140301-212327.jpg)](http://import.local/wp-content/uploads/2014/03/20140301-212327.jpg) **Citron- & rosmarinrisotto** 4 portioner
 
 4 dl carnaroli, eller annat risottoris 2 stora schalottenlökar 1 stjälk blekselleri 1 dl vitt vin, eller två munfullar om kocken sätter måtten 12 dl grönsaksbuljong 2 rejäla skvättar olivolja 1-1,5 dl parmesan 1 klick smör
 

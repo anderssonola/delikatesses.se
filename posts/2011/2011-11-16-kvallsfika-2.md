@@ -18,4 +18,4 @@ Rör ihop fil/yoghurt med sirapen. Stöt anis och fänkål i mortel och tillsät
 
 Lägg på lägg på galler i någon minut och ber sedan med smör och ost eller varför inte en färsk ost.
 
-[![](images/pic_175236881-224x300.jpg "pic_175236881")](http://import.local/wp-content/uploads/2012/01/pic_175236881.jpg)
+[![](/static/img/pic_175236881-224x300.jpg "pic_175236881")]

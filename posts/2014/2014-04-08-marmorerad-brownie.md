@@ -14,11 +14,11 @@ tags:
 
 Förra helgen fyllde föräldrarna år och det bjöds på kalas. I våffeltider bjöds det på hjärtan toppade med räk- & kräftröra. Som huvudrätt ställdes det fram fläskfilé tonato, en glömd klassiker som verkligen är att rekommendera, följt av glass med färsk fruktsallad. Här skulle man kunna tro att det var slut då vi alla var ganska mätta, men icke! Kaffe och kaka skulle med fram. Dock behövde vi en paus och lilla E ville hemskt gärna "gonga"( gunga för renspråkiga människor) Lilla E och Farmor farmor Birgit, 80+ var först ut.  
   
-[![20140408-094443.jpg](images/20140408-094443.jpg)](http://import.local/wp-content/uploads/2014/04/20140408-094443.jpg) _På bilden lillasyster Sandra och min fantastiska farmor_
+[![20140408-094443.jpg](/static/img/20140408-094443.jpg)](http://import.local/wp-content/uploads/2014/04/20140408-094443.jpg) _På bilden lillasyster Sandra och min fantastiska farmor_
 
 Mamma hade dammat av ett recept som jag nästan glömt, marmorerad brownie, bättre än vilken tårta som helst.  
   
-[![20140404-114908.jpg](images/20140404-114908.jpg)](http://import.local/wp-content/uploads/2014/04/20140404-114908.jpg) **Marmorerad brownie** 200 gram smör 250 gram mörk choklad, block funkar 4 dl socker 2 ½ dl vetemjöl 1 ½ tsk bakpulver 1 msk vaniljsocker 4 ägg **_Marmorn_** 200 gram philadelphia 1/2 dl florsocker 1 äggvita
+[![20140404-114908.jpg](/static/img/20140404-114908.jpg)](http://import.local/wp-content/uploads/2014/04/20140404-114908.jpg) **Marmorerad brownie** 200 gram smör 250 gram mörk choklad, block funkar 4 dl socker 2 ½ dl vetemjöl 1 ½ tsk bakpulver 1 msk vaniljsocker 4 ägg **_Marmorn_** 200 gram philadelphia 1/2 dl florsocker 1 äggvita
 
 smält smör och kokos till formen
 

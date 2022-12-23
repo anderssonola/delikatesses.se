@@ -15,7 +15,7 @@ Jordärtskockan är en fantastisk liten knöl som kan skördas två gånger om �
 
                                                                                    
 
-_**![](images/IMG_3662-1024x682.jpg "IMG_3662")**_
+_**![](/static/img/IMG_3662-1024x682.jpg "IMG_3662")**_
 
 ½ kg jordärtskockor
 

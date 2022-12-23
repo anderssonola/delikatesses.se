@@ -13,7 +13,7 @@ tags:
   - "torsk"
 ---
 
-Hey! Jag är tillbaka. Var har jag varit då? Jo jag har mest varit på jobbet. Köpt lite (l**_äs stort_**) hus\* yey\*, stylat lite lägenhet för försäljning. Men nu kliade det i fingrarna så här kommer ett fin, fint recept från senaste Buffé. Galet gott och frächt som passar ypperligt att hälsa våren välkommen med. ![IMG_1253](images/IMG_1253-1020x1020.jpg)
+Hey! Jag är tillbaka. Var har jag varit då? Jo jag har mest varit på jobbet. Köpt lite (l**_äs stort_**) hus\* yey\*, stylat lite lägenhet för försäljning. Men nu kliade det i fingrarna så här kommer ett fin, fint recept från senaste Buffé. Galet gott och frächt som passar ypperligt att hälsa våren välkommen med. ![IMG_1253](/static/img/IMG_1253-1020x1020.jpg)
 
  
 

@@ -19,9 +19,9 @@ tags:
 
 Att jag inte delat med mig av det här receptet är skandal. Vi har gjort denna salladen ett par år. En sallad som passar till typ allt. Så himla goda, enkla smaker. Det enda som vi fortfarande inte riktigt gör enligt receptet är att ha i 6! sardellfiléer. Fortfarande inte helt bekväm med sardellers sällskap, det får ju liksom inte bara smaka fisk. Om någon av er där ute vågar så får ni jättegärna höra av er och berätta om det smakar fisk eller bara höjer de andra smakerna. Här förblir vi (läs jag) nog alltid fegisar. Ola däremot  äter det mest konstiga. När vi var i Barcelona åt han både små hela friterade fiskar (som stirrade på en) och sardiner. Jag kan inte riktgt med det, får för mig att jag tuggar på sånt som man inte ska äta på fisken.....knäppt, jag vet. Men hur goda ser dom ut egentligen? Men salladen däremot är finfin!
 
-[![IMG_3702](images/IMG_3702-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_3702.jpg)
+[![IMG_3702](/static/img/IMG_3702-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_3702.jpg)
 
-[![IMG_8841](images/IMG_8841-1020x680.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_8841.jpg)
+[![IMG_8841](/static/img/IMG_8841-1020x680.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_8841.jpg)
 
 **Italiensk bönsallad**
 

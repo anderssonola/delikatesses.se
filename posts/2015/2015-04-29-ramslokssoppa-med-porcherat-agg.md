@@ -15,7 +15,7 @@ tags:
 
 Nu ska jag berätta om vår ramslöksbonanza. Det hela började för ett par veckor sen när vi styrde kosan mot en bokskog nära oss (nära skog i södra Skåne är relativt...). Det ska nämligen vara lite våt bokskog med fuktig jord för att ramslöken ska trivas. Och som den trivs om den trivs. Hittar man en tuva så se er omkring för då står ni förmodligen i ett helt hav. Ramslök ser ut som liljekonvaljblad, men doftar gräslök och lite vitlök. Den kallas även vild vitlök. Bladen tappar lite av sin smak när den börjat blomma. Blommorna är med ätliga och kan snyggt läggas på maten likt gräslöksblommor. Eftersom det bara är precis nu som det är säsong så får man plocka på sig så man har till resten av året. Min frys är full. För vem vill inte sörpla i sig en ramslökssoppa när nordanvinden blåser in höst över oss.
 
-[![image](images/image11-e1430374350574-768x1024.jpg)](http://import.local/wp-content/uploads/2015/04/image11.jpg)[![image](images/image10-e1430374371545-768x1024.jpg)](http://import.local/wp-content/uploads/2015/04/image10.jpg)
+[![image](/static/img/image11-e1430374350574-768x1024.jpg)](http://import.local/wp-content/uploads/2015/04/image11.jpg)[![image](/static/img/image10-e1430374371545-768x1024.jpg)](http://import.local/wp-content/uploads/2015/04/image10.jpg)
 
 **Ramslökssoppa med pocherat ägg**
 

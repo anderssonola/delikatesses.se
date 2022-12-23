@@ -11,7 +11,7 @@ tags:
   - "namnsdagsbarn"
 ---
 
-Idag ska det kalasas igen. Vi firar vår lilla hönas första namnsdag, hennes andranamn, Elna ska firas stort idag. När Selma inte orkar fira sig själv mer så åker vi till min lilla mormor som firar sin 80-års dag idag. Det blir traditionsenlig smörgåstårta. Hurra för mormor! Om Selma hade fått välja fika så hade hon nog valt dumlebiskvier som namnsdagsfika. Hennes föräldrar lyfter på hatten och tackar för valet. [![image](images/image7.jpg)](http://import.local/wp-content/uploads/2015/01/image7.jpg) [![image](images/image6-e1422703400920-768x1024.jpg)](http://import.local/wp-content/uploads/2015/01/image6.jpg) **Dumlebiskvier** Antalet kan variera beroende på storlek....
+Idag ska det kalasas igen. Vi firar vår lilla hönas första namnsdag, hennes andranamn, Elna ska firas stort idag. När Selma inte orkar fira sig själv mer så åker vi till min lilla mormor som firar sin 80-års dag idag. Det blir traditionsenlig smörgåstårta. Hurra för mormor! Om Selma hade fått välja fika så hade hon nog valt dumlebiskvier som namnsdagsfika. Hennes föräldrar lyfter på hatten och tackar för valet. [![image](/static/img/image7.jpg)](http://import.local/wp-content/uploads/2015/01/image7.jpg) [![image](/static/img/image6-e1422703400920-768x1024.jpg)](http://import.local/wp-content/uploads/2015/01/image6.jpg) **Dumlebiskvier** Antalet kan variera beroende på storlek....
 
 125 gram mandelmassa 1 äggvita 1/2 dl socker
 

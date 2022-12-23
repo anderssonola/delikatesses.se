@@ -14,6 +14,3 @@ Jag är inte mycket för helfabrikat. Jag kokar fonder, maler kött och odlar kr
 
 Skär laxen i tärningar. Marinera med ingefära, limeskal( bara det yttersta gröna) och fisksåsen. Skär morot och purjolök i tunna stavar sk Julienne. Blanda ihop båda sopporna. Värm på medelvärme. Jag brukar vispa soppan rätt kraftigt så den blir lite skummig. Stek laxkuberna på hög värme så de får yta. Stek grönsakerna en snabbis så de blir varma. Lägg laxen i tallriken. Toppa med grönsakerna, kräftstjärtar och en limeklyfta. Häll på soppa and done, som Gordon hade sagt.
 
-Soppan
-
-[![](images/pic_175411875-224x300.jpg "pic_175411875")](http://import.local/wp-content/uploads/2012/01/pic_175411875.jpg)

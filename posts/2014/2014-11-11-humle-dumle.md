@@ -15,15 +15,15 @@ tags:
 
 Instagram är en fantastisk uppfining. Inte nog med att jag kan dokumentera mitt varande och ätande, jag kan få hjälp med att hitta den perfekta skötväskan, _som helt lötsligt var slut i hela riket_, samt att jag kan få inspiration till massa gott som vänner och obekanta lägger upp. Ett sånt moment inträffade förra veckan då min fina kompis Ida gav sig på att baka Dumle cookies. Receptet hade hon hittat på [Jennys blogg.](http://jennysmatblogg.damernasvarld.se/2014/08/27/dumle-kakor/)
 
-![](images/zoom.jpg)
+![](/static/img/zoom.jpg)
 
 Min galet snygga skötväska från Littlephant....
 
 Den manliga delen av hushållet fullkomligen älskar Dumlekolor, min pappa gillar en _(läs två)_ kaka till kaffet och jag gillar att baka. Win win, då vi skulle ha nåt gott till kaffet i söndags. Så på lördagskvällen öppnades det dumlekolor och rullades bollar vilket resulterade i finfin fika till fars dag. Dessa godingar kommer vara återkommande i vår frys. Upptäckte idag att sega kakor är lika goda direkt från frysen.....
 
-[![IMG_6888](images/IMG_6888-1024x682.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_6888.jpg)
+[![IMG_6888](/static/img/IMG_6888-1024x682.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_6888.jpg)
 
-[![IMG_6900](images/IMG_6900-1024x682.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_6900.jpg)
+[![IMG_6900](/static/img/IMG_6900-1024x682.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_6900.jpg)
 
 **Sega dumlekakor**
 

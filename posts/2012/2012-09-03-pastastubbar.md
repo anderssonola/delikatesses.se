@@ -7,7 +7,7 @@ categories:
 
 Nu är det så dags att verkligen komma in i vardagsrutinerna. Vissa dagar i veckan behöver vi enkla och snabba recept. Här är ett! Kommer inte riktigt ihåg i vilken tidning jag såg det, men det var ungefär som receptet nedan. Har ju [tidigare](http://import.local/2011/11/17/lyxig-fiusksoppa-2/ "fusksoppa") använt Keldas soppor som jag tycker är bra grundkryddade. Att äta helfabrikat är inte riktigt min grej i vanliga fall, men ibland måste man kunna få ta genvägar.
 
-[![](images/IMG_5510-1024x682.jpg "IMG_5510")](http://import.local/wp-content/uploads/2012/08/IMG_5510.jpg)
+[![](/static/img/IMG_5510-1024x682.jpg "IMG_5510")](http://import.local/wp-content/uploads/2012/08/IMG_5510.jpg)
 
 _Lägg märke till våra fantastisk små söta egenodlade tomater._
 

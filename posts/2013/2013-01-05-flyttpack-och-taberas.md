@@ -29,6 +29,6 @@ Det finns inte några egentliga regler, men att tänka som en meny är ganska br
 
 Ungefär i den ordningen läggs det på. Låt smakfantasin flöda!
 
-[![20130105-210826.jpg](images/20130105-210826.jpg)](http://import.local/wp-content/uploads/2013/01/20130105-210826.jpg)
+[![20130105-210826.jpg](/static/img/20130105-210826.jpg)](http://import.local/wp-content/uploads/2013/01/20130105-210826.jpg)
 
 Till detta dricker vi en Nils Oscar god lager ( 1305)

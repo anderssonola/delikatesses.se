@@ -7,13 +7,13 @@ categories:
 
 Förra veckan drog vi på oss gummistövletterna och begav oss ut i Norra skånes skogar för att leta skogens guld. Sommarkantarellerna leker tittut och vi letar upp deras gömställen. En till som blev påkommen var den läskiga lååååååånga svarta snoken som skrämde livet på mig _(och jag förmodligen på den)_, vi tog oss åt vars ett håll så att säga.... Hua så läskigt! Jag fick lugna nerverna en aning, men sen var det på det igen. En liter fick vi ihop på timmen vi var ute. Räcker gott till en svampmacka eller till en ny omgång av svampraviolin vi gjorde för någon vecka sen, dock den gången utan kantareller.
 
-[![image](images/image2-1020x765.jpg)](http://import.local/wp-content/uploads/2015/08/image2.jpg)
+[![image](/static/img/image2-1020x765.jpg)](http://import.local/wp-content/uploads/2015/08/image2.jpg)
 
  
 
-[![image](images/image-1020x765.jpg)](http://import.local/wp-content/uploads/2015/08/image.jpg)
+[![image](/static/img/image-1020x765.jpg)](http://import.local/wp-content/uploads/2015/08/image.jpg)
 
-[![image](images/image1-e1439287766238-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/08/image1.jpg)
+[![image](/static/img/image1-e1439287766238-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/08/image1.jpg)
 
 **Pastadeg** 500 gram durumvetemjöl 5 ägg, ekologiska såklart 1 nypa salt
 

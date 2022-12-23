@@ -10,7 +10,7 @@ tags:
   - "kola"
 ---
 
-En vecka till julafton och jag har precis klickat hem årets julkort. Yepp, ni hörde rätt. Hon-som-alltid-pysslar-sina-egna-julkort har klickat hem färdiga. Jag har ju dock tagit bilderna så man skulle väl kunna säga att det kreativa ändå är egengjort. Nåt annat som med är egengjort är de gudomliga brynta smörkolorna som fick koka  ihop i vårt lilla kök. Guess what jag mumsar på i detta nu.... Receptet är Sara Aasum Hultbergs. Hon lägger upp grymma videor och recept på hemgjortgodis via recept.nu. ![IMG_0222](images/IMG_0222-1020x1020.jpg)
+En vecka till julafton och jag har precis klickat hem årets julkort. Yepp, ni hörde rätt. Hon-som-alltid-pysslar-sina-egna-julkort har klickat hem färdiga. Jag har ju dock tagit bilderna så man skulle väl kunna säga att det kreativa ändå är egengjort. Nåt annat som med är egengjort är de gudomliga brynta smörkolorna som fick koka  ihop i vårt lilla kök. Guess what jag mumsar på i detta nu.... Receptet är Sara Aasum Hultbergs. Hon lägger upp grymma videor och recept på hemgjortgodis via recept.nu. ![IMG_0222](/static/img/IMG_0222-1020x1020.jpg)
 
 ## Brynt smörkola
 

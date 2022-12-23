@@ -10,7 +10,7 @@ categories:
 
 Lemoncurd är fantastiskt på scones, maräng och inte minst till jordgubbar. Men curd går ju att göra på alla citrusfrukter. Jag hade en grapefrukt liggandes som fick bli en finfin grapecurd, allt efter härlig inspiration från en av mina favoritbloggar som gjorde [en variant på blodapelsin](http://www.jasonandshawnda.com/foodiebride/archives/10388 "blood orange curd").
 
-[![](images/IMG_3673-1024x682.jpg "IMG_3673")](http://import.local/wp-content/uploads/2012/03/IMG_3673.jpg)
+[![](/static/img/IMG_3673-1024x682.jpg "IMG_3673")](http://import.local/wp-content/uploads/2012/03/IMG_3673.jpg)
 
 **Grapecurd**
 
@@ -34,4 +34,4 @@ Blanda äggen, sockret, zest och juicen i en bunke över ett vattenbad, vispa ih
 
                                                                                                                  _Jag hade min curd till våfflorna...._
 
-[![](images/IMG_3664-150x150.jpg "IMG_3664")](http://import.local/wp-content/uploads/2012/03/IMG_3664.jpg)
+[![](/static/img/IMG_3664-150x150.jpg "IMG_3664")](http://import.local/wp-content/uploads/2012/03/IMG_3664.jpg)

@@ -15,4 +15,4 @@ Den argentinska motsvarigheten till korv med bröd!
 
 Hacka vitlök & oreganobladen. Kärna ur chilin och hacka även den. Blanda allt i en skål och häll på olja, vinäger och socker. Smaka av med salt & peppar. Lägg i en tätslutande burk, håller i ca vecka. Stek korven i ugnen i ca 20 min på 175 grader. Dela baguetten i 4 delar, skär ett snitt i dem och ringla lite chimichurri. Lägg en korv i varje bröd och toppa med ytterligare chimichurri. Servera genast!  
   
-[![20130206-151209.jpg](images/20130206-151209.jpg)](http://import.local/wp-content/uploads/2013/02/20130206-151209.jpg)
+[![20130206-151209.jpg](/static/img/20130206-151209.jpg)](http://import.local/wp-content/uploads/2013/02/20130206-151209.jpg)

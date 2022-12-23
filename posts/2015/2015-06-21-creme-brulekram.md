@@ -10,7 +10,7 @@ Efter en fantastisk midsommarafton och en mysig midsommardag pillar vi mest nave
 
 På matfronten då?! Jo, jag funderar på att lägga till en etikett till i sökfunktionen, nämligen **mumsfilibabba**. För sånt där som är så bra att det borde vara förbjudet att inte testa. Vi åt denna ungefär samtidigt som Prinsessan Sofia och Calle P skar upp sin bröllopstårta. Himla, himla glad att jag hittade detta recept i en Mat & vänner. Själva tillbehören kan säkert varieras i oändlighet och havrekakorna är goda som sällskap när man ska ta sig en kopp.
 
-[![IMG_3732](images/IMG_3732-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_3732.jpg)
+[![IMG_3732](/static/img/IMG_3732-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_3732.jpg)
 
 # **Crème Brüle-kräm med havre crunch och hallon**
 

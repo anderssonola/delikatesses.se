@@ -5,7 +5,7 @@ categories:
   - "allmant"
 ---
 
-Fish' n chips är fantastiskt gott! Så gott att det inte blev någon bild på härligheten utan bara på det som blev kvar, den lilla citronen. Efter detta kommer du inte se åt remoulad på hyllan i affären.... Man kan välja att göra frityrsmet och mushy peas med mintsmak men då får ni leta i en annan blogg.... [![20120109-211650.jpg](images/20120109-211650.jpg)](http://import.local/wp-content/uploads/2012/01/20120109-211650.jpg)
+Fish' n chips är fantastiskt gott! Så gott att det inte blev någon bild på härligheten utan bara på det som blev kvar, den lilla citronen. Efter detta kommer du inte se åt remoulad på hyllan i affären.... Man kan välja att göra frityrsmet och mushy peas med mintsmak men då får ni leta i en annan blogg.... [![20120109-211650.jpg](/static/img/20120109-211650.jpg)](http://import.local/wp-content/uploads/2012/01/20120109-211650.jpg)
 
 **Fish' n chips** 4 personer
 

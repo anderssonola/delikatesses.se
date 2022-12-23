@@ -21,7 +21,7 @@ tags:
 
 Först ska jag göra en pudel.... Givetvis så är lilla S, Simba ett lejon och inte en tiger. Så nu när detta är gjort så går vi in på viktigheter i livet. Mat och vin i kombination. Det behöver inte vara så svårt och skitnödigt som alla tror. Man lär sig några grundregler och får sen dricka sig igenom ett gäng viner innan man hittar rätt. Precis som med mycket annat så är smaken som baken, delad. När vi var på Noma för ett par år sedan fick vi in ett vin till ett ostron som förstärkte ostronets smak gånger 7 och fick vinet att smaka hav, vilket säkert är fantastiskt för den som älskar ostron. I don't! Både vinet och rätten blev helt fel där, trots att det var en match made in heaven. Börja med grunderna. Vilka smaker har vi i maträtten? Sälta, fetma, sötma,syra eller hetta. Det är detta vinet ska passa till. Det thailändska köket är otroligt smakrikt. Här återfinns både extrem hetta, syra, sötma och mycket umami från den traditionella fisksåsen som ingår i nästan alla rätter. Hettan är det första som ställer till det. Ett rött fatlagrat vin blir helt fel. Det blir strävt och spritigt. Chili och ingefärshetta behöver fruktsötma. Syran i maten behöver syran från vinet för att plocka fram druvigheten, frukten och det aromatiska. Ni kommer förstå om ni testar detta.
 
-![IMG_2127.JPG](images/IMG_2127.jpg)**Asiatisk biff med ingefärsdressing och glasnudelsallad** 4 personer
+![IMG_2127.JPG](/static/img/IMG_2127.jpg)**Asiatisk biff med ingefärsdressing och glasnudelsallad** 4 personer
 
 _Salladen_ 50g cashewnötter, neutrala 1 msk solrosfrön 2 msk sesamfrö 200 gram glasnudlar 1 romansallad 1 stor morot 1 bunte rädisor ½ gurka 1 stor bunt koriander 3 salladslök 1 ask krasse ½ ask alfalfagroddar
 

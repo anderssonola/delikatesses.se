@@ -18,7 +18,7 @@ tags:
 
 Sådär ja. Då hittade jag lite styrka att logga in och skriva ett par rader. De senaste två veckorna har jag roat mig med influensan feberyrat och hört änglars vingslag. Började med 5 dagars hög feber, kroppen la på lite hosta som ledde till minimal sömn och som ett brev på posten ådrog jag mig en lunginflammation och i morse vaknade jag med en mansförkylning. Nästan kul att vara jag just nu.... men hey jag har ätit god mat. Stålmannen till karl jag lever med har vabbat, vobbat, kommit hem tidigare och tagit ungen på armen samtidigt som han lagat mat, handlat och städat. När man är en liten ynk så blir man genast lite gladare om man får finfin ramensoppa. Japansk buljongsoppa typ den vietnamesiska Pho. Givetvis finns det lika många recept på denna som det finns japaner. Denna hittade vi i ett receptblad från MatHem.se. Skulle det nu vara så att någon där ute vill skicka konvalecensblommor till Ostindiefararegatan i Malmö så går det bra med större vackra blomsterarrangemang, små gulliga nallebjörnar eller rejäla chokladaskar.
 
-![IMG_0623](images/IMG_0623-1020x1020.jpg)
+![IMG_0623](/static/img/IMG_0623-1020x1020.jpg)
 
 ## Ramensoppa
 

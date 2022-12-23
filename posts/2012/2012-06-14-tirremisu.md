@@ -9,7 +9,7 @@ Denna dessert uppkom en kväll då suget efter tiramisú blev för stort. Det bl
 
  
 
-[![](images/IMG_4420-682x1024.jpg "IMG_4420")](http://import.local/wp-content/uploads/2012/06/IMG_4420.jpg)
+[![](/static/img/IMG_4420-682x1024.jpg "IMG_4420")](http://import.local/wp-content/uploads/2012/06/IMG_4420.jpg)
 
 200g Mascarpone
 

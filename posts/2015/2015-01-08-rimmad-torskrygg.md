@@ -17,17 +17,17 @@ tags:
   - "torsk"
 ---
 
-Sådär, då har vi landat i det nya året. Igår var vi tillbaka i vardagen igen och Ola gick till jobbet och vi låg kvar i sängen... Både jag och lilla hjärtat är lite sjusovare. Tänkte dela med mig av lite av vår nyårsmeny. Det började egentligen redan på eftermiddagen med Hans up-side-down-kladdkaka. Låter spännande, eller hur. Är ganska enkel. Rör ihop en kladdkaksmet enligt konstens alla regler, grädda i ugnen till önskad konsistens, kladdig. När du sen ska ta ut den vänder du den upp och ner på ugnsluckan, svär tyst för dig själv, skrapa sen upp den i en tallrik och servera med vaniljglass. Succé!! [![IMG_7340](images/IMG_7340-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7340.jpg) Efter fikan var det så dags för förberedelse av middagen. Förrätt bestående av gratinerad hummer, creme brulé med myntamarinerad citrussallad till dessert och däremellan åt vi fina fisken nedan.
+Sådär, då har vi landat i det nya året. Igår var vi tillbaka i vardagen igen och Ola gick till jobbet och vi låg kvar i sängen... Både jag och lilla hjärtat är lite sjusovare. Tänkte dela med mig av lite av vår nyårsmeny. Det började egentligen redan på eftermiddagen med Hans up-side-down-kladdkaka. Låter spännande, eller hur. Är ganska enkel. Rör ihop en kladdkaksmet enligt konstens alla regler, grädda i ugnen till önskad konsistens, kladdig. När du sen ska ta ut den vänder du den upp och ner på ugnsluckan, svär tyst för dig själv, skrapa sen upp den i en tallrik och servera med vaniljglass. Succé!! [![IMG_7340](/static/img/IMG_7340-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7340.jpg) Efter fikan var det så dags för förberedelse av middagen. Förrätt bestående av gratinerad hummer, creme brulé med myntamarinerad citrussallad till dessert och däremellan åt vi fina fisken nedan.
 
-[![IMG_7341](images/IMG_7341-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7341.jpg)
+[![IMG_7341](/static/img/IMG_7341-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7341.jpg)
 
-[![IMG_7348](images/IMG_7348-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7348.jpg)
+[![IMG_7348](/static/img/IMG_7348-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7348.jpg)
 
-[![IMG_7354](images/IMG_7354-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7354.jpg)
+[![IMG_7354](/static/img/IMG_7354-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7354.jpg)
 
-[![IMG_7360](images/IMG_7360-683x1024.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7360.jpg)
+[![IMG_7360](/static/img/IMG_7360-683x1024.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7360.jpg)
 
-[![IMG_7366](images/IMG_7366-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7366.jpg) Tack värdparet för ett trevligt nyårsfirande❤️
+[![IMG_7366](/static/img/IMG_7366-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7366.jpg) Tack värdparet för ett trevligt nyårsfirande❤️
 
 **Lättrimmad torskrygg med blomkålspuré, rödbeta, fläskströssel samt brynt smörsås** 6 bitar torskrygg á150-200gram 8 dl vatten 2 msk salt 2 msk socker
 

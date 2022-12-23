@@ -7,7 +7,7 @@ categories:
 
 Köttfria dagar borde alla prova på! Förstår inte riktigt ramaskriet som pågår runt om i vårt avlånga land... Förmodligen bottnar det hela i okunskap om vad man ska göra med grönsaker. Allt behöver inte vara kött, potatis och sås. Ett bra exempel är denna finfina gryta med mängder av smaker och mättande grönsaker!
 
-[![](images/IMG_3544-1024x682.jpg "IMG_3544")](http://import.local/wp-content/uploads/2012/02/IMG_3544.jpg)
+[![](/static/img/IMG_3544-1024x682.jpg "IMG_3544")](http://import.local/wp-content/uploads/2012/02/IMG_3544.jpg)
 
 **Currygryta** 2 st gul lök 1 st butternutpumpa 1 st blomkålshuvud, litet 1 st färsk chili(kan uteslutas) 4 st vitlöksklyftor 0.5 burk rogan josh-pasta, Patak’s (à 283g)(går att göra [egen](http://http://www.tasteline.com/Recept/rogan_josh "egen"), uteslut lammet och halvera receptet, mixa ihop allt) 400 g kikärtor (antingen blötlagda eller på burk) 100 g babyspenat 500 g yoghurt, naturell
 

@@ -20,4 +20,4 @@ Servera med **Wells Banana bread beer**(nr 89241). En English strong ale ( över
 
 A match made in heaven!!!
 
-[![20120906-103604.jpg](images/20120906-103604.jpg)](http://import.local/wp-content/uploads/2012/09/20120906-103604.jpg)
+[![20120906-103604.jpg](/static/img/20120906-103604.jpg)](http://import.local/wp-content/uploads/2012/09/20120906-103604.jpg)

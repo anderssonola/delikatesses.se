@@ -21,7 +21,7 @@ Fina vänner på besök, ett par dagar hos föräldrarna, 2-årskalas med tågt�
 
 Men vill man ha en toppenrätt till kvällens grill så är detta dagens tips. Sallad hämtad från boken Matiga sallader. Uteslut inte russinen, förvånadsvärt goda även för icke russinälskare.
 
-[![IMG_8229](images/IMG_8229-e1437946212758-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/07/IMG_8229.jpg)
+[![IMG_8229](/static/img/IMG_8229-e1437946212758-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/07/IMG_8229.jpg)
 
 ## **Tomatcouscous med lammgrillare**
 

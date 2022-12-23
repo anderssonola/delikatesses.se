@@ -18,7 +18,7 @@ I lördags skulle det så firas födelsedag. Efter tårta, bus och presentöppni
 
   
   
-[![20130122-121630.jpg](images/20130122-121630.jpg)](http://import.local/wp-content/uploads/2013/01/20130122-121630.jpg) _Bilden är lånad från Ica.se, eftersom vi mest njöt och glömde ta bilder..._
+[![20130122-121630.jpg](/static/img/20130122-121630.jpg)](http://import.local/wp-content/uploads/2013/01/20130122-121630.jpg) _Bilden är lånad från Ica.se, eftersom vi mest njöt och glömde ta bilder..._
 
 **Räkdumplings ca 30 st**
 
@@ -42,4 +42,4 @@ Ta av och ät direkt med dipsåsen och tillbehören som ger fräschör.
 
 Sommelieren( jag) tog fram ett mousserande vin till dessa små guldklimpar. Sältan, viss hetta, det lite sura från limen i dipsåsen passar ypperligt med bubbligt, torrt vitt vin. Varför inte denna sydafrikan som numer finns i ordinarie sortimentet för ynka 98 riksdaler. Boschendal Brut ( nr 7889), Chardonnay & Pinot noir. Heavenly om jag får säga det själv!  
   
-[![20130122-121704.jpg](images/20130122-121704.jpg)](http://import.local/wp-content/uploads/2013/01/20130122-121704.jpg)
+[![20130122-121704.jpg](/static/img/20130122-121704.jpg)](http://import.local/wp-content/uploads/2013/01/20130122-121704.jpg)

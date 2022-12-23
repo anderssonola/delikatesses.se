@@ -17,7 +17,7 @@ I lördags var vi på stort 60-års kalas och Selma hängde med sina kusiner. De
 
 Allt var fantatsiskt gott. Rökta, inlagda morötter, picklad blomkål, rökig tomatsås, majonäs, fräsch potatissallad, lammfiol, pulled pork och slaktarbiff (njurtapp på styckningskartan). En styckningsdetalj som börjar komma mer och mer. Får ni tag på en bit så köp. Så en gång för alla, ÅK TILL HÖRTE FÖR BÖVELN!
 
-[![IMG_8089](images/IMG_8089.jpg)](http://import.local/wp-content/uploads/2015/07/IMG_8089.jpg)
+[![IMG_8089](/static/img/IMG_8089.jpg)](http://import.local/wp-content/uploads/2015/07/IMG_8089.jpg)
 
  
 
@@ -25,7 +25,7 @@ Igår var det bara söndag, och vi lät det var så.
 
 Idag är det måndag och vi har hängt med en av Selmas bästisar, och hennes föräldrar. Då fick det bli sommarfika. Vi fick denna goda paj hos min fina vän Malin och hon delade med sig av receptet som ursprungligen kommer från ICA.se, med några små ändringar....
 
-[![IMG_8088](images/IMG_8088-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/07/IMG_8088.jpg)
+[![IMG_8088](/static/img/IMG_8088-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/07/IMG_8088.jpg)
 
 ## **Jordgubbspaj**
 

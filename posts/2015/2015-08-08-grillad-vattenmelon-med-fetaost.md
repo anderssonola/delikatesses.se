@@ -7,7 +7,7 @@ categories:
   - "vegetariskt"
 ---
 
-Grishals, korv, beer can chicken, majs och potatissallad i all ära, men att grilla kan vara så mycket mer. Egentligen finns det väl inget som inte går att lägga på grillen. Grillad frukt har ofta blivit dessert hos oss. Så kanske är jag sist på bollen, men grillad vattenmelon med fetaost, gooosh! Ett perfekt tillbehör till kött, som egenrätt eller till det köttfriafolket. Mina två systrar tillhör ju den sista kategorin och det är väldans kul att bjuda på lite genomtänkt mat till alla när det ska grillas. [![IMG_7840](images/IMG_7840-e1439020558574-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/08/IMG_7840.jpg)
+Grishals, korv, beer can chicken, majs och potatissallad i all ära, men att grilla kan vara så mycket mer. Egentligen finns det väl inget som inte går att lägga på grillen. Grillad frukt har ofta blivit dessert hos oss. Så kanske är jag sist på bollen, men grillad vattenmelon med fetaost, gooosh! Ett perfekt tillbehör till kött, som egenrätt eller till det köttfriafolket. Mina två systrar tillhör ju den sista kategorin och det är väldans kul att bjuda på lite genomtänkt mat till alla när det ska grillas. [![IMG_7840](/static/img/IMG_7840-e1439020558574-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/08/IMG_7840.jpg)
 
 **Grillad vattenmelon med fetaosttopping**
 

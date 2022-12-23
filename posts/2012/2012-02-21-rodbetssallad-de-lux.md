@@ -9,7 +9,7 @@ Jag gillar kocken [Paul Svensson](http://http://www.paulsvensson.se/ "Paul Svens
 
 Ett av recepten som fångade mig var en _**[rödbetssallad med varm remoulad och råriven blomkål](http://www.ica.se/Recept/rodbetssallad-med-varm-remoulad-och-rariven-blomkal-714720/ "rödbetssallad")**_. Sagt och gjort så blev detta kvällens middag och OJ! så gott det blev. Kändes lyxigt! Vi serverade ångad torsk till, men rätten kan lika bra vara en förrätt som kickar igång middagen eller ett tillbehör på grillbuffén. _**TESTA!!!**_ Detta är verkligen ett recept för alla! Ta er tiden att även göra gelén, den var superfräsch!
 
-[![](images/IMG_3597-1024x682.jpg "IMG_3597")](http://import.local/wp-content/uploads/2012/02/IMG_3597.jpg)
+[![](/static/img/IMG_3597-1024x682.jpg "IMG_3597")](http://import.local/wp-content/uploads/2012/02/IMG_3597.jpg)
 
  
 

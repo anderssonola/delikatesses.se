@@ -7,7 +7,7 @@ categories:
 
 Det är bara onsdag, men känns som fredag. Långhelg,man kan säga att det blir dubbelhelg. Så vi firar "första helgen" i vår gamla hemstad aka Hufvudstaden, hos saknade fina vänner. Vad ska ni göra på era båda helger? Ett förslag kan vara att äta finfin pizza. Vi bjöd på detta förra veckan med ett gott glas champagne. Det fanns lite att fira helt enkelt...
 
-[![image](images/image3-1024x768.jpg)](http://import.local/wp-content/uploads/2015/05/image3.jpg)
+[![image](/static/img/image3-1024x768.jpg)](http://import.local/wp-content/uploads/2015/05/image3.jpg)
 
 **Skördepizza delux**
 

@@ -8,7 +8,7 @@ categories:
   - "tillbehor"
 ---
 
-[![](images/IMG_3608-1024x682.jpg "IMG_3608")](http://import.local/wp-content/uploads/2012/03/IMG_3608.jpg)
+[![](/static/img/IMG_3608-1024x682.jpg "IMG_3608")](http://import.local/wp-content/uploads/2012/03/IMG_3608.jpg)
 
 Nu är våren på väg, detta måste vi fira med nåt gott att dricka! Varför inte göra nåt varmt, gott och gå ut och möta våren med en kopp i handen. Ta med ett sittunderlag och hitta en mysig plats är du kan ta in solens strålar samtidigt som du njuter av denna gudomliga dryck! Egentligen räcker det att glänta lite på balkongdörren och lägga filten om dig i favoritfåtöljen.....
 

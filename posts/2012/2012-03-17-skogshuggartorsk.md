@@ -7,7 +7,7 @@ categories:
 
 Vet egentligen inte varför jag döpt den till det, men förmodligen skulle en riktig skogshuggare uppskatta det! En rejäl rätt med lite jordiga smaker som smakar extra bra efter ett rejält arbetspass i skogen. Tror att man även kan må bra av den efter en härlig promenad i skogen med.....
 
-[![](images/IMG_3618-1024x682.jpg "IMG_3618")](http://import.local/wp-content/uploads/2012/03/IMG_3618.jpg)
+[![](/static/img/IMG_3618-1024x682.jpg "IMG_3618")](http://import.local/wp-content/uploads/2012/03/IMG_3618.jpg)
 
 # **SkogshuggarTorsk**
 

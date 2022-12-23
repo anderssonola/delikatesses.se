@@ -15,4 +15,4 @@ Att odla tomater själv är en ynnest när det är dags att skörda. Var hos sys
 
 **Caprese** Härliga tomater i olika form och färg ( och smak) Den bästa mozzarellan i staden En ordentlig näve basilika En skvätt riktigt god olivolja  
   
-[![20121011-095634.jpg](images/20121011-095634.jpg)](http://import.local/wp-content/uploads/2012/10/20121011-095634.jpg)
+[![20121011-095634.jpg](/static/img/20121011-095634.jpg)](http://import.local/wp-content/uploads/2012/10/20121011-095634.jpg)

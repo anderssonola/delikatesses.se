@@ -7,7 +7,7 @@ categories:
 
 Jaha, då har natten övergått till onsdag och veckan bara ångar på i rasande fart. Ser fram emot lördagen som bjuder in till bröllopsfest. Måste bara fixa det där sista med strumpbyxor, skor och nåt krimskrams att ha i håret. På tal om håret så kommer hovfrisörskan hit och hjälper mig. Är verkligen lyx att ha en syster som kan! Får väl bjuda på en bild senare. Men först lite käk som vi brassade förra veckan.  
   
-[![20140611-002051-1251444.jpg](images/20140611-002051-1251444.jpg)](http://import.local/wp-content/uploads/2014/06/20140611-002051-1251444.jpg) **Lax- & krabbiffar med tartarsås** _2 portioner och en lunchlåda_ 4hg lax 1 burk krabbkött i vatten 1 rödlök, finhackad 2 vitlöksklyftor 1 citron, zest och saft 1 ägg Salt & peppar Panko
+[![20140611-002051-1251444.jpg](/static/img/20140611-002051-1251444.jpg)](http://import.local/wp-content/uploads/2014/06/20140611-002051-1251444.jpg) **Lax- & krabbiffar med tartarsås** _2 portioner och en lunchlåda_ 4hg lax 1 burk krabbkött i vatten 1 rödlök, finhackad 2 vitlöksklyftor 1 citron, zest och saft 1 ägg Salt & peppar Panko
 
 **_Tartarsås_** 1/2 dl kapris 1/2 dl cornichons 1 knippe dill 1/2 knippe persilja 1 dl majonäs, hemmagjord eller Hellmans 1 dl ekologisk gräddfil Salt & peppar
 

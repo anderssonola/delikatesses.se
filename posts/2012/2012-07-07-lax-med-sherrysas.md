@@ -7,7 +7,7 @@ categories:
 
 Vi befinner oss på Gotland och just idag Fårö. Vi äter gott och lapar sol. Igår var det härlig räklåda i Katthammarsvik och idag bär det av på militärcykel till det lilla egensinniga Crêperie Tati som delar adress med det kultiga Kutens bensin. Lite tur att jag har några förberedda inlägg att slänga fram när jag inte har tid att blogga utan mest latar mig och äter gott. Trots att jag inte tyckte att rätt vinnare vann årets upplaga av Sveriges Mästerkock så ska Sigrid ha en eloge för detta finfina recept från hennes kokbok, Spisvärme.
 
-[![](images/IMG_4823-1024x682.jpg "IMG_4823")](http://import.local/wp-content/uploads/2012/06/IMG_4823.jpg)
+[![](/static/img/IMG_4823-1024x682.jpg "IMG_4823")](http://import.local/wp-content/uploads/2012/06/IMG_4823.jpg)
 
 # Lax med Sherrysås
 

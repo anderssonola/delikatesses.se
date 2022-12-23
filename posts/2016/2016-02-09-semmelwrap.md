@@ -8,7 +8,7 @@ tags:
   - "semla"
 ---
 
-Hurra & grattis på Semla-dagen! Många började firandet av denna goding redan på juldagen förra året. Jo då gick det minsann att få tag på dom. Selmas farbror och farfar har en lite tradition att just äta semla på juldagen. Konstigt men lite kul. Jag väntade iaf till mitten på januari då det blivit tradition att jag bjuder på semla under mitt fördelsedagsfirande. Det har blivit vanliga semlor, [minisemlor](http://import.local/2012/02/20/semlor/), [semmelmuffins](http://import.local/2015/02/10/semelmuffins/) och [semmeltårta](http://import.local/2015/01/18/hurra/) tidigare år så i år var det dags för nåt nytt. Det blev en variant av Tössebageriets semmelwrap, dock i lite mindre storlek. Jag tjatar om det, men är dom små kan man ta två. Grundreceptet är hämtat från Allt om Mat.![IMG_0545](images/IMG_0545-1020x1020.jpg)
+Hurra & grattis på Semla-dagen! Många började firandet av denna goding redan på juldagen förra året. Jo då gick det minsann att få tag på dom. Selmas farbror och farfar har en lite tradition att just äta semla på juldagen. Konstigt men lite kul. Jag väntade iaf till mitten på januari då det blivit tradition att jag bjuder på semla under mitt fördelsedagsfirande. Det har blivit vanliga semlor, [minisemlor](http://import.local/2012/02/20/semlor/), [semmelmuffins](http://import.local/2015/02/10/semelmuffins/) och [semmeltårta](http://import.local/2015/01/18/hurra/) tidigare år så i år var det dags för nåt nytt. Det blev en variant av Tössebageriets semmelwrap, dock i lite mindre storlek. Jag tjatar om det, men är dom små kan man ta två. Grundreceptet är hämtat från Allt om Mat.![IMG_0545](/static/img/IMG_0545-1020x1020.jpg)
 
 ## **Semmelwrap**
 
