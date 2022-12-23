@@ -9,7 +9,7 @@ Nu är sillen gjord inför det annalkande midsommarfirandet på fredag. Alla har
 
 Sillaacademien får ursäkta min fuskvariant, men smaken finns där!
 
-[![](/static/img/IMG_4872-1024x682.jpg "IMG_4872")](http://import.local/wp-content/uploads/2012/06/IMG_4872.jpg)
+![](/static/img/IMG_4872-1024x682.jpg "IMG_4872")
 
 # Brantevikssill- på mitt sätt
 
@@ -49,6 +49,4 @@ skalet från en citron (tänk ekologiskt)
 
 Blanda allt och låt stå ett par dagar för bästa resultat. Sila av och häll upp på flaska igen. SKÅL!
 
-[![](/static/img/IMG_4882-682x1024.jpg "IMG_4882")](http://import.local/wp-content/uploads/2012/06/IMG_4882.jpg)
-
-;
+![](/static/img/IMG_4882-682x1024.jpg "IMG_4882")

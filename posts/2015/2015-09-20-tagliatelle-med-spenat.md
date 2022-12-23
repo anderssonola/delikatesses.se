@@ -17,7 +17,7 @@ tags:
 
 Så var det söndagkväll igen. Veckorna försvinner i rasande fart. Helgen har bjussat på husvisning, fotboll, tre supergoda middagar, ett vin och en torr cider. En bra helg helt enkelt. Middagen idag svängde Ola ihop med bravur. Ett recept signerat Jamie Oliver. Oftast när vi gör pastasås blir den tomatbaserad, men det kommer bli ändring på det nu. Detta är en superläcker rätt som absolut är bjudmat, men även lyxig en tisdagkväll. Kräver absolut ett par brödbitar så man får upp den sista såsen i tallriken, så glöm inte det på handlingslistan.
 
-[![Tagliatelle med spenat](/static/img/IMG_9206-632x632.jpg)](http://import.local/wp-content/uploads/2015/09/IMG_9206.jpg)
+![Tagliatelle med spenat](/static/img/IMG_9206-632x632.jpg)
 
  
 

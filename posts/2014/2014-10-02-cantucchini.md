@@ -8,7 +8,8 @@ categories:
 När vi bilade i Italien för tre år sen upplevde vi det italienska livet. Vi undvek turistandet, förutom i Florens och Pisa, då det tillhör....men när vi bagav oss iväg i vår Fiat Panda var det landsbygd, små pittoreska byar som bjöd på bäst lunch. Den bästa middagen åt vi i Arezzo i en liten gränd, bruschettas med de lokala och godaste tillbehören. Till dessert tog vi varsin Vin santo med cantucchini, små mandelskorpor. Man brukar få ett par stycken att doppa, men här fick vi varsin näve! 1 näve åkte ner i väskan och fick agera färdkost. Det räddade långa varma dagar på slingriga bergssluttningar i vår lilla bil.
 
 Vin Santo då?! Sött dessertvin från Toscana. Vanligen framställt på druvorna Malvasia och Trebbiano. Namnet betyder heligt vin. Druvorna skördas sent och får ligga och torka i halm fram till påsk, då det vinifieras. Ibland tillsätts mer alkohol till vinet, därför kan det ibland räknas som starkvin( 15-22 volymprocent alkohol) och ibland bara som vin. Smaker och dofter som ofta är framträdande är marsipan, apelsin, knäck och russin. Smaker som återkommer i mandelskorporna. Alltså en ypperlig kombo. Gör ett par nävar cantucchini!  
-[![IMG_1126.JPG](/static/img/IMG_1126.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_1126.jpg) **Cantucchini** Ca 80 st
+![IMG_1126.JPG](/static/img/IMG_1126.jpg)
+**Cantucchini** Ca 80 st
 
 3 st medelstora ägg 2 dl socker 0.25 tsk salt 1 msk finrivet apelsinskal 0.5 tsk bittermandelessens (kan uteslutas) 1 dl olivolja 300 g vetemjöl (knappt 6 dl) 1 tsk bakpulver 200 g hel mandel 1.5-2 dl vetemjöl till utbaket
 

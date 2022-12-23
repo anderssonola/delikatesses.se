@@ -18,9 +18,9 @@ Det råder Malmöfestival i stan. Det är konserter, karuseller och en hel uppsj
 
 Ola har börjat jobba och vi försöker hitta någon form av vardag igen. Selma och jag tog en lugn förmiddag, käkade en otroligt god kantarellomelett, satt i solen på innegården och bara njöt. Eftermiddagen spenderades i en liten kub på Gustav och Selma fick leka med ätliga färger på en stor vit duk. Hon njöt verkligen att få kladda. Moderna museet har en aktivitet de kallar för Actionpaintingbabysplash. Så himla frigörande. Sen gick vi och gungade. Sen har det varit lugnt här hemma hela kvällen ända fram till jag la ut kvällens middag på instagram, då blev det liv i luckan. Så varsågoda här kommer receptet. Som så många gånger förr så är det Lotta Lundgren som ligger bakom originalet.
 
-[![IMG_8850](/static/img/IMG_8850-1020x765.jpg)](http://import.local/wp-content/uploads/2015/08/IMG_8850.jpg)
+![IMG_8850](/static/img/IMG_8850.JPG)
 
-[![IMG_8871](/static/img/IMG_8871-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/08/IMG_8871.jpg)
+![IMG_8871](/static/img/IMG_8871-1020x1020.jpg)
 
 ## **Asiatiska salladsknyten med kycklingfärs, chili & limeblad**
 

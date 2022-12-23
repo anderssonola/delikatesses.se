@@ -27,6 +27,6 @@ Mixa allt och smaka av med salt & peppar.
 
    
   
-[![20130522-103205.jpg](/static/img/20130522-103205.jpg)](http://import.local/wp-content/uploads/2013/05/20130522-103205.jpg)  
+![20130522-103205.jpg](/static/img/20130522-103205.jpg)
   
-[![20130522-103311.jpg](/static/img/20130522-103311.jpg)](http://import.local/wp-content/uploads/2013/05/20130522-103311.jpg)
+![20130522-103311.jpg](/static/img/20130522-103311.jpg)

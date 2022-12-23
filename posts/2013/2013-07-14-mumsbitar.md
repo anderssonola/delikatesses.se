@@ -9,7 +9,7 @@ categories:
   - "tillbehor"
 ---
 
-[![20130715-100157.jpg](/static/img/20130715-100157.jpg)](http://import.local/wp-content/uploads/2013/07/20130715-100157.jpg)  
+![20130715-100157.jpg](/static/img/20130715-100157.jpg)
   
 En härlig trädgårdsfest utspelade sig i helgen och vi fick vara med i öppningsakten. Det skulle serveras någon form av snitt till fläderbålet. Att göra nåt traditionellt med tunnbröd är ju inte riktigt min grej, så det fick bli "mumsbitar" på sked med smaker som hörde den skånska slätten till, det mesta iaf. Vi tog den enkla vägen med köpta skedar, men börjar man rota så har man nog fler skedar än man tror i lådorna. Varje recept ger ca 50 skedar.
 
@@ -41,4 +41,4 @@ Mixa alla ingredienser till peston och rosta spickeskinkan på bakplåtspapper i
 
 Hacka allt fint och rör ihop. Låt stå minst två timmar och smaka av med mer lime & salt. Servera på skedarna.  
   
-[![20130717-094254.jpg](/static/img/20130717-094254.jpg)](http://import.local/wp-content/uploads/2013/07/20130717-094254.jpg) Galet roligt att vara festfixare...;)
+![20130717-094254.jpg](/static/img/20130717-094254.jpg) Galet roligt att vara festfixare...;)

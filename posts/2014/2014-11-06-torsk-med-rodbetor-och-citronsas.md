@@ -16,7 +16,8 @@ tags:
 
 Frågan är ju vad jag ska skriva om i förtexten idag?! Vädret, den historiska aspekten av dagen ( säger bara 6 november 1632....) eller min mysiga lunch på [Nois](http://nois.nu/Nois_cafe_och_deli.html) idag med fina vänner?! Vädret resulterade iallafall ett par nya fina, varma, randiga vantar, Lütsendagen firades med en bakelse dock utan det obligatoriska kungliga emblemet och lunchen var en alldeles ljuvlig, rykande varm Pho Bo.
 
-På söndag ska vi fira Olas första fars dag med en rutinerad räv, som gjort det 35 gånger innan, min fantastiska pappa. Huruvida det blir nedanstående recept säger jag inte, men detta var jättegott![![IMG_6773](/static/img/IMG_6773-1024x682.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_6773.jpg)
+På söndag ska vi fira Olas första fars dag med en rutinerad räv, som gjort det 35 gånger innan, min fantastiska pappa. Huruvida det blir nedanstående recept säger jag inte, men detta var jättegott!
+![IMG_6773](/static/img/IMG_6773-1024x682.jpg)
 
 **Torsk med smörstekta rödbetor och citronsås**
 

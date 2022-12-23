@@ -17,7 +17,7 @@ tags:
 
 I veckan när vårsolen värmde och skinnjackan åkte fram längtade jag till helgen för trädgårdspåtande. Lökarna skulle i jorden, gräsmattan skulle räfsas och vi skulle fika utomhus. När nu dagen är här och vädret inte blev som i onsdags så behåller jag våren i hjärtat med fika i uterummet. Vårens alla fröer får mig att längta efter en kaka med lite vårkänsla, vallmokaka. På engelska heter dessa ljuvlingar poppy seeds och det är väl just det vi vill, att våren ska poppa upp!
 
-[![20130310-100418.jpg](/static/img/20130310-100418.jpg)](http://import.local/wp-content/uploads/2013/03/20130310-100418.jpg)
+![20130310-100418.jpg](/static/img/20130310-100418.jpg)
 
 **Citron- & vallmokaka** 2 ägg 1 1/2 dl socker 1/2 tsk vaniljsocker 25 gram smör 1/2 dl mjölk Knappt 2 dl mjöl 1 tsk bakpulver 1 gnutta salt 1/2 dl vallmofrö Skalet och saft från 1 citron
 

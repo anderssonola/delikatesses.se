@@ -13,7 +13,7 @@ tags:
 
 Vart tog denna veckan vägen?! Jag skulle ju dela med mig av ramslöksrecept åsså sitter jag här på en pall, sent fredag kväll och tittar på hamburgerbröd. Vi hamnade nig nog i ramslökskoma och lovar på heder och samvete att återkomma med recepten. Men hey, imorgon är det lördag och vi ska premiärgrilla med fina vänner och då behövs dom här bröden till hamburgarna.
 
-[![image](/static/img/image9-1024x768.jpg)](http://import.local/wp-content/uploads/2015/04/image9.jpg)
+![image](/static/img/image9-1024x768.jpg)
 
 **Hamburgerbröd**
 

@@ -19,4 +19,4 @@ Efter 7 min ta ut skålen och gör ett kulprov.( droppa lite smet i ett glas kal
 
 Receptet kommer från Tasteline
 
-[![](/static/img/pic_178150864-224x300.jpg "knäck")](http://import.local/wp-content/uploads/2012/01/pic_178150864.jpg)
+![](/static/img/pic_178150864-224x300.jpg "knäck")]

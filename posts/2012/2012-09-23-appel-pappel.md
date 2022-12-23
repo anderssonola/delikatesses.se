@@ -16,6 +16,6 @@ Sätt på ugnen, 225 grader. Skala och skiva äpplena. Hacka/mixa mandel. Rör �
 
 Servera med vaniljsås!
 
-[![20120923-150228.jpg](/static/img/20120923-150228.jpg)](http://import.local/wp-content/uploads/2012/09/20120923-150228.jpg)
+![20120923-150228.jpg](/static/img/20120923-150228.jpg)
 
-[![20120923-150319.jpg](/static/img/20120923-150319.jpg)](http://import.local/wp-content/uploads/2012/09/20120923-150319.jpg)
+![20120923-150319.jpg](/static/img/20120923-150319.jpg)

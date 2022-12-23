@@ -8,7 +8,7 @@ categories:
 
 I onsdags gjorde jag en lasagne (utan häst) för att skynda på torsdagens middag. Ola skulle träna fotboll och jag skulle vara nanny en timme åt lill-trollet. Bjöd in trollungens föräldrar på middag efter deras möte. Då fanns det ju bara ett "problem". En av gästerna äter varken häst eller annat kött, så jag knåpade ihop en öppen lasagne. Denna föll sig så väl ut att ett recept krävdes. Så här kommer det.
 
-[![20130303-211209.jpg](/static/img/20130303-211209.jpg)](http://import.local/wp-content/uploads/2013/03/20130303-211209.jpg)Fotograf; Annika Jeppson
+![20130303-211209.jpg](/static/img/20130303-211209.jpg) Fotograf; Annika Jeppson
 
 ## Öppen lasagne- helt hästfri
 

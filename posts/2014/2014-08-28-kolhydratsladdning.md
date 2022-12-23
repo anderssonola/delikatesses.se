@@ -7,7 +7,7 @@ categories:
 
 Ja, man skulle kunna tro att vi kolhydratsladdar inför förlossningen. Men det är nog snarare så att dom snygga bilderna och det goda hamnar just i en pastarätt. Vi kan väl säga så här att Lotta Lundgren har gjort det igen. Varje gång jag bläddrar i hennes bok, "Om jag var din hemmafru", fastnar jag på den färgglada lasagnen. Inte bara snygg utan god och vegetarisk med.  
   
-[![IMG_5336.JPG](/static/img/IMG_5336.jpg)](http://import.local/wp-content/uploads/2014/08/IMG_5336.jpg)
+![IMG_5336.JPG](/static/img/IMG_5336.jpg)
 
 **Lasagne med hasselnötspesto och svamp- & auberginefräs** 4-6 personer
 

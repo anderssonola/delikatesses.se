@@ -15,7 +15,7 @@ tags:
 
 "Nu är det fredagsmyyyyyyys, hoppas inte föräldrarna stör..." Förmodligen så stör vi inte förrän middagen är klar. Tisdagar är det fisk, torsdagar är ärtsoppedag och fredag har blivit stora tacodagen. Ibland slirar vi dit, men tar oss för det mesta upp igen och gör en twist på galenskapen. Som förra fredagen då det låg köttfärs, gräddfil, sallad och tortillachips i kundkorgen. Kassörskan log mot mig, som om hon visste vad det vankades till middag, men tji fick hon eftersom vi trollade fram en chili con carne på "tacokorgen. Hur lurar ni fredagsmyyyyyset?!
 
-[![image](/static/img/image1-1024x768.jpg)](http://import.local/wp-content/uploads/2015/02/image1.jpg)
+![image](/static/img/image1-1024x768.jpg)
 
  
 

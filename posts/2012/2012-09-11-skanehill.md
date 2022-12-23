@@ -21,4 +21,4 @@ Nu ska vi prata micro, microbryggeri. Microbryggeri som dessutom bara gör lätt
 
 Är ni i Skåne och har möjlighet att testa dessa små ljuvlingar så köp några extra. Ett perfekt erbjudande till föraren eller om man helt enkelt inte vill dricka några större mängder alkohol.
 
-[![20120911-223443.jpg](/static/img/20120911-223443.jpg)](http://import.local/wp-content/uploads/2012/09/20120911-223443.jpg)
+![20120911-223443.jpg](/static/img/20120911-223443.jpg)

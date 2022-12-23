@@ -1,7 +1,7 @@
 {
   "layout": "layouts/post.njk",
   "permalink": "posts/{{ title | slug }}/index.html",
-  "author": "Anonymous",
+  "author": "Therese Persson",
   "tags": [
     "post"
   ]

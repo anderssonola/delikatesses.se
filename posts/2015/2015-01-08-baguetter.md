@@ -13,7 +13,9 @@ tags:
   - "mjol"
 ---
 
-Eftersom jag inte fått tummarna ur att lägga in bilderna från nyår så får vi först äta frukost....idag med. Duka upp såna här finfina baguetter som jag bakat av nu på morgonen. Ammar man så är det ypperligt. Rör ihop snabbt på kvällen, baka ut den tidiga morgonamningen och kör in i ugnen när det är dags nästa gång... För er andra är det bara att ställa klockan.[![IMG_6190-0.JPG](/static/img/IMG_6190-0-768x1024.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_6190-0.jpg)Receptet kommer från boken Enklare bröd
+Eftersom jag inte fått tummarna ur att lägga in bilderna från nyår så får vi först äta frukost....idag med. Duka upp såna här finfina baguetter som jag bakat av nu på morgonen. Ammar man så är det ypperligt. Rör ihop snabbt på kvällen, baka ut den tidiga morgonamningen och kör in i ugnen när det är dags nästa gång... För er andra är det bara att ställa klockan.
+![IMG_6190-0.JPG](/static/img/IMG_6190-0-768x1024.jpg)
+Receptet kommer från boken Enklare bröd
 
 **Baguetter** 3 st 3 gram jäst 300 gram vatten 6-9 gram salt 390 gram vetemjöl special
 

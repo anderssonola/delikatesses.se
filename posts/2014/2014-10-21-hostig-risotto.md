@@ -9,9 +9,13 @@ tags:
   - "svamp"
 ---
 
-Hösten är verkligen ombytlig. Vi har dagar som idag då solen skiner och det känns riktigt varmt mot en soldränkt vägg med en kopp kaffe i handen. Andra dagar, läs söndag, vräker regnet bara ner och man blir jätteblöt på väg mot brunchen som ska avnjutas med två godingar som sällskap. Denna gången var det Grand Mat & öl som stod värd med sin "hotellfrukost". Gott och trevligt, som vanligt. [![IMG_5561-0.JPG](/static/img/IMG_5561-0.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5561-0.jpg) I fredags blev det höstig risotto. Svampen hör årstiden till. Lätt som en plätt och fasligt gott! Det viktiga när man gör en risotto är förberedelserna, varm buljong, rörandet och kärleken man lägger.
+Hösten är verkligen ombytlig. Vi har dagar som idag då solen skiner och det känns riktigt varmt mot en soldränkt vägg med en kopp kaffe i handen. Andra dagar, läs söndag, vräker regnet bara ner och man blir jätteblöt på väg mot brunchen som ska avnjutas med två godingar som sällskap. Denna gången var det Grand Mat & öl som stod värd med sin "hotellfrukost". Gott och trevligt, som vanligt. 
 
-[![IMG_5564.JPG](/static/img/IMG_5564.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5564.jpg) **Svamprisotto** _3 personer_
+![IMG_5561-0.JPG](/static/img/IMG_5561-0.jpg) 
+I fredags blev det höstig risotto. Svampen hör årstiden till. Lätt som en plätt och fasligt gott! Det viktiga när man gör en risotto är förberedelserna, varm buljong, rörandet och kärleken man lägger.
+
+![IMG_5564.JPG](/static/img/IMG_5564.jpg) 
+**Svamprisotto** _3 personer_
 
 3 dl risottoris, carnaroli eller arborio 150g + 150g skogschampinjoner 150 gram trattkantareller 1 bananschalottenlök 1 vitlöksklyfta 2,5 dl fint riven parmesan 25 gram smör 1-1,5 liter hönsbuljong, ekologisk Ev salt & svartpeppar
 

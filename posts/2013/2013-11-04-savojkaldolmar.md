@@ -15,9 +15,11 @@ tags:
 
 Ny vecka och ny matsedel. Hur gör ni? Handlar ni för hela veckan eller köper ni det ni är sugna på från dag till dag?! Vi alternerar mellan de båda, men denna veckan är vi duktiga. Speciellt duktiga då vi dessutom gjort färdigt tre middagar redan. De ska bara en sista finish så är de kompletta. För att få livspusslet med fotboll, jobb, häng med vänner och allmänt osug att laga middag så är det det som funkar bäst. Idag var matlagning roligare än på länge. Jag gjorde nämligen dagens middag på den sexigaste, snyggaste grönsaken av dom alla, Savojkål!  
   
-[![20131104-231555.jpg](/static/img/20131104-231555.jpg)](http://import.local/wp-content/uploads/2013/11/20131104-231555.jpg) Fick låna ett par nummer av Allt om mat och där fanns det, receptet som vi mumsat i oss ikväll. Mycket gott!  
+![20131104-231555.jpg](/static/img/20131104-231555.jpg)
+Fick låna ett par nummer av Allt om mat och där fanns det, receptet som vi mumsat i oss ikväll. Mycket gott!  
   
-[![20131104-231800.jpg](/static/img/20131104-231800.jpg)](http://import.local/wp-content/uploads/2013/11/20131104-231800.jpg) **Savojkåldolmar med fläsk & ingefära** 1 stort savojkålshuvud 500 gram fläskfärs, jag maler själv med grytbitar 1 vitlöksklyfta, riven 2 salladslökar- finhackade 1 kruka koriander( 1 näve)- hackad 2 msk finriven ingefära 3 msk japansk soja 1 tsk sesamolja Salt & svartpeppar 2 dl vatten
+![20131104-231800.jpg](/static/img/20131104-231800.jpg)
+**Savojkåldolmar med fläsk & ingefära** 1 stort savojkålshuvud 500 gram fläskfärs, jag maler själv med grytbitar 1 vitlöksklyfta, riven 2 salladslökar- finhackade 1 kruka koriander( 1 näve)- hackad 2 msk finriven ingefära 3 msk japansk soja 1 tsk sesamolja Salt & svartpeppar 2 dl vatten
 
 2 msk rostade sesamfrön
 

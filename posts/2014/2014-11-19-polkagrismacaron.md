@@ -12,7 +12,8 @@ tags:
 ---
 
 Den där julkänslan börjar smyga sig på, eller kanske snarare så smyger jag på den... Jag gläntar på förrådsdörren där glöggen står och gosar för att få känna lite doft, jag köper små små petflaskor med julmust för att "kvalitetstesta", jag ögonmäter hur stor granen ska vara i hörnet av matsalen, jag har fingrat på jullådan när jag varit i källaren..... Dessutom slår mitt hjärta volter när jag tänker på mysbaket med Olas familj där det både trycks mandelmusslor och gräddas tunna (_mycket viktigt_) pepparkakor. Hjärnan går på högvarv när jag bläddrar i mattidningar fulla av julgodis och juliga köttbullar. Men jag håller mig på mattkanten med ett recept från förra årets [glöggning](http://import.local/2013/12/12/gloggning-2013/).  
-[![IMG_4186.JPG](/static/img/IMG_4186.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_4186.jpg) **Polkagrismacaroner** 120g äggvitor (uppdelade i två skålar) 35 g strösocker 150 g mandelmjöl 150 g florsocker
+![IMG_4186.JPG](/static/img/IMG_4186.jpg)
+**Polkagrismacaroner** 120g äggvitor (uppdelade i två skålar) 35 g strösocker 150 g mandelmjöl 150 g florsocker
 
 50 g vatten till sockerlag 150 g strösocker till sockerlag
 

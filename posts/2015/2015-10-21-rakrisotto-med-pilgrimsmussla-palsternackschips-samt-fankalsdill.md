@@ -16,7 +16,7 @@ tags:
 
 Jag försöker så mycket det går att använda hela produkten på grönsaker och kött här hemma. Vi äter stammen på broccolin, dito på _(vissa gör tydligen inte det...?)_ gör tomatsås på tomathattarna, använder det gröna på purjolöken kokar fond på köttbenen samt äter olika styckdetaljer _(grisen består av mer än 2 fläskfileér..)_ Har en pyttlåda i frysen med tärnat kött som blivit över och gör givetvis räkfond på räkskal som blir en restprodukt när vi haft räkafton. Den går alldeles ypperligt att frysa och plocka fram ett ljuvligt tillfälle då det passar sig med en räkrisotto.
 
-## [![IMG_9553](/static/img/IMG_9553-e1445465930317-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9553.jpg)Räkrisotto med pilgrimsmussla, palsternackschips samt fänkålsdill
+## ![IMG_9553](/static/img/IMG_9553.JPG) Räkrisotto med pilgrimsmussla, palsternackschips samt fänkålsdill
 
 4 personer
 

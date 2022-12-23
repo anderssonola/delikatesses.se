@@ -11,7 +11,7 @@ Vi börjar med något enkelt, men herregud-så.gott!
 
 En helt vanlig torsdagskväll förra veckan bjöd jag hem de där snygga tjejerna som jag har fått äran att hänga med sen jag flyttade till Malmö igen. Ost och vin stod på menyn. 10 sorters ost, hembakade kex, ljummen brietårta, oliver, frukt och saltrostade mandlar. _Thank you Systrarna Eisenmann och deras Mingelbok, en bibel!_
 
-[![20130418-210445.jpg](/static/img/20130418-210445.jpg)](http://import.local/wp-content/uploads/2013/04/20130418-210445.jpg)
+![20130418-210445.jpg](/static/img/20130418-210445.jpg)
 
 Men den där kombinationen som jag nu dragit ut på är \*trumvirvel\*
 
@@ -23,4 +23,4 @@ Vinet då. Här kan man välja om man vill ha lite mer exotisk frukt och välja 
 
 Testa detta nu i helgen! Fredagstilltugg eller lördagsmys, du bestämmer själv!
 
-[![20130418-210246.jpg](/static/img/20130418-210246.jpg)](http://import.local/wp-content/uploads/2013/04/20130418-210246.jpg)
+![20130418-210246.jpg](/static/img/20130418-210246.jpg)

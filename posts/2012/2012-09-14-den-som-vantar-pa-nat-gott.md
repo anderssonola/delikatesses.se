@@ -9,4 +9,4 @@ Som vanligt missar vi bussen med 1 min och ser 146;an svänga av från stationen
 
 Om man nu inte skulle befinna sig i Malmö kan man längta hit och göra sina [egna](http://import.local/2012/06/12/falafel-no-1/)  
   
-[![20120914-214145.jpg](/static/img/20120914-214145.jpg)](http://import.local/wp-content/uploads/2012/09/20120914-214145.jpg)
+![20120914-214145.jpg](/static/img/20120914-214145.jpg)

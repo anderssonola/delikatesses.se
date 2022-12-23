@@ -20,4 +20,4 @@ I fredags utgick den andra delen av födelsedagspresent från underbaringen som 
 
 **Måste testas!!!**
 
-[![20130129-230233.jpg](/static/img/20130129-230233.jpg)](http://import.local/wp-content/uploads/2013/01/20130129-230233.jpg)
+![20130129-230233.jpg](/static/img/20130129-230233.jpg)

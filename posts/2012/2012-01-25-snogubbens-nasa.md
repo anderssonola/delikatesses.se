@@ -26,4 +26,4 @@ Så ut och rulla snögubbe nu, å glöm inte näsan.....
 
   
   
-[![20120125-221611.jpg](/static/img/20120125-221611.jpg)](http://import.local/wp-content/uploads/2012/01/20120125-221611.jpg)
+![20120125-221611.jpg](/static/img/20120125-221611.jpg)

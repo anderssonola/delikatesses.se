@@ -14,9 +14,14 @@ tags:
 
 Hurra för semlor! Snart vankas det stora semeldagen när den kommande Fettisdagen gör sitt intåg. Redan nu kan vi avnjuta dessa, och för vissa typ min svåger började semeltiderna redan på juldagen förra året....
 
-Det har presenterats en sensation i semelvärlden i form av semelwrapen från Tössbageriet. Så i år presenterar Delikatesses Semelmuffinsen, inte först på bollen men ändå. En lite enklare variant som kan röras ihop när det vankas sent påkomna fikor med trevligt sällskap. Är dessutom fikagästen nötallergiker så fyller vi den med nåt annat än den ordinarie mandelmassan, nämligen citroncurd som är kamrat Kardemummas bästa kompis. [![image](/static/img/image6-e1423604232744-768x1024.jpg)](http://import.local/wp-content/uploads/2015/02/image6.jpg) Undrar ni var man hittar Malmös godaste semla så titta in på [&Bread](http://www.and-bread.se/), på Regementsgatan 15, och slug en av deras surdegssemlor. Massor med smak, lagom stor och god vispad grädde.
+Det har presenterats en sensation i semelvärlden i form av semelwrapen från Tössbageriet. Så i år presenterar Delikatesses Semelmuffinsen, inte först på bollen men ändå. En lite enklare variant som kan röras ihop när det vankas sent påkomna fikor med trevligt sällskap. Är dessutom fikagästen nötallergiker så fyller vi den med nåt annat än den ordinarie mandelmassan, nämligen citroncurd som är kamrat Kardemummas bästa kompis. 
 
-[![IMG_6435](/static/img/IMG_6435-1024x768.jpg)](http://import.local/wp-content/uploads/2015/02/IMG_6435.jpg) **Semelmuffins**
+![image](/static/img/image6-e1423604232744-768x1024.jpg)
+Undrar ni var man hittar Malmös godaste semla så titta in på [&Bread](http://www.and-bread.se/), på Regementsgatan 15, och slug en av deras surdegssemlor. Massor med smak, lagom stor och god vispad grädde.
+
+![IMG_6435](/static/img/IMG_6435-1024x768.jpg)
+
+**Semelmuffins**
 
 ca 12 normalstora, en himla massa små och ett par gigantiska
 
@@ -32,4 +37,5 @@ Citroncurd Ca 0,5 dl citroncurd
 
 3 dl lättvispad grädde Florsocker till pudring
 
-_Har man berikats med ett namn med samma bokstäver som denna delikatess får man stå ut med att kallas för Semlan..._[![IMG_6236](/static/img/IMG_6236-e1423606425964-768x1024.jpg)](http://import.local/wp-content/uploads/2015/02/IMG_6236.jpg)
+_Har man berikats med ett namn med samma bokstäver som denna delikatess får man stå ut med att kallas för Semlan..._
+![IMG_6236](/static/img/IMG_6236-e1423606425964-768x1024.jpg)

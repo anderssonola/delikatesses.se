@@ -13,4 +13,4 @@ Sätt ugnen på 175 grader. Smält smöret och blanda i saffran. Häll blandning
 
 Glöm nu inte att göra lite snygga apelsiner!!!
 
-[![](/static/img/pic_179700038-224x300.jpg "apelsiner")](http://import.local/wp-content/uploads/2012/01/pic_179700038.jpg)
+![](/static/img/pic_179700038-224x300.jpg "apelsiner")

@@ -34,4 +34,4 @@ Ställ åt sidan. När morötterna är lite al dente lägg i en klick smör och 
 
   
   
-[![20130114-095255.jpg](/static/img/20130114-0952551.jpg)](http://import.local/wp-content/uploads/2013/01/20130114-0952551.jpg)
+![20130114-095255.jpg](/static/img/20130114-0952551.jpg)

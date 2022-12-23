@@ -24,4 +24,4 @@ Sloknad dill räddas genom ett nytt snitt på stjälkarna, ett glas varmt! vatte
 
 Till alla barn! Förr trodde man att troll var rädda för dilldoft så då satte man ett knippe i fönstret när det stod på glänt....
 
-[![20120715-121222.jpg](/static/img/20120715-121222.jpg)](http://import.local/wp-content/uploads/2012/07/20120715-121222.jpg)
+![20120715-121222.jpg](/static/img/20120715-121222.jpg)

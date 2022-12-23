@@ -14,7 +14,7 @@ tags:
 
 Idag är det onsdag. Halva veckan avklarad. Snart helg igen. För ett par veckor sen drabbades vi av en arme av mjölbaggar i vårt skafferi. Ni vet när det kryper i allt. Vi har haft en del fighter och avbrutit små och stora mjölbaggemöten. Vi har nu lyckats få dom små äcklena att retirera och försvinna från vårt skafferi. Vi fick slänga rätt mycket, leva med det skafferiet hade kvar att erbjuda, på en bricka ståendes på en stol i två veckor samt kokböcker längs med väggarna. Det senare har dock mest varit lyckosamt då vi bläddrat lite mer i våra alster. Några "vi-måste-verkligen-testa-detta"-recept har markerats och ikväll var det dags för ett. Receptet är hämtat ur _Mathias Dahlgrens bästa_. Receptet är bra, men vi hakade upp oss på två små detaljer, ska tomaten och gurkan vara skalad och urkärnad och använder du det gröna på purjolöken?! Vi fick helt enkelt ställa oss frågan; Hur hade Mathias gjort?! Givetvis så kan det inte var plättlätt, utan vi får blanchera tomaten för att få bort skalet och kärna ur den. Gurkan skalar vi samt gröper ur det kärniga. Förmodligen använder Mathias bara det vita eftersom han snitsigt använder det gröna till nåt annat kulinariskt, men här hemma har vi redan planerat veckan och jag får annars slänga det gröna. Det vill vi inte vara med om så den åker med. Om, Du, Mathias läser detta, lägg en kommentar i kommentarsfältet och berätta så vi får veta om vi överarbetar....Hur som haver så var det väldans gott!
 
-[![IMG_7522](/static/img/IMG_7522-1024x683.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_7522.jpg)
+![IMG_7522](/static/img/IMG_7522-1024x683.jpg)
 
 **Rimmad torkrygg med med purjolökscrème och rökt olivolja** 2 portioner
 

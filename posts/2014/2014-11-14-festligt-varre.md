@@ -9,7 +9,8 @@ Dom säger att det är fredag igen, dom som vet. För min del så kunde det lika
 
 Imorgon forsätter vi kalasandet i "Festveda". Min lillasyster har fått för sig att hon fyller 30!!! Hon var ju precis 16....Den lilla festkommiteén, i form av lilla fröken E, avslöjade imorse att det blir popcorn och saft. Vi får väl se vad lilla frökens moster har svängt ihop.  
   
-[![IMG_5163.JPG](/static/img/IMG_5163.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_5163.jpg) _Galet härliga lillasyster och jag❤️_
+![IMG_5163.JPG](/static/img/IMG_5163.jpg)
+_Galet härliga lillasyster och jag❤️_
 
 Så på söndag ska vi vara "bakis", ta på oss vår mysbyxor och bara vara.
 

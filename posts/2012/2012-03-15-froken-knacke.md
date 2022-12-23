@@ -10,7 +10,7 @@ categories:
 
 Det ljuvligaste knäckebröd jag smakat fick vi i present av fina Ida & Daniel när de var på besök. När jag fick klart för mig att detta underbara ting var hembakat och gjort med så mycket kärlek av min fina vän så fanns det bara en sak att göra; be snällt om receptet. De är så gott att jag springer och småäter hela tiden och snart är det slut, så då är det bara att baka nytt. Eftersom det inte har något direkt namn så har jag valt att uppkalla det efter Fröken Ida....
 
-[![](/static/img/IMG_3624-1024x682.jpg "IMG_3624")](http://import.local/wp-content/uploads/2012/03/IMG_3624.jpg)
+![](/static/img/IMG_3624-1024x682.jpg "IMG_3624")
 
 **Ljuvliga Frökens Knäcke**
 

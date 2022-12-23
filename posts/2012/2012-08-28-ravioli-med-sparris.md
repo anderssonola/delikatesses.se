@@ -7,7 +7,7 @@ categories:
 
 Bråttom, bråttom! Ibland ska allt bara gå snabbt. Vardagsstress... Sparrissäsongen är väl egentligen över, men så länge det finns att köpa så...
 
-[![](/static/img/IMG_5490-682x1024.jpg "IMG_5490")](http://import.local/wp-content/uploads/2012/08/IMG_5490.jpg)
+![](/static/img/IMG_5490-682x1024.jpg "IMG_5490")
 
 250 gram grön sparris 500 gram färsk ravioli, spenat och ricotta 50 gram smör 1 tsk flingsalt Ett par drag med svartpepparkvarnen Parmesan
 

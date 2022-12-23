@@ -15,7 +15,8 @@ tags:
 
 Hur många har inte varit på glöggparty och fått serverat pepparkaka och grönmögelost. Det är en fantastisk kombo med glöggen, så det fick bli en variant med en twist hos oss. Jag gjorde grissini av pepparkasdegen och serverade med en mögelkräm _( låter sådär när jag använder det ordet, men det är supergott..)_ samt en messmörsfärskost. För övrigt är tunnbröd med messmör (och skinka) det absolut godaste i backen till en termostappad varm choklad!  
   
-[![20131213-091254.jpg](/static/img/20131213-091254.jpg)](http://import.local/wp-content/uploads/2013/12/20131213-091254.jpg)rostad mjuk pepparkaka är också gott till rörorna
+![20131213-091254.jpg](/static/img/20131213-091254.jpg)
+rostad mjuk pepparkaka är också gott till rörorna
 
 **Pepparkaksgrisini** 1 sats pepparkasdeg, köpt funkar
 

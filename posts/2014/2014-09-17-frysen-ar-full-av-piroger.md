@@ -19,13 +19,15 @@ Det är onsdag och dagarna börjar flyta ihop. Springer mest runt och fixar det 
 
   
   
-[![IMG_1248.JPG](/static/img/IMG_1248.jpg)](http://import.local/wp-content/uploads/2014/09/IMG_1248.jpg) Jag är nästan redo nu... Lite småfix kvar! Skötväskan har inte kommit än, men är nu på väg efter lite letande med ljus och lykta. Ska hämta (läs köpa på blocket) en bärsjal, dryckeshållare ( vi kallar den för det eftersom den har lite olika namn här hemma. Ola kallar den för ölhållare och jag för lattehållare..) och hjulskydd imorgon. På torsdag kommer mamman med alla små kläder som stått på vinden efter lilla E och H. Så någon gång nästa vecka så är vi nog fullkitade och redo, om vi nu alls blir redo.....
+![IMG_1248.JPG](/static/img/IMG_1248.jpg)
+Jag är nästan redo nu... Lite småfix kvar! Skötväskan har inte kommit än, men är nu på väg efter lite letande med ljus och lykta. Ska hämta (läs köpa på blocket) en bärsjal, dryckeshållare ( vi kallar den för det eftersom den har lite olika namn här hemma. Ola kallar den för ölhållare och jag för lattehållare..) och hjulskydd imorgon. På torsdag kommer mamman med alla små kläder som stått på vinden efter lilla E och H. Så någon gång nästa vecka så är vi nog fullkitade och redo, om vi nu alls blir redo.....
 
 Idag kommer finingen Anna för lite eftermiddagshäng och shopping.
 
 Dom där pirogerna var det ja. Jag tänkte att det kan vara skönt att ha nåt i frysen som man bara kan plocka fram, hålla i handen och äta när man inte har tid. Så nu ligger där ett gäng. Man kan göra olika fyllningar, egentligen bara fantasin som sätter gränser och att fyllningen bör vara ganska torr. Perfekt picknickmat, mellanmål och allmänt jag-är-hungrig-nu-mat.  
   
-[![IMG_1094.JPG](/static/img/IMG_1094.jpg)](http://import.local/wp-content/uploads/2014/09/IMG_1094.jpg) **Köttfärspiroger** Ca 25 st, lagom stora..
+![IMG_1094.JPG](/static/img/IMG_1094.jpg)
+**Köttfärspiroger** Ca 25 st, lagom stora..
 
 Degen 50 gr jäst 50 gram smör 5 dl mjölk 2 tsk socker 2 tsk salt 5 dl grahamsmjöl Ca 7 dl vetemjöl
 

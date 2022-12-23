@@ -21,7 +21,7 @@ tags:
 
 Jag vet att det bara är vår, men i onsdags fick jag sommarfeeling och blev sugen på sommarmat. Detta fick mina torsdagsgäster erfara när de kom för att hänga med sin små godingar. Sommar för mig är goda sallader och då passade det ypperligt att jag ramlade över boken "Matiga sallader" av Caroline Hofberg, i en reahög. Det här med frukt i mat kan skrämma vissa av er, men snälla testa. Det är gott med alla kryddorna och det salta från halloumin och den fräscha yoghurten. Dessutom kan man slänga in ett par naanbröd, köpta eller hemmagjorda, så man blir mätt i magen **OM** det mot förmodan skulle vara så att jag har fel.....
 
-[![image](/static/img/image3-1024x768.jpg)](http://import.local/wp-content/uploads/2015/04/image3.jpg)
+![image](/static/img/image3-1024x768.jpg)
 
 När grillen åker fram så kommer denna testas med grillade lammracks med. Trevlig söndag på er!
 

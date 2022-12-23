@@ -14,7 +14,7 @@ tags:
 
 Denna veckas meny gick mest ut på vilka måltider man kan servera isbergsallad till eftersom vi i söndags fick med oss 2 kg färdighackad sådan efter kalaset jag agerade servis på. Måndagen bjöd på ryggbiff, bea och ugnsrostade tomater, tisdagen chili con carne åsså croque monsieur aka varma mackor igår. Alla rätter serverade med sallad. Den sista med en god vinägrett. För er som tror att vi är maniska köttätare så serveras det en fisksoppa imorgon och vi åt vegetariskt nästan hela förra veckan.....
 
-[![image](/static/img/image9-1020x762.jpg)](http://import.local/wp-content/uploads/2015/05/image9.jpg)
+![image](/static/img/image9-1020x762.jpg)
 
 **\[krå:ck miss:jöö\]**
 

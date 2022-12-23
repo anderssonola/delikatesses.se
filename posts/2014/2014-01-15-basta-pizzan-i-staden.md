@@ -13,7 +13,9 @@ tags:
 
 Fredag närmar dig med stormsteg, igen. Fredagsmyset ska ha sitt och då passar det väl ypperligt med en smarrig hemmapizza i bästa stil med grönsaker. Grönsakerna kan med fördela användas till den bästa picknickmackan i baguette dagen efter ....  
   
-[![20140116-101959.jpg](/static/img/20140116-101959.jpg)](http://import.local/wp-content/uploads/2014/01/20140116-101959.jpg) **Grönsakspizza** 1 zucchini, ekologisk såklart 8 champinjoner 1 paprika, orange 1 rödlök Olivolja Soltorkade tomater 10 svarta oliver 1 grillad paprika, inlagd i glasburk..._hrm köpt på Ica_ 2 msk kapris Salt & peppar Oregano
+![20140116-101959.jpg](/static/img/20140116-101959.jpg)
+
+**Grönsakspizza** 1 zucchini, ekologisk såklart 8 champinjoner 1 paprika, orange 1 rödlök Olivolja Soltorkade tomater 10 svarta oliver 1 grillad paprika, inlagd i glasburk..._hrm köpt på Ica_ 2 msk kapris Salt & peppar Oregano
 
 **Tomatsås** 10 cocktailtomater 1 rejäl skvätt olivolja 3 vitlöksklyftor, finhackade Salt och svartpeppar
 

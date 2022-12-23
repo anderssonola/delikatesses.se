@@ -15,7 +15,8 @@ Världen är upp och ner! Igår fick vi programmet för årets Malmöfestival. M
 
 "Från och med idag och ca 8 veckor framåt går vi i väntans tider. Det råder Malmöfestival i stan med gratiskonserter, karuseller, mat i varenda hörn och ekorekoföreläsningar. Det var på en sån här jag blev frälst. [Surtanten](http://www.surtantens.se/) syrade och stampade vitkål och berättade allt hon visste om syrning av grönsaker. Behöver egentligen inte säga att det var galet intressant. Så nu står jag här med två finingar med massa goda bakterier som bara blir bättre och bättre. Återkommer om ca 10 veckor med resultat. Den som väntar på nåt gott....  
   
-[![20130819-000922.jpg](/static/img/20130819-000922.jpg)](http://import.local/wp-content/uploads/2013/08/20130819-000922.jpg) 2 kg ekologisk vitkål 30 gram havssalt, jodfritt (1,5% av kålens vikt) 1 msk kummin, för den som vill
+![20130819-000922.jpg](/static/img/20130819-000922.jpg)
+2 kg ekologisk vitkål 30 gram havssalt, jodfritt (1,5% av kålens vikt) 1 msk kummin, för den som vill
 
 1 liter vatten 15 gram jodfritt salt, havssalt
 

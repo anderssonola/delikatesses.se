@@ -7,7 +7,7 @@ categories:
 
 På var och varannan blogg hittar man våffelhjärtan en dag som denna. Men inte här inte. Här bjussar vi på chokladtryffel med schysta tillbehör. Det hela började redan i söndags när vi gästade Hedmans krog i Wästra Torp, utanför Smygehuk. Vi käkade vårkyckling och bjöds på en fantastisk liten dessert i form av just tryffel med tillbehören. Väldigt enkelt och därför fick de avsluta vår myslunch som jag hade med några av mina favvosar idag. Kan vi inte bara lova varandra att våffeljärnen stoppas tillbaka där dom kom ifrån idag och att ni bjuder på en finfin tryffel till kaffet imorgon?!
 
-[![image](/static/img/image1-1024x1024.jpg)](http://import.local/wp-content/uploads/2015/03/image1.jpg)
+![image](/static/img/image1-1024x1024.jpg)
 
 **Chokladtryffel med rörda hallon, lemon curd och kaksmulor** Till 4 desserter
 

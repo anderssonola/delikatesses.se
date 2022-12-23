@@ -16,7 +16,7 @@ tags:
 
 Hösten har verkligen smugit sig på. **Men hey vi gillar ju hösten!** Varma tröjor, lite kallt om näsan, lövhögar och för att inte tala om höstsolen. Dessutom kan man börja tjuvstarta att göra grytor. Så sjukt bra med  allt-i-ett-grytor! Det är ju inte riktigt mörk höst än och därför väntar vi lite med de riktigt mustiga grytorna utan håller oss till lättare varianter med säsongens innehåll. Rotfrukter, krondill och kantareller! Krondill som håller oss kvar i sensommaren och kantarellerna som välkomnar hösten. Denna gryta såg jag första gången när Mat-Tina svängde ihop den med tupplår, sen åt jag en variant på fantatsiska [Sponnery](http://spoonery.se/) så jag svängde ihop min egen variant för någon vecka sen till min fina mappagrupp (mammor + en pappa). Superbra förberedelsemat till många där man bara gör sista piffet med den stekta sparrisen och kantarellerna. Toppa med krondillsvippor och ställ fram.
 
-[![IMG_0854](/static/img/IMG_0854-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/09/IMG_0854.jpg)
+![IMG_0854](/static/img/IMG_0854.jpg)
 
 ## Sensommargryta med kantareller med krondill
 

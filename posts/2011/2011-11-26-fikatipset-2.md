@@ -9,4 +9,4 @@ categories:
 
 Sist vi var där testade vi lemoncurdpaj med maräng & pecanpajen! Heavenly!!
 
-[![](/static/img/pic_176560772-224x300.jpg "pic_176560772")](http://import.local/wp-content/uploads/2012/01/pic_176560772.jpg)
+![](/static/img/pic_176560772-224x300.jpg "pic_176560772")

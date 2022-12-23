@@ -7,7 +7,8 @@ categories:
 
 Ett av mina favoritprogram är River Cottage, eller _Det goda livet_ som det heter på Svenska. Hugh är en sån reko kille. Han tänker ekologiskt och närproducerat och man önskar att man själv hade ett River Cottage. Denna säsong kör han dessutom helt vegetariskt och redan i första avsnittet levererades det ett helt gudomligt recept. Ett enkelt, snabbt och fräscht sådant!
 
- [![](/static/img/IMG_4868-1024x682.jpg "IMG_4868")](http://import.local/wp-content/uploads/2012/06/IMG_4868.jpg)**Purjolöksgryta med curry**
+ ![](/static/img/IMG_4868-1024x682.jpg "IMG_4868")
+ **Purjolöksgryta med curry**
 
 4 port
 

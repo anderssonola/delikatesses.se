@@ -21,4 +21,4 @@ Blanda mjölet med kryddorna. Ta upp en ring i taget med gaffel och lägg i mjö
 
 Värm upp frityroljan till 180 grader och lägg i några ringar åt gången och låt ligga i tills de blir gyllenbruna. Ta upp och lägg på papper så de får rinna av.  
   
-[![20120123-090219.jpg](/static/img/20120123-090219.jpg)](http://import.local/wp-content/uploads/2012/01/20120123-090219.jpg)
+![20120123-090219.jpg](/static/img/20120123-090219.jpg)

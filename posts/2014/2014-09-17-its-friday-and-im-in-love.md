@@ -7,7 +7,8 @@ categories:
 
 Så är det! Fredag, myskänsla, fint väder med solsken, små små kläder inpackade i byrån. Lite kallt om näsan med fönstret öppet på nätterna, I love it! Helgen bjuder på lugn, fotboll, lillebrorshäng och förmodligen en, eller två promenader. Tid helt enkelt, tid att bara vara. När man nu har så mycket tid så passar vi på att göra mustiga långkok. Denna gången är det en viftande svans som får agera huvudingrediens, oxsvans. Vet faktiskt inte varför vi inte använt det mer. Härligt fint kött med massor av smak som behöver tid. Det tar ett par timmar att koka, tid då vi kan göra nåt annat. Perfekt höstmat. Trevlig helg!  
   
-[![IMG_5393.JPG](/static/img/IMG_5393.jpg)](http://import.local/wp-content/uploads/2014/09/IMG_5393.jpg) **Oxsvansragu med polentakaka** 2 kg oxsvans 2 lökar, grovt hackad 2 morot, krock hackad 4 vitlöksklyftor, grovt hackade 2 msk tomatpuré 4 dl vitt vin 1 burk passerade tomater 2 msk smör till stekning Vatten Vetemjöl Salt & svartpeppar
+![IMG_5393.JPG](/static/img/IMG_5393.jpg)
+**Oxsvansragu med polentakaka** 2 kg oxsvans 2 lökar, grovt hackad 2 morot, krock hackad 4 vitlöksklyftor, grovt hackade 2 msk tomatpuré 4 dl vitt vin 1 burk passerade tomater 2 msk smör till stekning Vatten Vetemjöl Salt & svartpeppar
 
 1 burk borlottibönor i spad
 

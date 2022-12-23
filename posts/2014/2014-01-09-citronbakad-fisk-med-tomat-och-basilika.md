@@ -16,7 +16,8 @@ tags:
 
 Hon den där Lotta Lundgren kan det där med vardagslyx. Hon får mig att nästan sätta på mig den lilla svarta när det ska kockas i köket, men jag hejdar min iver. Så i mysbyxor och matskvätt linne mumsar jag nu i mig middagen, som Han lagat. TACK för maten Lotta och Ola!  
   
-[![20140109-113157.jpg](/static/img/20140109-113157.jpg)](http://import.local/wp-content/uploads/2014/01/20140109-113157.jpg) **Citronbakad fisk med tomat & basilika** 500 gram körsbärstomater, romantica 3 citroner 3 vitlöksklyftor 2 krukor basilika 3 msk olivolja 1 msk flytande honung 1 tsk salt 2 portionsbitar fisk (ca 300 gram)
+![20140109-113157.jpg](/static/img/20140109-113157.jpg)
+**Citronbakad fisk med tomat & basilika** 500 gram körsbärstomater, romantica 3 citroner 3 vitlöksklyftor 2 krukor basilika 3 msk olivolja 1 msk flytande honung 1 tsk salt 2 portionsbitar fisk (ca 300 gram)
 
 200 gram couscous varmt vatten så det täcker couscousen 1 msk grönsaksbuljong, 1/2 tärning 1/2 tsk gurkmeja, bara för färgen
 

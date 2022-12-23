@@ -14,9 +14,10 @@ tags:
 
 Kommer ni ihåg dom där svampiga vårrullarna man fick i skolan?! Vi åt samma hemma, med ris och alldeles för mycket mörk mushroom soja. Kanske är det därför vi svenskar i snitt bara äter 1,2 vårrullar per år och person. Det var egentligen först när jag åt såna där små goda friterade vårrular som man idag kan få på varje kinabuffeställe. Doppade i sweet chilisås. Dessa är goda, men det är vansinigt mycket deg och otroligt lite fyllning. Så numera gör vi egna, både stora och små. Små görs oftast när det ska vara lite buffe och snacksigt. Stora om det är det som är huvudnumret till middag. Det är väldigt enkelt när du en gång testat. Fyllningen kan varieras i det oändliga, med kött och utan. dom går jättebra att frysa och sen plocka fram och värm i ugnen på 175 grader. Vill höja ett varningens finger att det är viktigt att man har kontroll på säkerheten när man jobbar med varm olja.  
   
-[![IMG_1891.JPG](/static/img/IMG_1891.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_1891.jpg)  
+![IMG_1891.JPG](/static/img/IMG_1891.jpg)
   
-[![IMG_1898.JPG](/static/img/IMG_1898.jpg)](http://import.local/wp-content/uploads/2015/01/IMG_1898.jpg) **Vegetariska vårrullar** En rejäl skvätt neutral olja 3 vitlöksklyftor 3 rivna mörötter 0,5 kg salladskål 2 små rödlökar, finhackad 1 knippe vårlök/salladslök 150 gram sockerärtor 1 burk böngroddar alt 2 nävar färsk 7 cm ingefära, grovt riven 1 röd chili, lite efter smak 2 msk fisksås 2 msk sesamolja 1 msk japansk soja
+![IMG_1898.JPG](/static/img/IMG_1898.jpg)
+**Vegetariska vårrullar** En rejäl skvätt neutral olja 3 vitlöksklyftor 3 rivna mörötter 0,5 kg salladskål 2 små rödlökar, finhackad 1 knippe vårlök/salladslök 150 gram sockerärtor 1 burk böngroddar alt 2 nävar färsk 7 cm ingefära, grovt riven 1 röd chili, lite efter smak 2 msk fisksås 2 msk sesamolja 1 msk japansk soja
 
 2 liter frityrolja
 

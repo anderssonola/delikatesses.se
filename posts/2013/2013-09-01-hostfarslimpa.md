@@ -19,7 +19,8 @@ tags:
 
 Äntligen är den här igen , HÖSTEN!!! Jag älskar hösten, varma tröjor, frysa lite om näsan, hoppa i lövhögar och laga höstmat. Smakrika rotfrukter, svampar som poppar upp, bärplockning, grova örter och gräddsåser. Höstens mat är fantastisk! Så denna första söndag slår vi till med en twistad husmanskost. Det här med färs stör mig lite. Färsen som ligger i butikskylarna är vakumförpackad och gasad?! som håller hur länge som helst (nästan) Nej det känns verkligen inte okej och onaturligt. Så mitt statement är att köpa bra svenskt kött och mala själv!  
   
-[![20130901-220257.jpg](/static/img/20130901-220257.jpg)](http://import.local/wp-content/uploads/2013/09/20130901-220257.jpg) **Höstfärslimpa** Till många, men minst 6 personer 1 kg svenskt högrev 500 gram svensk karré 2 hg kantareller 2 ägg 1 gul lök, hackad Salt och svartpeppar 1 tsk rosépeppar 2 enbär, krossade och hackade 2 msk smör
+![20130901-220257.jpg](/static/img/20130901-220257.jpg)
+ **Höstfärslimpa** Till många, men minst 6 personer 1 kg svenskt högrev 500 gram svensk karré 2 hg kantareller 2 ägg 1 gul lök, hackad Salt och svartpeppar 1 tsk rosépeppar 2 enbär, krossade och hackade 2 msk smör
 
 2 pkt bacon
 

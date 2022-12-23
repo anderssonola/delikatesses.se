@@ -14,15 +14,16 @@ tags:
   - "senapsfro"
 ---
 
-Puh, har precis tagit ner dom sista ballongerna, samlat ihop partyhattarna och slängt dukarna i tvättmaskinen. Här har det varit 1-års-kalas-kaos i en vecka. Vi bjöd in till djungelkalas med lianer, bananer och vilda djur. Släkten grattade med fina **alla** ha de anamat temat och klätt sig lite mer djuriskt än vanligt. När min fantastiska farmor på 85 jordsnurr kliver in iförd leopardklänning så är festen igång. Kul! Igår var det dags igen med Selmas små kompisar som vi hängt med under året. Vi träffades på Rund & sund när vi gick på gravidvattengympa. Sen tittade de små liven ut en efter en. Så vi slog på stort och hade ett gemensamt kalas för finingarna. [![IMG_9492](/static/img/IMG_9492-1020x680.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9493.jpg)
+Puh, har precis tagit ner dom sista ballongerna, samlat ihop partyhattarna och slängt dukarna i tvättmaskinen. Här har det varit 1-års-kalas-kaos i en vecka. Vi bjöd in till djungelkalas med lianer, bananer och vilda djur. Släkten grattade med fina **alla** ha de anamat temat och klätt sig lite mer djuriskt än vanligt. När min fantastiska farmor på 85 jordsnurr kliver in iförd leopardklänning så är festen igång. Kul! Igår var det dags igen med Selmas små kompisar som vi hängt med under året. Vi träffades på Rund & sund när vi gick på gravidvattengympa. Sen tittade de små liven ut en efter en. Så vi slog på stort och hade ett gemensamt kalas för finingarna. 
+![IMG_9492](/static/img/IMG_9492-1020x680.jpg)
 
 Kvällarna innan låg jag på soffbordet och ritade djur som fick hänga på väggen.
 
-[![IMG_9493](/static/img/IMG_9493-1020x680.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9493.jpg)
+![IMG_9493](/static/img/IMG_9493-1020x680.jpg)
 
 För ett år sen förändrades livet då Selma entrade vår värld. Detta blonda lilla yrväder som hårdtränat våra skrattmuskler, frestat vårt tålamod och fått oss att inse att många saker kan vänta tills man har läst _Äntligen bajs-boken_ om och om och om och om igen.... Så vill man ta livet liiite piano så är detta salladen för just ett sånt tillfälle. Kan verkligen rekommendera att servera [rödlök- & fänkålsfoccacia](http://import.local/2014/06/14/fankal-rodloksfoccacia/) till.
 
-[![IMG_9151](/static/img/IMG_9151-e1443648829371-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/09/IMG_9151.jpg)
+![IMG_9151](/static/img/IMG_9151-e1443648829371-1020x1360.jpg)
 
 ## Rödbetssallad med porcherat ägg, dragonmajjo och picklade senapsfrön
 

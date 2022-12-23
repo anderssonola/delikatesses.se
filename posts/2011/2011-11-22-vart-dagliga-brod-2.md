@@ -17,4 +17,4 @@ Blanda ihop de torra ingredienserna noga. Häll i filen och sirapen och blanda r
 
 Tips! Man kan göra brödet i muffinsplåt, så får man portionsbröd.
 
-[![](/static/img/pic_176104872-224x300.jpg "pic_176104872")](http://import.local/wp-content/uploads/2012/01/pic_176104872.jpg)
+![](/static/img/pic_176104872.jpg "pic_176104872")

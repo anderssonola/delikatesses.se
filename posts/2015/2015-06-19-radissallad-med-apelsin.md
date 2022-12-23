@@ -18,7 +18,7 @@ Tommy Myllymäki, en världskock som tävlat och tagit hem priser i många stora
 
 **GLAD MIDSOMMAR!**
 
-[![IMG_7655](/static/img/IMG_7655-e1434487618142-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_7655.jpg)
+![IMG_7655](/static/img/IMG_7655)
 
 **Rädissallad med apelsin**
 

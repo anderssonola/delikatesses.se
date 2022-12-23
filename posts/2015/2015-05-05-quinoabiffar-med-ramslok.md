@@ -18,11 +18,11 @@ _**Rostad Ramslök**_
 
 Skölj ramslöken och skär bort stjälkarna. Rada upp bladen på bakplåtspapper och ställ in längst ner i ugnen: 100°C i 30-35 minuter. Hacka den torkade ramslöken till önskad storlek och ha ner i en burk.
 
-[![image](/static/img/image-e1430858009501-768x1024.jpg)](http://import.local/wp-content/uploads/2015/05/image.jpg)
+![image](/static/img/image-e1430858009501-768x1024.jpg)
 
 Idag har vi hängt på landet, omringade av gulblommande rapsfält. Vi har gängmyst med vår fina vän Carin som är hemma från andra sidan jorden. Fyra vänner, två mammalediga, en  med flexibelt jobb och en yogis. Myst, druckit stora mängder kaffe och ätit vegetariskt rakt igenom hela dagen. Marängswiss **är** vegetariskt....det är även dessa biffar vi snurrade ihop till lunch med göttig sallad och gräslöksyoghurt. Har man inte rostad ramslök så går det absolut att byta ut mot annan valfri kryddört. Berätta gärna i kommentarerna om ni testar nåt annat.
 
-[![image](/static/img/image1-e1430858041487-768x1024.jpg)](http://import.local/wp-content/uploads/2015/05/image1.jpg)
+![image](/static/img/image1-e1430858041487-768x1024.jpg)
 
 **Quinoabiffar med rostad ramslök**
 

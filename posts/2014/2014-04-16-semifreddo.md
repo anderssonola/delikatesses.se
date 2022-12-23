@@ -6,7 +6,8 @@ categories:
 ---
 
 Är påskaftonens dessert fortfarande inte planerad?! Då har jag receptet här. Förra söndagens dessert bestod i semifreddo, en frusen mousse. Snabb glass för den som inte har glassmaskin och kan smaksättas i oändlighet. Kommer ihåg att min mamma gjorde med polkagris och ibland punsch när vi var små. Påskafton då?! Jo solen skiner och jag är ledig. Vi åker till norra Skåne om någon timme för gömda ägg i trädgården, friterad sparris! och häng med familjen.  
-[![20140419-085011.jpg](/static/img/20140419-085011.jpg)](http://import.local/wp-content/uploads/2014/04/20140419-085011.jpg) **Semifreddo** 3 äggvitor 1 1/2 dl Florsocker 3 dl vispgrädde
+![20140419-085011.jpg](/static/img/20140419-085011.jpg)
+**Semifreddo** 3 äggvitor 1 1/2 dl Florsocker 3 dl vispgrädde
 
 1 burk dulce de leche färdig eller 1 burk söt kondenserad mjölk som man kokar täckt i vatten i 2 timmar. OBS låt svalna innan du öppnar!
 

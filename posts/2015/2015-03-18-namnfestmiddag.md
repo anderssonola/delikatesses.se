@@ -15,7 +15,7 @@ tags:
 
 För ett par veckor sen bjöd vi ju in till namnfest för vår lilla höna. Middagen vi bjöd på var en rätt som vi gjorde för första gången, inget recept, utan från vårt smakminne. Det var nämligen det vi åt på SMAK, den dagen vi bestämde vad vårt lilla hjärta skulle heta. [SMAK](http://smak.info/) är Malmö Konsthalls fantastiska lunchhak. Alltid härlig, lyxig mat efter säsong utan egentliga konstigheter. Man smakar vad man äter helt enkelt.  Denna rätt fångade oss med sin enkelhet och bra preppotential. Dessutom fångar den Skåne som i en liten ask, de gröna ärtorna _(Findus, do I need to say more),_ rågbrödet, kålroten.... Bestämmer man sig för ett litet besök på SMAK så prova den übergoda chokladtårtan till kaffet, himmelsk.
 
-[![IMG_8017](/static/img/IMG_8017-1024x683.jpg)](http://import.local/wp-content/uploads/2015/03/IMG_8017.jpg)
+![IMG_8017](/static/img/IMG_8017-1024x683.jpg)
 
 **Rimmad torsk på ärtpuré, ugnsbakad palsternacka, picklad kålrot och rågbrödsströssel**
 

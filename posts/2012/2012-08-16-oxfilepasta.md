@@ -7,7 +7,7 @@ categories:
 
 För alla tvivlare så kommer här ett recept signerat Mr O. För utom att han servar mig vid teknikstrul på bloggen så lagar han en och annan rätt.  Sägas ska väl att Ola mer än gärna lagar mat men att jag ogärna lämnar ifrån mig det....
 
-[![](/static/img/IMG_4990-1024x682.jpg "IMG_4990")](http://import.local/wp-content/uploads/2012/06/IMG_4990.jpg)
+![](/static/img/IMG_4990-1024x682.jpg "IMG_4990")
 
 **Mr O's fenomenala pasta** 3 portioner 300 g Oxfilé/ryggbiff 1 liten purjolök 1 klyfta vitlök 50 gram smör 6-8 champinjoner 3dl matlagningsgrädde 1-2 tsk dijonsenap beroende på styrka 1/2dl pastavatten Olja Salt & peppar A dash of lemone (citronsaft)
 

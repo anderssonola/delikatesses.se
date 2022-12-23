@@ -13,7 +13,7 @@ Vilken kombo blir din favorit?
 
  
 
-[![20130601-155545.jpg](/static/img/20130601-155545.jpg)](http://import.local/wp-content/uploads/2013/06/20130601-155545.jpg)
+![20130601-155545.jpg](/static/img/20130601-155545.jpg)
 
 _För några helger sen bjöd jag på dessa enkelheter men som ser ut som lyxiga bakelser....Drottningsylt i rullen, en klick grädde och färska bär !_
 

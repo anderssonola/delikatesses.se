@@ -17,4 +17,4 @@ Tackar Tamona ( hästen) för frusen näsa och lyckokänslan man får när släd
 
  
 
-[![](/static/img/pic_180197978-225x300.jpg "släde")](http://import.local/wp-content/uploads/2012/01/pic_180197978.jpg)
+![](/static/img/pic_180197978-225x300.jpg "släde")

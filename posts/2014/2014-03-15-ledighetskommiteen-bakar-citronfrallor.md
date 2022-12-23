@@ -9,6 +9,7 @@ Första lediga helgen på 4 veckor bjuder då inte på sovmorgon, nej klarvaken 
 
 Så nu sitter jag här med tidning, Ring så spelar vi strömmande ur radion och väntar på att Olan ska vakna. Kanske, kanske blir det en förfralla i mitt och Lisa Syrens sällskap.
 
-[![20140315-083009.jpg](/static/img/20140315-083009.jpg)](http://import.local/wp-content/uploads/2014/03/20140315-083009.jpg) **Citronfrallor** 1 sats [durumbröd](http://import.local/2012/01/04/durumbrod-2/) Rivet skal från 1 ekologisk citron, 2 om dom är små
+![20140315-083009.jpg](/static/img/20140315-083009.jpg)
+**Citronfrallor** 1 sats [durumbröd](http://import.local/2012/01/04/durumbrod-2/) Rivet skal från 1 ekologisk citron, 2 om dom är små
 
 Gör som allt i receptet, tillsätt citronskalet, det yttersta gula. Låt stå över natten. Baka ut som "vanligt" men skär brödet i bitar med vass kniv. Lägg frallorna forsatt med skarven neråt på bakplåtspapper [HT0-201](http://www.tbcfircrest.com/ht0-201.html)och toppa med citronbitar. Skjuts in i ugnen, lite vatten i en form i botten och låt stå i 15 minuter. Öppna sen ugnen var 5:e minut tills de fått fin gyllene färg.

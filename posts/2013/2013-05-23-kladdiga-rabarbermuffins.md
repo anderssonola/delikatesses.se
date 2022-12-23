@@ -7,7 +7,7 @@ categories:
 
 Ni kommer att få stå ut ett tag att vart annat inlägg kommer handla om rabarber. Jag fullkomligt älskar rabarber! Paj, saft, kräm, chutneys och förstås muffins. Detta recept blev vi bjudna på förra helgen hos Olans mor. Det var då lite mer komplicerat än i receptet nedan....vill man göra på det svåra sättet, så glöm mjölblandningen till smeten i botten, till precis att du har toppat med marängen och satt in muffinsarna i 3 minuter i ugnen.... #tankspriddsvärmor Men herregud-så-gott!!  
   
-[![20130523-143159.jpg](/static/img/20130523-143159.jpg)](http://import.local/wp-content/uploads/2013/05/20130523-143159.jpg)
+![20130523-143159.jpg](/static/img/20130523-143159.jpg)
 
 **Kladdiga rabarbermuffins**
 

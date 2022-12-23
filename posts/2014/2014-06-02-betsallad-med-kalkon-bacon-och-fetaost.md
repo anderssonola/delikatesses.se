@@ -16,7 +16,8 @@ Vem hade inte velat bli bjuden på en middag i denna oas?
 
 Trädgårdsmarknad  
   
-[![20140602-095537-35737601.jpg](/static/img/20140602-095537-35737601.jpg)](http://import.local/wp-content/uploads/2014/06/20140602-095537-35737601.jpg) **Betsallad med kalkon, bacon och fetaost**
+![20140602-095537-35737601.jpg](/static/img/20140602-095537-35737601.jpg)
+**Betsallad med kalkon, bacon och fetaost**
 
 _**2 stora portioner**_
 

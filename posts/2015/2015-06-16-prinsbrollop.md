@@ -17,9 +17,11 @@ tags:
 
 Tiaran var putsad, champagnen kyld och amuserna stod på bordet. Det var ju dags för prinsbröllop i lördags. Vi satt bänkade allihopa, systrarna, männen, barnen och jag. Halstrad Pilgrimsmussla i champagnesås trängdes med räkcocktail, rårakor med rom, [rödbeta med brynt remoulad](http://import.local/2013/07/14/mumsbitar/) och rubiner, crème ninon, gaspachoshot och kantarellbruschetta. Lite skulle vi ju ha att tugga på till vigseln..... Återkommer med några av smarrigheterna. Vi gjord ett konstaterande. Öppnar man en magnumflaska [Palmer & co Millésime brut 1999](http://www.oenoforos.se/Produkt.aspx?productID=169) så finns det alltid lite kvar i flaskan. Hurra för magnumflaskor! Hurra för prinssesan Sofia och hennes prins och HURRA för middagen vi gjorde något senare på kvällen. Receptet är ursprungligen med kalvrygg och dito bräss från tidningen Mat & vänner, men eftersom mina systrar valt att bli peskatarianer så fick det bli med fisk istället. Smarrigt var ordet sa Bill till Bull!
 
-[![IMG_3703](/static/img/IMG_3703-e1434482635255-1020x765.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_3703.jpg)
-
-[![IMG_3716](/static/img/IMG_3716-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_3716.jpg)[![IMG_3719](/static/img/IMG_3719-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_3719.jpg)[![IMG_3721](/static/img/IMG_3721-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_3721.jpg)[![IMG_3730](/static/img/IMG_3730-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/06/IMG_3730.jpg)
+![IMG_3703](/static/img/IMG_3703-e1434482635255-1020x765.jpg)
+![IMG_3716](/static/img/IMG_3716-1020x1360.jpg)
+![IMG_3719](/static/img/IMG_3719-1020x1360.jpg)
+![IMG_3721](/static/img/IMG_3721-1020x1360.jpg)
+![IMG_3730](/static/img/IMG_3703-e1434482635255-1020x765.jpg)
 
 **Torsk med sveciacréme, pankopanerad pilgrimsmussla & sommargrönsaker**
 

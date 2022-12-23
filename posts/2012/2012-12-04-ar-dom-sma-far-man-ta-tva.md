@@ -19,4 +19,4 @@ Mamma kom med julen i år. Vi har inte pyntat då vi fortfarande är i färd med
 
 Blanda mjölken med ströbrödet och låt svälla under tiden du river löken och potatisen över färsen. Knäck ägget, mortla kryddpeppar. Blanda ihop allt och låt stå en stund. Rulla så små köttbullar som du önskar. Jag vill ha dom små, små så jag kan äta många.  
   
-[![20121204-185941.jpg](/static/img/20121204-185941.jpg)](http://import.local/wp-content/uploads/2012/12/20121204-185941.jpg)
+![20121204-185941.jpg](/static/img/20121204-185941.jpg)

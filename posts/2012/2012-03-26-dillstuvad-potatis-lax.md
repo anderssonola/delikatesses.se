@@ -7,7 +7,7 @@ categories:
 
 Efter helgens fantastiska avsmakningsmeny med tillhörande dryck i Mathias Dahlgrens Matsalen börjar vi veckan i all sin enkelhet. Vi håller nog fortfarande på att smälta den kulinariska upplevelsen och går som i trans och filar på hur vi någon dag ska kunna lägga ut nåt så snarlika recept på menyerna här på bloggen. Så ikväll fick det bli en rätt som kan göras i okoncentrerat läge. Lite varmt och lite kallt.
 
-[![](/static/img/IMG_3667-1024x682.jpg "IMG_3667")](http://import.local/wp-content/uploads/2012/03/IMG_3667.jpg)**dillstuvad potatis**
+![](/static/img/IMG_3667-1024x682.jpg "IMG_3667")**dillstuvad potatis**
 
 1 kg fast potatis
 

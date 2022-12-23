@@ -13,11 +13,12 @@ tags:
   - "vinagrett"
 ---
 
-Idag har jag fått den bästa gå-bort-presenten Evert. Världens finaste, hemmasydda förkläde! Min finaste vän Malin har sytt! Detta kommer bäras med vördnad! Inte nog med det. En kasse nyskördade grönsaker följde med med. Rödbetor, zucchini, lök, vitlök, sallad och en ansenlig mängd sparrispotatis. Vem vill inte ha såna vänner?! Nu skulle man kunna tro att det skulle vara nog, men nej. Gästerna hade med sig efterrätt i form av en ljuvlig kolapaj, vispad créme fraiche och egenodlade vinbär. VÄRLDKLASS helt enkelt. Vi bjöd givetvis på [middag](http://import.local/2014/01/09/citronbakad-fisk-med-tomat-och-basilika/)....[![image](/static/img/image14.jpg)](http://import.local/wp-content/uploads/2015/07/image14.jpg)
+Idag har jag fått den bästa gå-bort-presenten Evert. Världens finaste, hemmasydda förkläde! Min finaste vän Malin har sytt! Detta kommer bäras med vördnad! Inte nog med det. En kasse nyskördade grönsaker följde med med. Rödbetor, zucchini, lök, vitlök, sallad och en ansenlig mängd sparrispotatis. Vem vill inte ha såna vänner?! Nu skulle man kunna tro att det skulle vara nog, men nej. Gästerna hade med sig efterrätt i form av en ljuvlig kolapaj, vispad créme fraiche och egenodlade vinbär. VÄRLDKLASS helt enkelt. Vi bjöd givetvis på [middag](http://import.local/2014/01/09/citronbakad-fisk-med-tomat-och-basilika/)....
+![image](/static/img/image14-632x632.jpg)
 
 Jag vet precis vad vi ska göra på rödbetorna. En klassisk tarte tatin,  görs förstås med äpplen. Men principen – att karamellisera utsökta, runda, söta läckerheter, lägga över smördeg och vända det hela upp och ner – fungerar lika bra i denna glamourösa variant. Vinägretten med schalotten- eller salladslök är pricken över i:et.
 
-[![IMG_8199](/static/img/IMG_8199-e1437945179825-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/07/IMG_8199.jpg)
+![IMG_8199](/static/img/IMG_8199-e1437945179825-1020x1360.jpg)
 
 ## Rödbets tarte tatin
 

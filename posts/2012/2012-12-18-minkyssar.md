@@ -18,4 +18,4 @@ Häll upp vatten i en kastrull och sätt på plattan. Skikta ner florsockret, do
 
   
   
-[![20121218-225538.jpg](/static/img/20121218-225538.jpg)](http://import.local/wp-content/uploads/2012/12/20121218-225538.jpg) En kyss någon?!
+![20121218-225538.jpg](/static/img/20121218-225538.jpg)

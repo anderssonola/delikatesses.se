@@ -13,4 +13,4 @@ I år hann jag inte vara Ernst utan jag la tid på piffet istället. Trots att d
 
 Paketera Pyssla Häfta Klart!  
   
-[![20121222-121400.jpg](/static/img/20121222-121400.jpg)](http://import.local/wp-content/uploads/2012/12/20121222-121400.jpg) Visst blev dom fina! En rolig ge-bort-present till gammal som ung.
+![20121222-121400.jpg](/static/img/20121222-121400.jpg) Visst blev dom fina! En rolig ge-bort-present till gammal som ung.

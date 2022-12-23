@@ -21,9 +21,9 @@ Min galet snygga skötväska från Littlephant....
 
 Den manliga delen av hushållet fullkomligen älskar Dumlekolor, min pappa gillar en _(läs två)_ kaka till kaffet och jag gillar att baka. Win win, då vi skulle ha nåt gott till kaffet i söndags. Så på lördagskvällen öppnades det dumlekolor och rullades bollar vilket resulterade i finfin fika till fars dag. Dessa godingar kommer vara återkommande i vår frys. Upptäckte idag att sega kakor är lika goda direkt från frysen.....
 
-[![IMG_6888](/static/img/IMG_6888-1024x682.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_6888.jpg)
+![IMG_6888](/static/img/IMG_6888-1024x682.jpg)
 
-[![IMG_6900](/static/img/IMG_6900-1024x682.jpg)](http://import.local/wp-content/uploads/2014/11/IMG_6900.jpg)
+![IMG_6900](/static/img/IMG_6900-1024x682.jpg)
 
 **Sega dumlekakor**
 

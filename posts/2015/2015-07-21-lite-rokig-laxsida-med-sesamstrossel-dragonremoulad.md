@@ -17,13 +17,21 @@ tags:
 
 Här hemma rullar det på. I helgen var vi hos fina vänner vid sjön  Bolmen. Åkte båt, grillade, drack te och bara myste och åt god dessert (återkommer med ett recept på det när jag fått det av Ida). Vi åkte båt rakt över sjön till ett mysigt ställe som heter [Tiraholms fisk](http://www.tiraholm.se/sve/index.php). De odlar sin egen regnbågslax i stora kassar i Bolmen som de sen säljer.  den vilda fisken fångas med bottengarn som görs på gården. Mycket intressant läsning på hemsidan. Vi köpte med oss tre olika sorter av den galet goda varmrökta laxen, som röks i specialgjorda ugnar, med olika smaksättningar. Har man vägarna förbi så är detta ett toppenställe, där man dessutom kan få se livs levande ålar.
 
-[![image](/static/img/image7.jpg)](http://import.local/wp-content/uploads/2015/07/image7.jpg) [![image](/static/img/image8-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/07/image8.jpg) [![image](/static/img/image9-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/07/image9.jpg) [![image](/static/img/image13.jpg)](http://import.local/wp-content/uploads/2015/07/image13.jpg)Mysig utflykt till [Stockhultsgårdens tebod](http://www.stockhultgardenstebod.com/). Tack för att vi fick komma, Ida & Daniel <3
+
+![image](/static/img/image7-1024x1024.jpg)
+![image](/static/img/image8-300x225.jpg)
+![image](/static/img/image9-1020x1360.jpg)
+![image](/static/img/image13.jpg)
+Mysig utflykt till [Stockhultsgårdens tebod](http://www.stockhultgardenstebod.com/). Tack för att vi fick komma, Ida & Daniel <3
 
  
 
 Innan helgens mys så mös vi med kusinbesök från Linköping. På kvällen grillade vi laxsida som blev otroligt god med lite hjälp av rökspån, en dragonremoulad och ugnsrostade potatisar. Glöm inte att smaka citronskivorna, överraskande gått med rökt sådan. Ljuvligt!
 
-[![image](/static/img/image4-1020x765.jpg)](http://import.local/wp-content/uploads/2015/07/image4.jpg) [![image](/static/img/image5-e1437558979826-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/07/image5.jpg) [![image](/static/img/image6-e1437559027691-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/07/image6.jpg)
+
+![image](/static/img/image4-e1427829854357-300x300.jpg)
+![image](/static/img/image5-e1437558979826-1020x1360.jpg)
+![image](/static/img/image6-e1437559027691-1020x1360.jpg)
 
 **Lite rökig lax med sesamströssel & dragonremoulad**
 
@@ -51,7 +59,7 @@ _**sesamströssel**_
 
 _**dragonremoulad**_
 
-1,5 dl [majonäs](http://import.local/2015/03/31/majonas-pa-guldagg/)
+,5 dl [majonäs
 
 1,5 dl tjock turkisk yoghurt
 

@@ -15,7 +15,8 @@ tags:
 
 GOD JUL! Klockan har slagit om till julafton och jag borde egentligen sova för längesen, men nu gör jag inte det... Veckan har varit full med jobb och vi kör en dag imorgon med till fikasugna julfirare. Jag har nåt åldern då man uppskattar radioprogram på andra kanaler än musikkanalerna. P1 är en fantastisk kunskapskanal där förutom mitt favoritprogram På minuten, även sänder Meny med Tomas Tengby.( han som var sidekick till Mat-Tina) Det har pratats julmat i ett par program och ett av dom handlade om grönare jul och mer grönt på våra julbord. Som komplement till allt kött och fisk. Äter Du nåt grönt på julbordet?! Dagens recept är funnet på Allt om mat's hemsida. De serverades till [Glöggningen 2013](http://import.local/2013/12/12/gloggning-2013/) och kommer återkomma igen.  
   
-[![20131224-004719.jpg](/static/img/20131224-004719.jpg)](http://import.local/wp-content/uploads/2013/12/20131224-004719.jpg)**Saffranspajer - med eller utan lyx** 24 mini, 12 små eller 1 stor
+![20131224-004719.jpg](/static/img/20131224-004719.jpg)
+**Saffranspajer - med eller utan lyx** 24 mini, 12 små eller 1 stor
 
 [Pajdeg](http://www.svt.se/niklas-mat/pajdeg), går alldeles utmärkt att köpa färdig.
 

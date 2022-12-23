@@ -19,4 +19,4 @@ Dyrast är alltså inte alltid bäst! Vilken är din favorit?! På Klädesholmen
 
 Fram till skrivande stund har det inte gått att uppbringa svensk färskpotatis( om man inte vill betala 300;-/kg), men om en vecka så är de nere på rimligt pris. Glöm inte ligga på din handlare så vi får veta vilken sort vi köper, inte bara "nypotatis"!
 
-[![20130529-225858.jpg](/static/img/20130529-225858.jpg)](http://import.local/wp-content/uploads/2013/05/20130529-225858.jpg)
+![20130529-225858.jpg](/static/img/20130529-225858.jpg)

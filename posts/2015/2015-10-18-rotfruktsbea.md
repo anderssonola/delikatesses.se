@@ -15,9 +15,10 @@ tags:
 
 Jojo! Här har det vunnits en liten cykel må ni tro. En röd och fin Stålhästen kammade jag hem efter att ha lämnat in mitt kvitto på Malmborgs Caroli. Tanterna bakom frågade om tääääääävlingen fortfarande höll på? Med stort öra lussnade jag när jag packade ner mina varor. Nyfiken i en strut hoppade ut och tog reda på att man kunde vinna fina priser om man helt sonika fyllde i sina kontaktuppgifter på baksidan på spenderarpappret som precis spottats ur kvittomaskinen. Sagt och gjort så lämnade jag mitt 997:--kvitto till kassörskan. Helgen gick och på måndagen damp det ner ett mejl om att JAG vunnit den fina cyk_elen_ (som man säger i Malmööö) Så fint som snus glider vi omkring på hästen. Handlar lite rotfrukter och närproducerat kött på Bondens marknad. Sen parkerar vi hästen och går in för att göra oss lite göttig rotfruktsbea. Jo, för man kan använda rotfrukter som bas i sås. Det har vi nu lärt oss förutom att man kan vinna tävlingar om man deltager.
 
-## [![IMG_9481](/static/img/IMG_9481-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9481.jpg)
+## ![IMG_9481](/static/img/IMG_9481)
 
-## [![IMG_9564](/static/img/IMG_9564-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9564.jpg)Rotfruktsbea
+## ![IMG_9564](/static/img/IMG_9564-1020x1020.jpg) 
+Rotfruktsbea
 
 _Gör absolut inte för lite, dubbla hellre satsen för att vara på den säkra sidan för detta är sååååå gott!_
 

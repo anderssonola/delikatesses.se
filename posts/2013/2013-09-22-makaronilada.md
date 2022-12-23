@@ -7,7 +7,7 @@ categories:
 
 Ibland tar fantasin på nya rätter slut. Det är då vi går tillbaka till grunden. Våra matminnen från förr. Då vi bodde hemma, när man blev inkallad för att maten var klar och det bara var att njuta. Jag tackar mamma och pappa för all god vällagad mat jag fått under min uppväxt. Mest pappa då det är han som varit den stora inspiratören med att våga laga på känsla. En rätt som återkom var makaronipudding, serverad med lingonsylt och morotssallad. Man behöver inte använda bacon utan man kan ta rester på skinka eller kassler om det finns. Det går givetvis även bra att utesluta kött helt och göra den vegetarisk....kanske riva i ett äpple istället.  
   
-[![20130922-120620.jpg](/static/img/20130922-120620.jpg)](http://import.local/wp-content/uploads/2013/09/20130922-120620.jpg)
+![20130922-120620.jpg](/static/img/20130922-120620.jpg)
 
 **Makaronipudding** _\-a la Mannerström_ 4 dl gammeldags idealmakaroner 6 dl standardmjölk, 3% 2 dl vatten Salt Peppar Muskot, efter tycke och smak
 

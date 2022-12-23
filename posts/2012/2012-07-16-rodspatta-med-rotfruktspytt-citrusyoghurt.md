@@ -13,7 +13,7 @@ tags:
 
 Så är vi där igen, SPÄTTA!!!
 
-[![](/static/img/IMG_4839-1024x682.jpg "IMG_4839")](http://import.local/wp-content/uploads/2012/06/IMG_4839.jpg)
+![](/static/img/IMG_4839-1024x682.jpg "IMG_4839")
 
 **Spätta med rotfruktspytt och citrusyoghurt** 8 små rödspättor
 

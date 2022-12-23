@@ -16,7 +16,7 @@ tags:
 
 Efter en superhärligt helg hos lillasyster med folkrace, vaniljbullar som står upp för sitt namn, bad (_för vissa_), godaste maten och passande dryck kom vi så hem i eftermiddags. Att vara bortbjudna är så där härligt avslappnande att vi ofta är lite rastlösa när vi kommer hem. Vi har lite olika sätt att göra av med överskottsenergi på, Ola och jag. Ola stack och tränade medans jag rostade sockerkakskrutonger, knådade pastadeg och rörde ihop en sats munkar till kvällskaffet. Blev en drös så det fick bli lite fikagäster med.  
   
-[![20130721-221608.jpg](/static/img/20130721-221608.jpg)](http://import.local/wp-content/uploads/2013/07/20130721-221608.jpg) **Munkar ca 20 st** 25 gram jäst 75 gram smör 2 1/2 dl mjölk 1/2 dl socker 1/2 tsk salt 5-6 dl vetemjöl
+![20130721-221608.jpg](/static/img/20130721-221608.jpg) **Munkar ca 20 st** 25 gram jäst 75 gram smör 2 1/2 dl mjölk 1/2 dl socker 1/2 tsk salt 5-6 dl vetemjöl
 
 5 dl neutral olja
 

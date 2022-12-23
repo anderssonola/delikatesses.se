@@ -8,7 +8,7 @@ categories:
 
 Jämställdeheten visade sitt rätta ansikte häromdagen.  Jag åkte iväg för att tvätta bilen och sambon städade lägenheten samtidigt som han bakade mazariner. Med andra ord så blev det go´fika när jag kom hem aningens blöt....
 
-[![](/static/img/IMG_3637-1024x682.jpg "IMG_3637")](http://import.local/wp-content/uploads/2012/03/IMG_3637.jpg)
+![](/static/img/IMG_3637-1024x682.jpg "IMG_3637")
 
 **Mördeg**
 

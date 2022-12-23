@@ -7,7 +7,7 @@ categories:
 
 När snöstormen drar in i mitten av april och kocken blir sittandes på motorvägen så får man lösa lunchen till 300 hungriga gäster. De gamla takterna satt i... Det stod Beuf bourgignon, ugnsbakad torsk med pestotäcke samt denna lilla goding på menyn.Jag har skalat ner receptet så ni slipper göra 10 bleck....
 
-[![](/static/img/IMG_4159-1024x682.jpg "IMG_4159")](http://import.local/wp-content/uploads/2012/04/IMG_4159.jpg)
+![](/static/img/IMG_4159-1024x682.jpg "IMG_4159")
 
 4 personer (eller två vrålhungriga)
 

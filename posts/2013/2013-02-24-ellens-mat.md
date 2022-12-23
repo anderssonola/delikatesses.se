@@ -31,4 +31,4 @@ Hacka lök, vitlök och klyfta svampen. Stek på medelhög värme till lök och 
 
 Servera med bulgur/pasta och en sallad med rostade frön. Till bebisen kan man göra potatismos alternativt risoni och röra ihop allt och frysa in i små portioner.  
   
-[![20130224-213354.jpg](/static/img/20130224-213354.jpg)](http://import.local/wp-content/uploads/2013/02/20130224-213354.jpg)
+![20130224-213354.jpg](/static/img/20130224-213354.jpg)

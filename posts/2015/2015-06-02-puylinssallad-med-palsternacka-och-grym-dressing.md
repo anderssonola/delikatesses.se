@@ -17,7 +17,7 @@ Det är svårt att börja en vecka bättre än på sättet vi gjorde förra veck
 
  
 
-[![IMG_8735](/static/img/IMG_8735-1020x680.jpg)](http://import.local/wp-content/uploads/2015/05/IMG_8735.jpg)
+![IMG_8735](/static/img/IMG_8735-1020x680.jpg)
 
 **Puylinssallad med palsternacka och grym dressing** 
 

@@ -15,9 +15,11 @@ tags:
 
 På tisdag är det ett helt år sen vår lilla tjej kom till oss. Time flies! Varje dag med henne får mitt hjärta att slå volter. Hon är fantastisk och lär både sig själv och oss massa nya saker hela tiden. Igår hade vi bjudit in familjen till 1 års kalas med djungeltema. Förutom den galet smaksiga tårtan så bjöd vi på giraffrulltårta, kokostoppar, bananer i mängd, sega ormar och ett magiskt stort fruktfat med vattenmelonklubbor, litchi, passionfrukt och kiwi. Allt som bör finnas på en djungelkalaskakbuffé. Sen gick vi på tigerjakt med Selmas kusiner och istället för fiskdam fick man svinga i lian för att få sig en godispåse. Hela familjen hade någon form av djuriskt mönster på sig vilket var väldigt kul. Huvudpersonen själv var en typisk djungelgiraff....Idag är vi lite dagen efter...hrm..kalas. Ballongerna, lianerna och aporna hänger kvar. De får hänga till nästa söndag då alla Selmas jämngamla kompisar kommer så vi kan fira dom allihop. Vi laddar om igen helt enkelt. Tårtan blev supersmarrig och receptet är hämtad hos Linda Lomelino när hon bloggade på Amelia. And yes, det är mina sugarpasteskills ni ser i den blå elefanten. Ska nog bli bra när hon fyller 10 år.....
 
-[![IMG_9505](/static/img/IMG_9505-e1443994044661-1020x1530.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9505-e1443994044661.jpg)[![IMG_9431](/static/img/IMG_9431-e1443994449452-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9431-e1443994449452.jpg)[![IMG_9419](/static/img/IMG_9419-e1443994346952-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9419.jpg)  [![IMG_9613](/static/img/IMG_9613-1020x680.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9613.jpg)
-
-[![IMG_9420](/static/img/IMG_9420-e1443994387318-1020x1360.jpg)](http://import.local/wp-content/uploads/2015/10/IMG_9420.jpg)
+![IMG_9505](/static/img/IMG_9505)
+![IMG_9431](/static/img/IMG_9431-e1443994449452-632x843.jpg)
+![IMG_9419](/static/img/IMG_9419)
+![IMG_9613](/static/img/IMG_9613)
+![IMG_9420](/static/img/IMG_9420-e1443994387318-1020x1360.jpg)
 
  
 

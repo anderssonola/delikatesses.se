@@ -13,9 +13,15 @@ tags:
   - "vin"
 ---
 
-Idag har vi haft ytterligare en fabulös dag. Lurre med Selmas farbror och sen långhäng med min farmor och Selmas farmorfarmor. Jepp det är vad hon är, inte gamlafarmor utan en farmorfarmor. Man är inte äldre än man gör sig... Vi har fikat -_givetvis på hembakat_, busat, gått igenom hur Ipaden fungerar -_yes, det är aldrig försent_ och dessutom fick jag galet god middag. Ett recept som hon gjorde första gången på husvagnscampingen i Barsebäck. När hon och hennes Gösta bjöd grannhusvagnen på middag, 1997. [![image](/static/img/image15-1024x768.jpg)](http://import.local/wp-content/uploads/2015/02/image15.jpg)Broschyren från Mejerierna var så där härligt 90-talig, recepten är dels skrivna för ugn, men efter kommer en beskrivning för hur man gör det i mikrovågsugn. Så vi säger hej till 90-talet och bjuder på en rätt som passar lika bra 2015. Tack för idag farmor❤️ [![image](/static/img/image16-e1424921097331-765x1024.jpg)](http://import.local/wp-content/uploads/2015/02/image16-e1424921097331.jpg)
+Idag har vi haft ytterligare en fabulös dag. Lurre med Selmas farbror och sen långhäng med min farmor och Selmas farmorfarmor. Jepp det är vad hon är, inte gamlafarmor utan en farmorfarmor. Man är inte äldre än man gör sig... Vi har fikat -_givetvis på hembakat_, busat, gått igenom hur Ipaden fungerar -_yes, det är aldrig försent_ och dessutom fick jag galet god middag. Ett recept som hon gjorde första gången på husvagnscampingen i Barsebäck. När hon och hennes Gösta bjöd grannhusvagnen på middag, 1997. 
+![image](/static/img/image15-1024x768.jpg)
+Broschyren från Mejerierna var så där härligt 90-talig, recepten är dels skrivna för ugn, men efter kommer en beskrivning för hur man gör det i mikrovågsugn. Så vi säger hej till 90-talet och bjuder på en rätt som passar lika bra 2015. Tack för idag farmor❤️ 
 
-[![image](/static/img/image14-1024x768.jpg)](http://import.local/wp-content/uploads/2015/02/image14.jpg) **Farmorfarmors husvagnslax** Till er och två grannar
+![image](/static/img/image16-e1424921097331-765x1024.jpg)
+
+![image](/static/img/image14-1024x768.jpg)
+
+**Farmorfarmors husvagnslax** Till er och två grannar
 
 2 purjolökar, normalstora 1 msk smör 50 gram rökt, skivad lax, typ 3 skivor 2 dl grädde 1 dl vitt vin eller 2 tsk citronsaft + 6 msk vatten 500 gram laxfile Salt & svartpeppar
 

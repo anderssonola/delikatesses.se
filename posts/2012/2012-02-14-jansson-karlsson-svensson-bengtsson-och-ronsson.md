@@ -30,4 +30,4 @@ Servera med kinakål/salladskål som dressas med vinegrett efter tycke och smak.
 
 **_Till detta dricker vi gärna en svensk Grebbestad lager (nr 1434) eller en Landsortslager( nr 1466)_**
 
-[![20120214-211404.jpg](/static/img/20120214-211404.jpg)](http://import.local/wp-content/uploads/2012/02/20120214-211404.jpg)
+![20120214-211404.jpg](/static/img/20120214-211404.jpg)

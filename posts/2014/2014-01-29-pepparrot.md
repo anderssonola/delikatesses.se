@@ -13,7 +13,8 @@ tags:
 
 "Rädisan är värd sin vikt i bly, rättikan i silver men pepparroten i guld." Så lär oraklet i Delfi ha sagt till de grekiske guden Apollon som sedan introducerade den för människorna. Visste ni att när man odlar pepparrot så gräver man först ner en planka så roten inte blir lång och smal utan grov istället. Eller så odlar man den horisontellt, liggandes i jorden. Dessutom så innehållet denna lilla rot mer C-vitamin än en apelsin, 81 mg/100g. Så i förkylningstider som denna rekommenderas mer pepparrot åt folket!  
   
-[![20140129-232851.jpg](/static/img/20140129-232851.jpg)](http://import.local/wp-content/uploads/2014/01/20140129-232851.jpg) **Pepparrotskött med buljongkokta grönsaker** 2 portioner, med omtag eller matlåda
+![20140129-232851.jpg](/static/img/20140129-232851.jpg)
+**Pepparrotskött med buljongkokta grönsaker** 2 portioner, med omtag eller matlåda
 
 400 gram nötrulle eller bog 1,5 liter vatten 1 morot 1 lök 2 lagerblad 5 svartpepparkorn Salt **Buljongkokta grönsaker** 2 palsternackor 2 morötter 2 potatisar 1 bit rotselleri 3 msk grönsaksbuljong 4 små lökar 4 svampar som skräpar längst in i lådan (kan uteslutas ) Bladpersilja Vatten **Pepparrotssås** Buljongen från köttet, reducerad till hälften 2 dl matlagningsgrädde 1 tsk dijonsenap Salt & vitpeppar Riven pepparrot, efter tycke och smak
 

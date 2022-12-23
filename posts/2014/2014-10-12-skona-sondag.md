@@ -16,13 +16,16 @@ tags:
 
 Vilken helg vi haft. I fredags hälsade mysiga tant Linda & tant Carin på. Mysan blev elefantifierad med pyjamas och skallra. Föräldrarna fick champagne, We like a lot! Igår hade vi besök av skruttans morfar, mostrar, kusiner och "morbröder". God lunch från [Sumo sushi](http://sumosushi.se/meny/) sen finfika från Hollandia. Mycket mys, bus och fina presenter.  
   
-[![IMG_5524.JPG](/static/img/IMG_5524.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5524.jpg)  
-  
-[![IMG_5525.JPG](/static/img/IMG_5525.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5525.jpg)  
+![IMG_5524.JPG](/static/img/IMG_5524.jpg)
+![IMG_5525.JPG](/static/img/IMG_5525.jpg)
+
 Min lillasyster har gjort finaste mobilen till vagnen  
-[![IMG_5513.JPG](/static/img/IMG_5513.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5513.jpg) Idag har vi hållit söndag med premiärturen i vagnen, soffhäng, fika och söndagsmiddag på ugnsstekt kyckling. Vi serverade med klassiska tillbehör, pressgurka, brunsås och potatis, men denna kyckling står sig lika bra med en bulgursallad eller ugnsrostade rotfrukter, välj själv!  
+
+[![IMG_5513.JPG](/static/img/IMG_5513.jpg) 
+Idag har vi hållit söndag med premiärturen i vagnen, soffhäng, fika och söndagsmiddag på ugnsstekt kyckling. Vi serverade med klassiska tillbehör, pressgurka, brunsås och potatis, men denna kyckling står sig lika bra med en bulgursallad eller ugnsrostade rotfrukter, välj själv!  
   
-[![IMG_5523.JPG](/static/img/IMG_5523.jpg)](http://import.local/wp-content/uploads/2014/10/IMG_5523.jpg) **Ugnsstekt kyckling**
+![IMG_5523.JPG](/static/img/IMG_5523.jpg) 
+**Ugnsstekt kyckling**
 
 1 hel kyckling, ekologisk 1/2 dl hackad färsk timjan 1/2 dl hackad bladpersilja Salt & peppar Zest från 1 citron 1 vitlöksklyfta, riven 75 gram smör
 

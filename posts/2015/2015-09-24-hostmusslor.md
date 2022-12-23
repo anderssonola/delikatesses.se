@@ -17,7 +17,7 @@ När man nämner snabbmat så tänker många hamburgare, korv, pizza, kebab och
 
 Till det här receptet behövs en riktigt bra cider. Jag har lite svårt för den torra cidern som Systembolaget benämner med halm i sina smak- och doftbeskrivningar. Blir liiite för mycket stall, så dom undviker jag. Men det finns en kul nyhet som jag använde mig av i dessa musslorna i fredags. Den blev alldeles ljuvlig till med. _**[Cidre reserve](http://www.systembolaget.se/dryck/cider-och-blanddrycker/cidre-reserve-9932601),** **Domaine Dupont, Frankrike**_ med _**nr 99326**_ för _**115 välinvesterade kronor**_. Den har legat 6 månader på calvadosfat och får en liten fatad ton. Men skynda, den finns bara i begränsad upplaga.
 
-[![IMG_9175](/static/img/IMG_9175-1020x1020.jpg)](http://import.local/wp-content/uploads/2015/09/IMG_9175.jpg)
+![IMG_9175](/static/img/IMG_9175-632x632.jpg)
 
 ## Höstmusslor
 

@@ -7,7 +7,7 @@ categories:
 
 Jag har ätit väldigt lite micromat i mina dar om man bortser från denna lilla godingen. Ibland behöver det gå galet snabbt och vara enkelt att laga middag. Så varför inte göra det i micron. Fisken tar lika kort tid som riset att bli klar. Däremellan blandar du såsen och sätter  på broccolin, så när det plingar i micron andra gången är middagen klar.
 
-[![](/static/img/IMG_4124-1024x682.jpg "IMG_4124")](http://import.local/wp-content/uploads/2012/04/IMG_4124.jpg)
+![](/static/img/IMG_4124-1024x682.jpg "IMG_4124")
 
 **Sherryspätta**
 
