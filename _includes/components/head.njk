@@ -4,7 +4,7 @@
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   {% set css %}
-    {% include "assets/css/inline.css" %}
+    {% include "assets/css/simple.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {# {% set js %}
