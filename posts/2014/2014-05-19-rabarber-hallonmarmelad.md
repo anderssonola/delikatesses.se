@@ -14,4 +14,4 @@ Det är verkligen en lyx att få känna folk som ser att det enkla oftast är de
 
 300 gram rabarber 150 gram hallon 500 gram socker 2 ekologiska citroner, zest och saft
 
-Ansa och skär rabarberna i mindre bitar. Blanda med hallon, socker och citron. Låt stå framme i rumstemperatur ett par timmar. Ställ sen in i kylen över natten. Häll upp i kastrull och koka till 105 grader på medelhög värme. Häll upp på väl rengjorda burkar. Låt stå framme tills de svalnat. Servera till goda [scones](http://import.local/2013/11/20/scones/)
+Ansa och skär rabarberna i mindre bitar. Blanda med hallon, socker och citron. Låt stå framme i rumstemperatur ett par timmar. Ställ sen in i kylen över natten. Häll upp i kastrull och koka till 105 grader på medelhög värme. Häll upp på väl rengjorda burkar. Låt stå framme tills de svalnat. Servera till goda [scones](/posts/scones/)

@@ -14,7 +14,7 @@ tags:
 
 Tjoho! Nu har semestern börjat. 3 härliga veckor med bröllop ❤️, mysdagar med efterlängtade människor som jag inte sett på en evighet, lata dagar och förhoppningsvis lite sol. Det börjar bra idag med strålande sol och en AW. Tånaglarna är målade med färgen bubbel gum med glittertopping. Fint som snus i strandsand.
 
-Det ska ätas( Bastards pizzaställe på Kullen ska bl.a. besökas) fikas och drickas [lemonad](http://import.local/2014/06/09/jordgubbslemonad/). När vi ändå pratar fika testade jag dessa godingar för ett par veckor sen på mina fina kollegor. Givetvis får man inte slicka sig om munnen när man äter munkar...Receptet lånat av Made by Mary.  
+Det ska ätas( Bastards pizzaställe på Kullen ska bl.a. besökas) fikas och drickas [lemonad](/posts/jordgubbslemonad/). När vi ändå pratar fika testade jag dessa godingar för ett par veckor sen på mina fina kollegor. Givetvis får man inte slicka sig om munnen när man äter munkar...Receptet lånat av Made by Mary.  
   
 ![20140704-173709-63429574.jpg](/static/img/20140704-173709-63429574.jpg)
 

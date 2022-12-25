@@ -20,7 +20,7 @@ Förra veckan och helgen var ganska intensiv. Det var tågpremiär för lilla h�
 Vill man fira med en" stor pralin" så får man svänga ihop denna goda chokladmoussetårta som Anna bjöd på förra söndagen.
 
 ![IMG_6633](/static/img/IMG_6633-1024x683.jpg)
-Vi måste sätta [glöggen](http://import.local/2013/10/28/glogg/) denna veckan, har googlat pepparkakshusinspiration med så nu vet jag hur årets arkitektur ska se ut. Kommer bli galet bra!
+Vi måste sätta [glöggen](/posts/glogg/) denna veckan, har googlat pepparkakshusinspiration med så nu vet jag hur årets arkitektur ska se ut. Kommer bli galet bra!
 
 **Chokladmoussetårta** 10 personer
 

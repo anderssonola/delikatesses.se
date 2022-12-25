@@ -12,7 +12,7 @@ Den vackra Anna som gett namn åt desserten. Ballerinan är mest känd för sin 
 
 **Pavlova** 4 äggvitor 4 dl socker 1,5 tsk citronsaft 3 tsk maizena stärkelse
 
-Lemoncurd, eller annan [curd](http://import.local/2012/03/27/grapecurd/) Lättvispad grädde Galet mycket bär och frukt som den toppas med
+Lemoncurd, eller annan [curd](/posts/grapecurd/) Lättvispad grädde Galet mycket bär och frukt som den toppas med
 
 Separera äggulor och vita. Vispa vitorna hårda, skålen ska kunna vändas upp och ner utan att den rinner ut. Vispa i socker och citronsaft. Vispa tills den är glansig och topparna stannar kvar. Rör sen i maizenan. Fira en 20cm rundel på ett bakplåtspapper och spritsa ut i cirkeln. Avsluta med ett extra lager i ytterkant, så det bildas en liten vall. Grädda 15 min i ugnen på 150 grader, sänk därefter värmen till 100 grader i ytterligare 30 min. Ta ut och känn på marängen, den ska vara hård utanpå och krämig inuti. Om den verkar för mycket krämig, grädda 10–15 minuter till. Låt svalna på galler.
 

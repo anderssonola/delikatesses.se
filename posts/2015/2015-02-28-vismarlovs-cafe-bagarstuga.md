@@ -11,13 +11,13 @@ tags:
   - "vismarslov"
 ---
 
-Det är vår i Skåne. Solen har strålat hela dagen. Vi har tittat på Ola när han spelade fotboll, druckit en [Pimm's](http://import.local/2014/07/27/han-dricker-pimms/) och ätit koreanskt till middag, återkommer med recept. 
+Det är vår i Skåne. Solen har strålat hela dagen. Vi har tittat på Ola när han spelade fotboll, druckit en [Pimm's](/posts/han-dricker-pimms/) och ätit koreanskt till middag, återkommer med recept. 
 
 ![image](/static/img/image17-e1425202939504-768x1024.jpg)
 
 ![image](/static/img/image18-1024x768.jpg)
 
-Efter fotbollen snabbgooglade vi café + Svedala och ramlade över en ny pärla i Skåne som vi absolut kommer återvända till. [Vismarlövs café- & bagarstuga](http://www.vismarlovscafe.se/se/). Ett übermysigt ställe med sopp- och macklunch, kakbuffe och en otroligt mysig servering. Enligt hemsidan serveras frukost och ibland brunch med tema. Man kan köpa med sig fika, stenungnbakat bröd, hemkokta marmelader och honung från eget bisamhälle hem. Kaffet som serveras är ekologiskt och fairtrade. Bra skit med andra ord! Till sommaren kan man sitta i trädgården bland rosor, ankor och glada fikagäster. Vi kommer sitta där och hoppas att glada Malin jobbar. Platsar på min lista över Skånska pärlor.
+Efter fotbollen snabbgooglade vi café + Svedala och ramlade över en ny pärla i Skåne som vi absolut kommer återvända till. [Vismarlövs café- & bagarstuga](https://www.vismarlovscafe.se/se/). Ett übermysigt ställe med sopp- och macklunch, kakbuffe och en otroligt mysig servering. Enligt hemsidan serveras frukost och ibland brunch med tema. Man kan köpa med sig fika, stenungnbakat bröd, hemkokta marmelader och honung från eget bisamhälle hem. Kaffet som serveras är ekologiskt och fairtrade. Bra skit med andra ord! Till sommaren kan man sitta i trädgården bland rosor, ankor och glada fikagäster. Vi kommer sitta där och hoppas att glada Malin jobbar. Platsar på min lista över Skånska pärlor.
 
 
 ![IMG_6880](/static/img/IMG_6880-e1425203259402-768x1024.jpg)

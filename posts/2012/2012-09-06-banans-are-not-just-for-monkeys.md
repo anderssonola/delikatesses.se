@@ -8,7 +8,7 @@ categories:
   - "ol"
 ---
 
-Nu ska ni få ett smått galet tips som garanterat höjer era ögonbryn. I somras var vi på Gotland och hamnade då på den mysigaste restaurangen i hela Visby, [Amarillo](http://www.amarillovisby.se/se "Amarillo"). Det var här vi fann [kärlek](http://import.local/2012/07/13/krlek-vid-forsta-ogonkastet/) Till dessert var vi ganska mätta men bestämde oss att dela på en banofee pie med en ( hör och häpna) Banana bread beer!! Så otroligt härligt och spännande. Ölen smakade mycket banan och blev ännu bättre med banofee pie till. Bjuder ni på denna dessert har ni samtalsämnet klart! Servera den i gamla syltburkar...
+Nu ska ni få ett smått galet tips som garanterat höjer era ögonbryn. I somras var vi på Gotland och hamnade då på den mysigaste restaurangen i hela Visby, [Amarillo](https://www.amarillovisby.se/se "Amarillo"). Det var här vi fann [kärlek](/posts/krlek-vid-forsta-ogonkastet/) Till dessert var vi ganska mätta men bestämde oss att dela på en banofee pie med en ( hör och häpna) Banana bread beer!! Så otroligt härligt och spännande. Ölen smakade mycket banan och blev ännu bättre med banofee pie till. Bjuder ni på denna dessert har ni samtalsämnet klart! Servera den i gamla syltburkar...
 
 **Banofee pie** 4 personer
 

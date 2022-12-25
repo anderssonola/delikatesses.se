@@ -13,7 +13,7 @@ tags:
   - "vaniljvisp"
 ---
 
-I lördags var vi på stort 60-års kalas och Selma hängde med sina kusiner. Det bjöds på sandlådshäng, nakendisco och majskrokar i valfri mängd. Hos kusinerna alltså.... Vi bjöds på en fantatstisk sommarfest med bubbel i trädgården,caterad middag med gubbrörsmacka, grillbuffé och chokladmousse med crème fraichetopping allt signerat fantastiska Martin från [Hörte brygga](http://hortebrygga.se/) som jag skrivit om tidigare [här](http://import.local/2015/04/30/lystring/) & [här.](http://import.local/2014/07/22/horte-brygga-och-nagra-hallon/)
+I lördags var vi på stort 60-års kalas och Selma hängde med sina kusiner. Det bjöds på sandlådshäng, nakendisco och majskrokar i valfri mängd. Hos kusinerna alltså.... Vi bjöds på en fantatstisk sommarfest med bubbel i trädgården,caterad middag med gubbrörsmacka, grillbuffé och chokladmousse med crème fraichetopping allt signerat fantastiska Martin från [Hörte brygga](http://hortebrygga.se/) som jag skrivit om tidigare [här](/posts/lystring/) & [här.](/posts/horte-brygga-och-nagra-hallon/)
 
 Allt var fantatsiskt gott. Rökta, inlagda morötter, picklad blomkål, rökig tomatsås, majonäs, fräsch potatissallad, lammfiol, pulled pork och slaktarbiff (njurtapp på styckningskartan). En styckningsdetalj som börjar komma mer och mer. Får ni tag på en bit så köp. Så en gång för alla, ÅK TILL HÖRTE FÖR BÖVELN!
 

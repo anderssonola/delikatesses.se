@@ -12,7 +12,7 @@ tags:
   - "zucchini"
 ---
 
-Jag har lata dagar i Skåne. Tar dagen lite som den kommer och dyker upp lite varstans. Här om dagen landade jag **på** Limhamn för lite häng med den charmigaste systerdottern på denna sidan Vintergatan. Dessutom blev jag bjuden på god mat (som alltid på ön) Jag har gjort en fuskvariant [här](http://import.local/2012/09/03/pastastubbar/) men detta är så nära originalet man kan komma.
+Jag har lata dagar i Skåne. Tar dagen lite som den kommer och dyker upp lite varstans. Här om dagen landade jag **på** Limhamn för lite häng med den charmigaste systerdottern på denna sidan Vintergatan. Dessutom blev jag bjuden på god mat (som alltid på ön) Jag har gjort en fuskvariant [här](/posts/2012/09/03/pastastubbar/) men detta är så nära originalet man kan komma.
 
 **Hemmapappans canelloni** 2 pkt färska lasagneplattor 2 zucchini 2 gula lökar 3 dl grädde Olja att steka i Salt & svartpeppar Emmentaler alternativt Jarlsberg _eller om man hittar en riktigt bra lokal herrgårdsost med mycket nötig smak..._
 

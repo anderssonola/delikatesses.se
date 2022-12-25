@@ -13,7 +13,7 @@ tags:
   - "spenat"
 ---
 
-Isbergsallad med majs, tomat och gurka i all ära, men det går att göra det lite mer spännande. Dessutom kan det bli ännu enklare. Jag tidigare skrivit ett inlägg om [morotssallad](http://import.local/2012/01/25/snogubbens-nasa/). När vi gör [skördepizza](http://import.local/2015/05/13/skordepizza/) picklar jag polkabetor istället för vitkål. Till förra veckans chevrelasagne fick fröken palsternacka med var med i leken. Denna salladen höjde den enkla lasagnen till  Stefan-Holm-höjder.  Receptet hittade jag på Tasteline.
+Isbergsallad med majs, tomat och gurka i all ära, men det går att göra det lite mer spännande. Dessutom kan det bli ännu enklare. Jag tidigare skrivit ett inlägg om [morotssallad](/posts/snogubbens-nasa/). När vi gör [skördepizza](/posts/skordepizza/) picklar jag polkabetor istället för vitkål. Till förra veckans chevrelasagne fick fröken palsternacka med var med i leken. Denna salladen höjde den enkla lasagnen till  Stefan-Holm-höjder.  Receptet hittade jag på Tasteline.
 
 ![IMG_9975](/static/img/IMG_9975-e1447716165813-1020x1360.jpg)
 

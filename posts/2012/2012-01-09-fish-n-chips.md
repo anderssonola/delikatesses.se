@@ -1,5 +1,5 @@
 ---
-title: "Fish' n chips"
+title: "Fish n chips"
 date: "2012-01-09"
 categories: 
   - "allmant"

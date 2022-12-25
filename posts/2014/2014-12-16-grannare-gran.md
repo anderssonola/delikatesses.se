@@ -13,4 +13,4 @@ Vanlig gran eller inte, det är frågan?! Vi valde vanlig hederlig skogsgran i �
 Pepparkakshuset 2014 fortskrider. Det tar lite tid när man har en liten tjej som pockar på uppmärksamhet i kombination av många delar som behöver torka i kristyren innan nästa ska på. Bränt socker hade kanske varit smidigare men,men. En liten sneak peak kan ni få...  
   
 ![IMG_6017.JPG](/static/img/IMG_6017.jpg)
-Vad dricker vi i pepparkakshusverkstan och till nypyntad gran då?! [Glögg](http://import.local/2013/10/28/glogg/) såklart! Den är nu hävd i flaskor, redo för både russin och mandel. Hade varit lite skoj att veta alkoholhalten, för "hol" det är där i den.
+Vad dricker vi i pepparkakshusverkstan och till nypyntad gran då?! [Glögg](/posts/glogg/) såklart! Den är nu hävd i flaskor, redo för både russin och mandel. Hade varit lite skoj att veta alkoholhalten, för "hol" det är där i den.

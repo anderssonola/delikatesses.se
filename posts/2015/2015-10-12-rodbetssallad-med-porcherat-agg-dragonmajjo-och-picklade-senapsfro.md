@@ -21,7 +21,7 @@ Kvällarna innan låg jag på soffbordet och ritade djur som fick hänga på vä
 
 ![IMG_9493](/static/img/IMG_9493-1020x680.jpg)
 
-För ett år sen förändrades livet då Selma entrade vår värld. Detta blonda lilla yrväder som hårdtränat våra skrattmuskler, frestat vårt tålamod och fått oss att inse att många saker kan vänta tills man har läst _Äntligen bajs-boken_ om och om och om och om igen.... Så vill man ta livet liiite piano så är detta salladen för just ett sånt tillfälle. Kan verkligen rekommendera att servera [rödlök- & fänkålsfoccacia](http://import.local/2014/06/14/fankal-rodloksfoccacia/) till.
+För ett år sen förändrades livet då Selma entrade vår värld. Detta blonda lilla yrväder som hårdtränat våra skrattmuskler, frestat vårt tålamod och fått oss att inse att många saker kan vänta tills man har läst _Äntligen bajs-boken_ om och om och om och om igen.... Så vill man ta livet liiite piano så är detta salladen för just ett sånt tillfälle. Kan verkligen rekommendera att servera [rödlök- & fänkålsfoccacia](/posts/fankal-rodloksfoccacia/) till.
 
 ![IMG_9151](/static/img/IMG_9151-e1443648829371-1020x1360.jpg)
 

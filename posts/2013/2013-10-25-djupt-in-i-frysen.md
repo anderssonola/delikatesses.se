@@ -14,6 +14,6 @@ Vår frys serverar vissa veckor hela veckomenyer och då brukar det följa med n
 
 Yoghurt Ekologiskt vaniljsocker
 
-[müsli](http://import.local/2012/07/01/god-morgon) eller annat tugg....
+[müsli](/posts/god-morgon) eller annat tugg....
 
 Koka upp vatten, socker och kardemumma i en kastrull. Tillsätt rabarber. Låt koka ca 15 minuter, tills rabarbern är lagom mjuk. Red av krämen med potatismjöl utrört i lite kallt vatten och koka ytterligare 1–2 minuter. Servera rabarberkrämen ljummen med yoghurt och müsli, eller bara med mjölk❤

@@ -15,7 +15,7 @@ Som tur är har Eva gett ut en del böcker och där kunde jag norpa receptet...d
 
 Rapsolja Blåa vallmofrö
 
-Sätt ugnen på 175 grader. Knäck ägg och vispa vitt och fluffigt med socker. Rör sen i ättikan och den torkade lavendel. Skikta i mjölet och rör om med stora tag tills allt blandat sig. Smörj en kakform med olja och täck med vallmo. Häll smeten i formen och ställ in i mitten av ugnen i ca 55 min. Låt svalna en stund och servera med [fläderblomsaft](http://import.local/2012/06/28/flader/)  
+Sätt ugnen på 175 grader. Knäck ägg och vispa vitt och fluffigt med socker. Rör sen i ättikan och den torkade lavendel. Skikta i mjölet och rör om med stora tag tills allt blandat sig. Smörj en kakform med olja och täck med vallmo. Häll smeten i formen och ställ in i mitten av ugnen i ca 55 min. Låt svalna en stund och servera med [fläderblomsaft](/posts/flader/)  
   
 ![](/static/img/20120724-232646.jpg)
 I Malmö hos syster hade vi bara ljus vallmo, funkar det med...

@@ -10,7 +10,7 @@ tags:
   - "polkagris"
 ---
 
-Smakminnet är fantastiskt! Min mamma gjorde en polkagrisglass en gång när jag var 5-6 år. Denna smak har etsas sig fast i mitt matminne än idag. När vi i veckan provade fram dessert till helgen juligheter så dök det där minnet upp igen. Vi tänkte nämligen bjuda på en juligare variant av [semifreddo](http://import.local/2014/04/16/semifreddo/). Vi testade med lingon- dulce de leche- pepparkaka och varianten lingon-pepparkakskrydda åsså slog det mig....Givetvis var det så att min kära mor gjort semifreddo med polkagris för sisådär 27 år sen. Så galet gott!  
+Smakminnet är fantastiskt! Min mamma gjorde en polkagrisglass en gång när jag var 5-6 år. Denna smak har etsas sig fast i mitt matminne än idag. När vi i veckan provade fram dessert till helgen juligheter så dök det där minnet upp igen. Vi tänkte nämligen bjuda på en juligare variant av [semifreddo](/posts/semifreddo/). Vi testade med lingon- dulce de leche- pepparkaka och varianten lingon-pepparkakskrydda åsså slog det mig....Givetvis var det så att min kära mor gjort semifreddo med polkagris för sisådär 27 år sen. Så galet gott!  
   
 ![IMG_1841.JPG](/static/img/IMG_1841.jpg)
 **Polkaglass** 3 äggvitor 1 1/2 dl florsocker 3 dl vispgrädde 1 dl polkagrisar, krossade 1 tsk mintarom

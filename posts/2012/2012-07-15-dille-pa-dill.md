@@ -14,7 +14,7 @@ tags:
   - "koka-potatis"
 ---
 
-Nu är det verkligen säsong för dill! Dill kan användas till allt! Koka den med potatisen, gör en [stuvning](http://import.local/2012/03/26/dillstuvad-potatis-lax/), stuffa fisken, gör en kall sås och marinad. Hacka i salladen, gör inläggningar och fortsätt att dekorera med den! Skickar med lite matnyttiga tips om dill.
+Nu är det verkligen säsong för dill! Dill kan användas till allt! Koka den med potatisen, gör en [stuvning](/posts/dillstuvad-potatis-lax/), stuffa fisken, gör en kall sås och marinad. Hacka i salladen, gör inläggningar och fortsätt att dekorera med den! Skickar med lite matnyttiga tips om dill.
 
 Namnet dill tror man kom från det fornnordiska ordet dylle som betydde vagga till sömns.
 

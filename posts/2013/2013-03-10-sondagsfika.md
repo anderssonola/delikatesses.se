@@ -25,4 +25,4 @@ Vispa ägg, socker och vaniljsocker fluffigt. Smält smöret och låt svalna. H�
 
 Ta ut och låt svalna en liten stund. Vält ur kakan och låt svalna ytterligare på galler.
 
-Till detta passar det ypperligt med [hemgjord lemonad](http://hd.se/mat/2013/01/04/hemgjord-citronlemonad/) eller [fläderblomssaft.](http://import.local/2012/06/28/flader/)
+Till detta passar det ypperligt med [hemgjord lemonad](https://hd.se/mat/2013/01/04/hemgjord-citronlemonad/) eller [fläderblomssaft.](/posts/flader/)

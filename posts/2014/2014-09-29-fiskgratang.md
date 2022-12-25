@@ -17,7 +17,7 @@ tags:
   - "mos"
 ---
 
-Ny vecka. Undrar om denna veckan kan slå förra veckans dagar med ny bebis❤️_välkommen lilla J_, middag med tjejerna, lunch med mamma och mormor och solig lördag i Köpenhamn ?! Vi får väl hålla tummarna och se.... Veckan innan det, var med en ganska bra vecka. Min fina Anna kom med hemvirkad bebisfilt, vi traggade, fikade och käkade god fiskgratäng al a Jamie. Vi avslutade i soffan med glass, varma hallon och [krokant](http://import.local/2014/04/16/semifreddo/).
+Ny vecka. Undrar om denna veckan kan slå förra veckans dagar med ny bebis❤️_välkommen lilla J_, middag med tjejerna, lunch med mamma och mormor och solig lördag i Köpenhamn ?! Vi får väl hålla tummarna och se.... Veckan innan det, var med en ganska bra vecka. Min fina Anna kom med hemvirkad bebisfilt, vi traggade, fikade och käkade god fiskgratäng al a Jamie. Vi avslutade i soffan med glass, varma hallon och [krokant](/posts/semifreddo/).
 
 ![IMG_5410.JPG](/static/img/IMG_5410.jpg)
 **Fiskgratäng med ärtmos** 4 hungriga personer
@@ -36,4 +36,4 @@ Hit kan man göra för att sen sätta i kylen.
 
 Sätt in i ugnen i ytterligare 20 min, eller till moset fått lite färg. Tar lite längre tid om gratängen fått stå i kylen. Ta temperatur så du vet att den är varm rakt igenom.
 
-Servera med en god [morotssallad](http://import.local/2012/01/25/snogubbens-nasa/) och citron till.
+Servera med en god [morotssallad](/posts/snogubbens-nasa/) och citron till.

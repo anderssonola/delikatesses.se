@@ -9,7 +9,7 @@ Här sitter vi på en parkbänk och njuter i solen. Vi är bjudna på hemmalunch
 
 ![IMG_5849.JPG](/static/img/IMG_5849.jpg)
 
-Har köpt med mig den bästa gå-bort -presenten till värdinnan. Chaipulver för värmande lattar efter en lång promenad. Dessutom är den Fairtrade, och det tokgillar vi. Du hittar den på ett Barista nära dig, med Baristakortet får du dessutom 20% på köpet + att det skänks en skolmåltid till deras skola i Etiopien _( lite reklam för mitt arbete får jag ju göra trots mammaledighet_)....det går ju även bra att göra [egen chai](http://import.local/2012/02/29/akta-indisk-chai/).  
+Har köpt med mig den bästa gå-bort -presenten till värdinnan. Chaipulver för värmande lattar efter en lång promenad. Dessutom är den Fairtrade, och det tokgillar vi. Du hittar den på ett Barista nära dig, med Baristakortet får du dessutom 20% på köpet + att det skänks en skolmåltid till deras skola i Etiopien _( lite reklam för mitt arbete får jag ju göra trots mammaledighet_)....det går ju även bra att göra [egen chai](/posts/akta-indisk-chai/).  
   
 ![IMG_5850.JPG](/static/img/IMG_5850.jpg)
 

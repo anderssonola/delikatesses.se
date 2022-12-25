@@ -14,7 +14,7 @@ Igår höll vi oss inomhus. Stormen Egon härjade utanför fönstret. Vi myste, 
 ![IMG_5956.JPG](/static/img/IMG_5956.jpg)
 
 ![IMG_1986.JPG](/static/img/IMG_1986.jpg)
-Så för att knyta ihop säcken så fick det bli tigermuffins med lite extra klös i till fika. Baileys går att ha till det mesta, finns det inte mjölk hemma till kaffet så är det ett alternativt trevligt substitut. Jag hade frosting kvar sen jag bakade [cupcakes](http://import.local/2015/01/01/2015-vanskapens-ar/) i veckan så det fick toppa tillsammans med sommarens hallon från Hallongården. Men de var inte alls dumma helt "_de naturel_", som dom sagt i Paris.
+Så för att knyta ihop säcken så fick det bli tigermuffins med lite extra klös i till fika. Baileys går att ha till det mesta, finns det inte mjölk hemma till kaffet så är det ett alternativt trevligt substitut. Jag hade frosting kvar sen jag bakade [cupcakes](/posts/2015-vanskapens-ar/) i veckan så det fick toppa tillsammans med sommarens hallon från Hallongården. Men de var inte alls dumma helt "_de naturel_", som dom sagt i Paris.
 
 **Tigermuffins med klös** 8-10 st 100 gram smör, rumstempererat 1 dl strösocker 2 små ägg 1/2 tsk bakpulver 2 dl vetemjöl
 
