@@ -15,7 +15,7 @@ tags:
   - "vitlok"
 ---
 
-När man är ute på restaurang så vill man ibland inget hellre än ha receptet på det man ätit. Ofta har vi gått hem och kanske gjort en variant, men som inte blivit i riktigt lika bra.... Då är det lycka när det godaste jag åt på [Dubbel dubbel](http://www.dubbeldubbel.se/restaurang/simrishamnsgatan/) helt plötsligt dök upp i receptform i tidningen Mat & Vänner. Jag hjulade av lycka. Öronsvampsallad! Vi åt en av deras avsmakningsmenyer, fantastiskt gott! Ankburgarna och det rödkokta fläsket var med to-die-for. Men den här svampsalladen var nåt himmelskt. På Möllan hittade vi torkad vit öronsvamp och svart vinäger. Den där svampen ser fantastiskt rolig ut när man kokat den, namnet bärs verkligen upp. Den smakar inte så mycket utan det är konsistensen man är ute efter. Ett måste-tillbehör till dumplings!!  
+När man är ute på restaurang så vill man ibland inget hellre än ha receptet på det man ätit. Ofta har vi gått hem och kanske gjort en variant, men som inte blivit i riktigt lika bra.... Då är det lycka när det godaste jag åt på [Dubbel dubbel](https://www.dubbeldubbel.se/restaurang/simrishamnsgatan/) helt plötsligt dök upp i receptform i tidningen Mat & Vänner. Jag hjulade av lycka. Öronsvampsallad! Vi åt en av deras avsmakningsmenyer, fantastiskt gott! Ankburgarna och det rödkokta fläsket var med to-die-for. Men den här svampsalladen var nåt himmelskt. På Möllan hittade vi torkad vit öronsvamp och svart vinäger. Den där svampen ser fantastiskt rolig ut när man kokat den, namnet bärs verkligen upp. Den smakar inte så mycket utan det är konsistensen man är ute efter. Ett måste-tillbehör till dumplings!!  
 ![IMG_5585.JPG](/static/img/IMG_5585.jpg)
   
 ![IMG_5587.JPG](/static/img/IMG_5587.jpg)

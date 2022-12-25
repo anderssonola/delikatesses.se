@@ -5,4 +5,4 @@ categories:
   - "matsedel"
 ---
 
-[http://betulum.com/just-how-to-publish-a-two-page-report-in-one/](http://betulum.com/just-how-to-publish-a-two-page-report-in-one/)
+[https://betulum.com/just-how-to-publish-a-two-page-report-in-one/](https://betulum.com/just-how-to-publish-a-two-page-report-in-one/)

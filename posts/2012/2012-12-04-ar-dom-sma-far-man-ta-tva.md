@@ -11,7 +11,7 @@ tags:
   - "kryddpeppar"
 ---
 
-Mamma kom med julen i år. Vi har inte pyntat då vi fortfarande är i färd med att sälja [lägenheten](http://www.hemnet.se/bostad/bostadsratt-2rum-solna-huvudsta-solna-kommun-huvudstagatan-29,-5-tr-4409340). Mamma kom upp för en sista husmorssemester som hon kallat sin trippar till huvudstaden. Med sig hade hon smakprover på julen. Min pappa gör nämligen ett antal provskinkor innan jul ( han köper alltid samma märke och ändrar inte sitt recept, men det måste ändå testas... Vilket vi är tacksamma för), även delikatessen [brunkål](http://www.tasteline.com/recept/Brunkal_av_Jan_Boris-Moller_for_Lidl) fanns med bland läckerheterna. Så ikväll blir det ett litet julbord med Janssons frestelse, skinkan, brunkål och små små juliga köttbullar.
+Mamma kom med julen i år. Vi har inte pyntat då vi fortfarande är i färd med att sälja [lägenheten](https://www.hemnet.se/bostad/bostadsratt-2rum-solna-huvudsta-solna-kommun-huvudstagatan-29,-5-tr-4409340). Mamma kom upp för en sista husmorssemester som hon kallat sin trippar till huvudstaden. Med sig hade hon smakprover på julen. Min pappa gör nämligen ett antal provskinkor innan jul ( han köper alltid samma märke och ändrar inte sitt recept, men det måste ändå testas... Vilket vi är tacksamma för), även delikatessen [brunkål](https://www.tasteline.com/recept/Brunkal_av_Jan_Boris-Moller_for_Lidl) fanns med bland läckerheterna. Så ikväll blir det ett litet julbord med Janssons frestelse, skinkan, brunkål och små små juliga köttbullar.
 
 **Juliga kalvköttbullar**
 

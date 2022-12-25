@@ -34,4 +34,4 @@ salt och lite vitpeppar
 
 Skala rotfrukterna och skär i bitar. Koka dem mjuka i lättsaltat vatten. Häll av vattnet. Mixa rotfrukterna. Ta bladen från dragonkvistarna, lägg åt sidan. Sjud stjälkarna i vinäger. Låt en tredjedel av vinägern koka bort och ställ åt sida. Tillsätt vinägerreduktionen och de färska dragonbladen. Smaka av med salt och peppar.
 
-Till detta sörplade vi i oss en [Roodeberg](http://www.systembolaget.se/dryck/roda-viner/roodeberg-745101) , rött vin från Sydafrika.
+Till detta sörplade vi i oss en [Roodeberg](https://www.systembolaget.se/dryck/roda-viner/roodeberg-745101) , rött vin från Sydafrika.

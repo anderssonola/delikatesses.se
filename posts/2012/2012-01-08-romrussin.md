@@ -16,7 +16,7 @@ Den lilla tanten i mig är svag för romrussin. Igår gjordes det dessert på h�
 
 _**4 personer**_
 
-Romrussinglass ([gör själv](http://recept.nu/1.309180/per_morberg/efterratter_godis/agg_mejeri/romrussinglass "romrussinglass") eller köp)
+Romrussinglass ([gör själv](https://recept.nu/1.309180/per_morberg/efterratter_godis/agg_mejeri/romrussinglass "romrussinglass") eller köp)
 
 _(barnvarianten kan vara vaniljglass rörd med russin och en alternativ vuxenvariant är glassen rörd med rom...)_
 

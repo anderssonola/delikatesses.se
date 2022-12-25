@@ -17,7 +17,7 @@ tags:
   - "tomat"
 ---
 
-Fina vänner på besök, ett par dagar hos föräldrarna, 2-årskalas med tågtårta, klädutrensning, skaldjursfrossa på [Ambiance a Vindåkra](http://www.ambiancerestaurant.se) och kantarellplockning med tillhörande läskig ormpåhälsning är några saker vi haft för oss den gångna veckan. Så jag har sjukt många inlägg som ska skrivas och delas med er. Det kommer, det kommer! idag tänkte vi göra en avstickare till [Tunneberga Gästgifveri](http://www.tunneberga.se) för lite äggakauga, fläsk & lingon.
+Fina vänner på besök, ett par dagar hos föräldrarna, 2-årskalas med tågtårta, klädutrensning, skaldjursfrossa på [Ambiance a Vindåkra](https://www.ambiancerestaurant.se) och kantarellplockning med tillhörande läskig ormpåhälsning är några saker vi haft för oss den gångna veckan. Så jag har sjukt många inlägg som ska skrivas och delas med er. Det kommer, det kommer! idag tänkte vi göra en avstickare till [Tunneberga Gästgifveri](https://www.tunneberga.se) för lite äggakauga, fläsk & lingon.
 
 Men vill man ha en toppenrätt till kvällens grill så är detta dagens tips. Sallad hämtad från boken Matiga sallader. Uteslut inte russinen, förvånadsvärt goda även för icke russinälskare.
 

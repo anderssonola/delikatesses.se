@@ -57,6 +57,6 @@ Börja med majonnäsen. Vispa äggulor, senap och salt. Tillsätt oljan i tunn s
 
 Blanda i kapris, persiljan och krydda. Ställ i kylen en stund.
 
-Skär fisken i stora bitar, doppa i mjölet, sen i ägget och sist i pankon. Ställ åt sidan. Skrubba potatisen och koka. Fritera fisken. Servera i den obligatoriska tidningstruten, gärna sportdelen, eller ät på tallrik och vik en rolig [hatt av tidningen](http://friidaaa.devote.se/blogs/6778470/min-tidningshatt.htm "tidningshatt").
+Skär fisken i stora bitar, doppa i mjölet, sen i ägget och sist i pankon. Ställ åt sidan. Skrubba potatisen och koka. Fritera fisken. Servera i den obligatoriska tidningstruten, gärna sportdelen, eller ät på tallrik och vik en rolig [hatt av tidningen](https://friidaaa.devote.se/blogs/6778470/min-tidningshatt.htm "tidningshatt").
 
 Vanligtvis så dricker vi öl till detta, **men** varför testar vi inte ett glas vitt torrt vin, _**Muscadet Sévre et Maine Sur Lie, Loire, Frankrike**_ (nr 2275). Detta vin har en härlig syra i form av både gröna äpplen och citron som möter fettet i majonnäsen. En viss jästighet som passar till fiskens panering, då den är framställd enligt sur lie, vinet har vilat på jästfällningen en tid innan buteljeringen och får då en lite brödig, jästig smak.

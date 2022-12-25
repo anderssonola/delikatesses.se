@@ -14,7 +14,7 @@ Jojo, ibland äter vi med tacos, dock inte fredagstacos. Vi äter söndags fisht
 
 **_Guacamole_** 2 avokado 1 liten tomat 1 vitlöksklyfta 1/2 lime, saften Salt
 
-Tillbehör Små tortillabröd Salsa, hur stark du vill Koriander Tunt skivad lök [Majssoppa](http://www.tasteline.com/Recept/Neas_majssoppa_med_chili_och_koriander)( jag gör halva detta receptet och tillsätter lite yoghurt, tabasco och cayennepeppar )
+Tillbehör Små tortillabröd Salsa, hur stark du vill Koriander Tunt skivad lök [Majssoppa](https://www.tasteline.com/Recept/Neas_majssoppa_med_chili_och_koriander)( jag gör halva detta receptet och tillsätter lite yoghurt, tabasco och cayennepeppar )
 
 Gör kålsalladen först. Strimla kålen, vårlöken, chili, koriander och vitlöken. Blanda ihop, riv limzesten, pressa i saften och blanda med olja. Salta och peppra. Ställ åt sidan.
 

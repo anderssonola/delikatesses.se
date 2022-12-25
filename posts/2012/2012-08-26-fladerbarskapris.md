@@ -37,7 +37,7 @@ Lägg ner fläderbär i en mindre, absolut ren glasburk. Pressa ner dem ordentli
 
 _**Receptet hämtat från taffel.se**_
 
-http://skafferiet.taffel.se/2010/08/16/fladerbarskapris
+https://skafferiet.taffel.se/2010/08/16/fladerbarskapris
 
 ![20120826-210418.jpg](/static/img/20120826-210418.jpg)
 

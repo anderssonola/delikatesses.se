@@ -15,14 +15,14 @@ tags:
   - "remoluda"
 ---
 
-Här hemma rullar det på. I helgen var vi hos fina vänner vid sjön  Bolmen. Åkte båt, grillade, drack te och bara myste och åt god dessert (återkommer med ett recept på det när jag fått det av Ida). Vi åkte båt rakt över sjön till ett mysigt ställe som heter [Tiraholms fisk](http://www.tiraholm.se/sve/index.php). De odlar sin egen regnbågslax i stora kassar i Bolmen som de sen säljer.  den vilda fisken fångas med bottengarn som görs på gården. Mycket intressant läsning på hemsidan. Vi köpte med oss tre olika sorter av den galet goda varmrökta laxen, som röks i specialgjorda ugnar, med olika smaksättningar. Har man vägarna förbi så är detta ett toppenställe, där man dessutom kan få se livs levande ålar.
+Här hemma rullar det på. I helgen var vi hos fina vänner vid sjön  Bolmen. Åkte båt, grillade, drack te och bara myste och åt god dessert (återkommer med ett recept på det när jag fått det av Ida). Vi åkte båt rakt över sjön till ett mysigt ställe som heter [Tiraholms fisk](https://www.tiraholm.se/sve/index.php). De odlar sin egen regnbågslax i stora kassar i Bolmen som de sen säljer.  den vilda fisken fångas med bottengarn som görs på gården. Mycket intressant läsning på hemsidan. Vi köpte med oss tre olika sorter av den galet goda varmrökta laxen, som röks i specialgjorda ugnar, med olika smaksättningar. Har man vägarna förbi så är detta ett toppenställe, där man dessutom kan få se livs levande ålar.
 
 
 ![image](/static/img/image7-1024x1024.jpg)
 ![image](/static/img/image8-300x225.jpg)
 ![image](/static/img/image9-1020x1360.jpg)
 ![image](/static/img/image13.jpg)
-Mysig utflykt till [Stockhultsgårdens tebod](http://www.stockhultgardenstebod.com/). Tack för att vi fick komma, Ida & Daniel <3
+Mysig utflykt till [Stockhultsgårdens tebod](https://www.stockhultgardenstebod.com/). Tack för att vi fick komma, Ida & Daniel <3
 
  
 

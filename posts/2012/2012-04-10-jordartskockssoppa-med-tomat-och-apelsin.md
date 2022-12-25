@@ -7,7 +7,7 @@ categories:
   - "soppa"
 ---
 
-Jordärtskockan är en fantastisk liten knöl som kan skördas två gånger om året, sen höst eller tidig vår. Och tidig vår (hrm, om jag får bestämma) som det är nu så är det ett alldeles ypperligt läge för säsongsmat. På  den lilla knölen kan man göra gratäng, puré eller varför inte supergoda [chips](http://matrepubliken.se/2012/february/jordartskockschips.html "chips"). Denna gången blev det en soppa med en liten knorr.
+Jordärtskockan är en fantastisk liten knöl som kan skördas två gånger om året, sen höst eller tidig vår. Och tidig vår (hrm, om jag får bestämma) som det är nu så är det ett alldeles ypperligt läge för säsongsmat. På  den lilla knölen kan man göra gratäng, puré eller varför inte supergoda [chips](https://matrepubliken.se/2012/february/jordartskockschips.html "chips"). Denna gången blev det en soppa med en liten knorr.
 
 **jordärtskockssoppa med tomat och apelsin**
 

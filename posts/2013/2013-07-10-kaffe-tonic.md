@@ -7,7 +7,7 @@ tags:
   - "kaffe-tonic-citron-sockerlag"
 ---
 
-Från och med idag tar jag ett par veckors semester från lattar, cortados och espresso frappistas. Så här första kvällen ska det väl ändå firas lite. Olan har länge pratat om kaffe tonic efter att han hängt lite för många morgnar på [Soldes](http://www.soldekaffebar.se) här i Malmö. Så idag festade vi loss på denna goding. En mycket angenäm upplevelse. Testa den som törstsläckare eller som grogg med en skvätt vodka.  
+Från och med idag tar jag ett par veckors semester från lattar, cortados och espresso frappistas. Så här första kvällen ska det väl ändå firas lite. Olan har länge pratat om kaffe tonic efter att han hängt lite för många morgnar på [Soldes](https://www.soldekaffebar.se) här i Malmö. Så idag festade vi loss på denna goding. En mycket angenäm upplevelse. Testa den som törstsläckare eller som grogg med en skvätt vodka.  
   
 ![20130710-232210.jpg](/static/img/20130710-232210.jpg)
 

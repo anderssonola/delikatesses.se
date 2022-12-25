@@ -15,7 +15,7 @@ Alla kan få tag i dessa nyttigheter. Ica har dom i sin Selectionkollektion och 
 
 Till detta passar ett stort glas isvatten eller för den som vill _2010 Leth, grüner veltliner, Österrike_ (nr 4200). Vinet är torrt, lite kryddigt och har toner av päron, kiwi och lime. Saltet på bönorna tar ner syran i vinet, samtidigt som syran i vinet minskar bönornas bitterhet och tar fram sötman i dom.
 
-En annan [skön böna](http://www.matrepubliken.se) har gjort fantastiska chips som vi testade i helgen. Prova dessa fenomenala [jordärtssockschipsen](http://matrepubliken.se/2012/february/jordartskockschips.html)!
+En annan [skön böna](https://www.matrepubliken.se) har gjort fantastiska chips som vi testade i helgen. Prova dessa fenomenala [jordärtssockschipsen](https://matrepubliken.se/2012/february/jordartskockschips.html)!
 
   
   

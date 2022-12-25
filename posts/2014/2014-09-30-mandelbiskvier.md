@@ -5,7 +5,7 @@ categories:
   - "allmant"
 ---
 
-Ofta när jag var liten dukades det fram [nyponsoppa](http://www.pickipicki.se/2010/09/de-ar-har-nu-nyponen/), ibland kall med lättvispad grädde, ibland varm med en kula glass, men alltid med mandelbiskvier. Dessa godingar kunde man aldrig få nog av, de hör liksom till. En perfekt gå-bort-present så här i hösttider.  
+Ofta när jag var liten dukades det fram [nyponsoppa](https://www.pickipicki.se/2010/09/de-ar-har-nu-nyponen/), ibland kall med lättvispad grädde, ibland varm med en kula glass, men alltid med mandelbiskvier. Dessa godingar kunde man aldrig få nog av, de hör liksom till. En perfekt gå-bort-present så här i hösttider.  
   
 ![IMG_5437.JPG](/static/img/IMG_5437.jpg)
 **Mandelbiskvier** Ca 100 st 100 gram mandel 1 äggvita 1,5 dl strösocker 0,5 riven bittermandel( kan uteslutas)

@@ -18,7 +18,7 @@ GOD JUL! Klockan har slagit om till julafton och jag borde egentligen sova för 
 ![20131224-004719.jpg](/static/img/20131224-004719.jpg)
 **Saffranspajer - med eller utan lyx** 24 mini, 12 små eller 1 stor
 
-[Pajdeg](http://www.svt.se/niklas-mat/pajdeg), går alldeles utmärkt att köpa färdig.
+[Pajdeg](https://www.svt.se/niklas-mat/pajdeg), går alldeles utmärkt att köpa färdig.
 
 1/2 fänkål+ fänkålsdill til servering 1/2 purjolök 1 vitlöksklyfta 1 msk smör 1 dl cream fraîche 1/2 dl vitt vin 2 ägg 1/2 pkt saffran 1 krm cayennepeppar
 

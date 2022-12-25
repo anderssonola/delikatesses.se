@@ -5,11 +5,11 @@ categories:
   - "allmant"
 ---
 
-Förra veckan tillbringades i Riojan, tapasens, paellans och inte minst sangrians huvudstadstad, Barcelona! Blev lite kär i staden med alla dess former, inte bara fyrkantigt utan snirkliga och runda formgivningar av bl.a. den gode Gaudi. Små pittoreska tapasställen som lydde under mantrat "finns det hjärterum, så finns det stjärterum". Det var här vi drack Xampany, egentillverkad mousserande (som inte får kallas cava). Det blev en och annan cerveza, cava och lite sangria.... Jag blev lite småförälskad i den lilla restaurangen [Elsa y Fred](http://elsayfred.es/ "Elsa y Fred")  (uppkallad efter filmen med samma namn) som låg mitt emot vårt hotell. Älskade den franska inredningen, musiken och personalen i sina svarta spetsklänningar. Vi gled in för en fika på deras hembakta morotskaka (kanske inte så spanskt, men gott), en sen cava innan det var dags för sängen och yoghurt med hemgjord müsli innan dagen började. Dock så åt vi inte middag där, men det vi såg som kom från köket såg verkligen himmelskt ut. Det var här jag hittade en liten juvel. En prickig flaska som jag inte kunde slita ögonen från. Leola- Sangria, det var kärlek vid första ögonkastet<3
+Förra veckan tillbringades i Riojan, tapasens, paellans och inte minst sangrians huvudstadstad, Barcelona! Blev lite kär i staden med alla dess former, inte bara fyrkantigt utan snirkliga och runda formgivningar av bl.a. den gode Gaudi. Små pittoreska tapasställen som lydde under mantrat "finns det hjärterum, så finns det stjärterum". Det var här vi drack Xampany, egentillverkad mousserande (som inte får kallas cava). Det blev en och annan cerveza, cava och lite sangria.... Jag blev lite småförälskad i den lilla restaurangen [Elsa y Fred](https://elsayfred.es/ "Elsa y Fred")  (uppkallad efter filmen med samma namn) som låg mitt emot vårt hotell. Älskade den franska inredningen, musiken och personalen i sina svarta spetsklänningar. Vi gled in för en fika på deras hembakta morotskaka (kanske inte så spanskt, men gott), en sen cava innan det var dags för sängen och yoghurt med hemgjord müsli innan dagen började. Dock så åt vi inte middag där, men det vi såg som kom från köket såg verkligen himmelskt ut. Det var här jag hittade en liten juvel. En prickig flaska som jag inte kunde slita ögonen från. Leola- Sangria, det var kärlek vid första ögonkastet<3
 
 Hur snygg är inte flaskan då?
 
-![http://www.sangrialolea.com//static/img/press/producto/SANGRIA-LOLEA-GRAPHIC-11.jpg](/static/img/SANGRIA-LOLEA-GRAPHIC-11.jpg)
+![https://www.sangrialolea.com//static/img/press/producto/SANGRIA-LOLEA-GRAPHIC-11.jpg](/static/img/SANGRIA-LOLEA-GRAPHIC-11.jpg)
 
 **_Because Lolea is a tribute to friendship, family, holidays and joy._**
 

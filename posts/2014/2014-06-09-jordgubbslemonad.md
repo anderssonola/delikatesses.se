@@ -12,7 +12,7 @@ tags:
   - "mynta"
 ---
 
-Sol, svenska jordgubbar och bara ben. Nu har sommaren verkligen kommit. Helgen har verkligen varit till belåtenhet med födelsedagsfirande av världens bästa farmor som fyllde 84 år, sommarhäng med [Solde](http://solde.se) som bjöd på grymma burgare från Saltimporten canteen och en grym bartender från Bastard som mixade drinkar med bl.a. sockerlag smaksatt med kaffe, vad annars på en kaffefest. I lördags var det lugna gatan med flädersaftskokning, lekplatslek, innergårdsfika med kusin på besök och sen beer caned chicken hos underbara vänner.  
+Sol, svenska jordgubbar och bara ben. Nu har sommaren verkligen kommit. Helgen har verkligen varit till belåtenhet med födelsedagsfirande av världens bästa farmor som fyllde 84 år, sommarhäng med [Solde](https://solde.se) som bjöd på grymma burgare från Saltimporten canteen och en grym bartender från Bastard som mixade drinkar med bl.a. sockerlag smaksatt med kaffe, vad annars på en kaffefest. I lördags var det lugna gatan med flädersaftskokning, lekplatslek, innergårdsfika med kusin på besök och sen beer caned chicken hos underbara vänner.  
   
 ![20140610-011900-4740050.jpg](/static/img/20140610-011900-4740050.jpg)
 Amazing!!  

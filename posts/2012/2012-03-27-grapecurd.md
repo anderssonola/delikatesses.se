@@ -8,7 +8,7 @@ categories:
   - "tillbehor"
 ---
 
-Lemoncurd är fantastiskt på scones, maräng och inte minst till jordgubbar. Men curd går ju att göra på alla citrusfrukter. Jag hade en grapefrukt liggandes som fick bli en finfin grapecurd, allt efter härlig inspiration från en av mina favoritbloggar som gjorde [en variant på blodapelsin](http://www.jasonandshawnda.com/foodiebride/archives/10388 "blood orange curd").
+Lemoncurd är fantastiskt på scones, maräng och inte minst till jordgubbar. Men curd går ju att göra på alla citrusfrukter. Jag hade en grapefrukt liggandes som fick bli en finfin grapecurd, allt efter härlig inspiration från en av mina favoritbloggar som gjorde [en variant på blodapelsin](https://www.jasonandshawnda.com/foodiebride/archives/10388 "blood orange curd").
 
 ![](/static/img/IMG_3673-1024x682.jpg "IMG_3673")
 

@@ -21,9 +21,9 @@ Firade födelsedagen igår med närmsta familjen, precis som jag ville ha det. E
 Tror att vi ändå börjar med fikan...  
   
 ![20130120-205344.jpg](/static/img/20130120-205344.jpg) 
-**Blueberry, lemon & meringue cake** Två färdigköpta tårtbottnar ( [baka själv](http://www.sockerkakor.se/tartbotten) om du hinner...jag gjorde på 6 delar)
+**Blueberry, lemon & meringue cake** Två färdigköpta tårtbottnar ( [baka själv](https://www.sockerkakor.se/tartbotten) om du hinner...jag gjorde på 6 delar)
 
-1 burk lemoncurd (finns färdig men blir [ljuvlig på ekologiska citroner](http://www.efterratten.se/lemoncurd/))
+1 burk lemoncurd (finns färdig men blir [ljuvlig på ekologiska citroner](https://www.efterratten.se/lemoncurd/))
 
 1 citron, om du inte gör egen curd 1 burk ekologisk blåbärssylt 1 pkt stora blåbär, frysta funkar 5 äggvitor, eko 2 dl socker, råsocker funkar med 1 tsk vaniljsocker
 

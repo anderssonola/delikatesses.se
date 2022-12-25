@@ -16,7 +16,7 @@ tags:
 När man har en liten trollunge med bara 4 små tänder så är det ofta man får rätta sig i ledet och äta skalkarna eftersom innanmätet är en omtyckt andrefrukost hos det lilla trollet.  Med mycket smör. Jag har egentligen inget emot skalkarna och hade mer än gärna ätit dom varje dag om jag får detta finfina smör serverat till.
 
 ![IMG_8990](/static/img/IMG_8990-632x472.jpg)
-Receptet är hämtat ur fantatsiska [Drakamöllans](http://www.drakamollan.se/) kokbok. Ett urmysigt litet ställe på Österlen.
+Receptet är hämtat ur fantatsiska [Drakamöllans](https://www.drakamollan.se/) kokbok. Ett urmysigt litet ställe på Österlen.
 
 ![IMG_8353](/static/img/IMG_8353)
 

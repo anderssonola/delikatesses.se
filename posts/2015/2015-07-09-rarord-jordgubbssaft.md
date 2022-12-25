@@ -11,7 +11,7 @@ tags:
   - "saft"
 ---
 
-Bröllopet i lördags på vackra Björholmens Marina var magiskt. Alla strålade i kapp med solen, det var v-a-r-m-t. Maten och drycken  var fantatsisk, och ekologisk. Bröllopstårtan innehöll pop rocks _(godis som poppar i munnen)_ och på dansgolvet svängdes det en del lurviga.. Vi fick en fantatsisk svit att tillgå, så vår nanny med fick plats. TACK mamma för hjälpen. Veckan har lunkat fram med hönshusförflyttning + grillhäng, pre-födelsedagsmiddag och jordgubbsplockning med kändisspan _(Ebba von Sydow plockar även hon sina gubbar på [Annedals gård](http://www.annedalsgard.se/index.html)....)_
+Bröllopet i lördags på vackra Björholmens Marina var magiskt. Alla strålade i kapp med solen, det var v-a-r-m-t. Maten och drycken  var fantatsisk, och ekologisk. Bröllopstårtan innehöll pop rocks _(godis som poppar i munnen)_ och på dansgolvet svängdes det en del lurviga.. Vi fick en fantatsisk svit att tillgå, så vår nanny med fick plats. TACK mamma för hjälpen. Veckan har lunkat fram med hönshusförflyttning + grillhäng, pre-födelsedagsmiddag och jordgubbsplockning med kändisspan _(Ebba von Sydow plockar även hon sina gubbar på [Annedals gård](https://www.annedalsgard.se/index.html)....)_
 
 ![IMG_7966](/static/img/IMG_7966-e1436477528838-1020x1360.jpg)
 
