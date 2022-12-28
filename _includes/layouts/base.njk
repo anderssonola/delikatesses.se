@@ -9,7 +9,7 @@
 			<em>
 				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
 			</em>
-			{% include "components/nav.njk" %}
+			<div id="search"></div>
 		</header>
 
 		<main>
@@ -20,4 +20,14 @@
 
 	</body>
 
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+	<script type="text/javascript">
+	algoliasearchNetlify({
+		appId: 'AVA1W1G2CW',
+		apiKey: '<YOUR_ALGOLIA_SEARCH_API_KEY>',
+		siteId: '9036c891-0d44-4f81-a0d3-e8ecc2141fe6',
+		branch: 'master',
+		selector: 'div#search',
+	});
+	</script>
 </html>
