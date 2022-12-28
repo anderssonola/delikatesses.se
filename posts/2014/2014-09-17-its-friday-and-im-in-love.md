@@ -1,5 +1,6 @@
 ---
 title: "It's friday and I'm in love"
+author: therese.persson82@gmail.com
 date: "2014-09-17"
 categories: 
   - "allmant"

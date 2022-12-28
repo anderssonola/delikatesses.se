@@ -1,5 +1,6 @@
 ---
 title: "Chokladtryffel"
+author: therese.persson82@gmail.com
 date: "2015-03-25"
 categories: 
   - "allmant"

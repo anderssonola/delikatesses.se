@@ -1,5 +1,6 @@
 ---
 title: "jordärtskockssoppa(igen...) med dekorerade tallrikar"
+author: therese.persson82@gmail.com
 date: "2014-01-23"
 categories: 
   - "allmant"

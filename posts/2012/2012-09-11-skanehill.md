@@ -1,5 +1,6 @@
 ---
 title: "Skånehill"
+author: therese.persson82@gmail.com
 date: "2012-09-11"
 categories: 
   - "dryck"

@@ -1,5 +1,6 @@
 ---
 title: "Hörte brygga och några hallon"
+author: therese.persson82@gmail.com
 date: "2014-07-22"
 categories: 
   - "allmant"

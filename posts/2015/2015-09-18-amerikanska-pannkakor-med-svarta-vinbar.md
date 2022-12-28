@@ -1,5 +1,6 @@
 ---
 title: "Amerikanska pannkakor med svarta vinbär"
+author: therese.persson82@gmail.com
 date: "2015-09-18"
 categories: 
   - "baka"

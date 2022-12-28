@@ -1,5 +1,6 @@
 ---
 title: "Glad midsommar!!"
+author: therese.persson82@gmail.com
 date: "2013-06-21"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "Ramslökssoppa med pocherat ägg"
+author: therese.persson82@gmail.com
 date: "2015-04-29"
 categories: 
   - "allmant"

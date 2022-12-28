@@ -1,5 +1,6 @@
 ---
 title: "Rotmooooos"
+author: therese.persson82@gmail.com
 date: "2013-11-03"
 categories: 
   - "allmant"

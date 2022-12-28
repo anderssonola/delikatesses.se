@@ -1,5 +1,6 @@
 ---
 title: "Asiatisk biff med ingefärsdressing och glasnudelsallad"
+author: therese.persson82@gmail.com
 date: "2015-01-15"
 categories: 
   - "allmant"

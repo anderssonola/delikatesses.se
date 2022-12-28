@@ -1,5 +1,6 @@
 ---
 title: "Äppelrullar"
+author: therese.persson82@gmail.com
 date: "2015-01-26"
 categories:
   - "allmant"

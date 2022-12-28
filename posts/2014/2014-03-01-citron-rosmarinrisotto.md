@@ -1,5 +1,6 @@
 ---
 title: "Citron- & rosmarinrisotto"
+author: therese.persson82@gmail.com
 date: "2014-03-01"
 categories: 
   - "allmant"

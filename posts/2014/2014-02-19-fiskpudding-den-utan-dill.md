@@ -1,5 +1,6 @@
 ---
 title: "Fiskpudding - den utan dill"
+author: therese.persson82@gmail.com
 date: "2014-02-19"
 categories: 
   - "allmant"

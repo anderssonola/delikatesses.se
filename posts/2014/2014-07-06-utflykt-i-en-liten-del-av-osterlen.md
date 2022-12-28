@@ -1,5 +1,6 @@
 ---
 title: "Utflykt i en liten del av Österlen"
+author: therese.persson82@gmail.com
 date: "2014-07-06"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "Banan- & chokladkaka"
+author: therese.persson82@gmail.com
 date: "2015-11-25"
 categories: 
   - "allmant"

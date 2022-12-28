@@ -1,5 +1,6 @@
 ---
 title: "OS i London- ett litet försenat inlägg"
+author: therese.persson82@gmail.com
 date: "2012-08-18"
 categories: 
   - "allmant"

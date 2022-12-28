@@ -1,5 +1,6 @@
 ---
 title: "Köpenhamn"
+author: therese.persson82@gmail.com
 date: "2014-09-28"
 categories: 
   - "allmant"

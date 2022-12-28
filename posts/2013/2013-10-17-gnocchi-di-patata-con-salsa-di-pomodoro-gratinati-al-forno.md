@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi di patata con salsa di pomodoro gratinati al forno"
+author: therese.persson82@gmail.com
 date: "2013-10-17"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "Gratinerad tortellinigryta med squash & parmesan"
+author: therese.persson82@gmail.com
 date: "2016-10-13"
 categories: 
   - "allmant"

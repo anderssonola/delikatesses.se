@@ -1,5 +1,6 @@
 ---
 title: "Lady & Lufsen"
+author: therese.persson82@gmail.com
 date: "2012-06-15"
 categories: 
   - "allmant"

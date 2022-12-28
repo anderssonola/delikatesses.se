@@ -1,5 +1,6 @@
 ---
 title: "Semelmuffins"
+author: therese.persson82@gmail.com
 date: "2015-02-10"
 categories: 
   - "allmant"

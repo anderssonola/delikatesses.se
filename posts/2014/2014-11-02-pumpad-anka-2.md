@@ -1,5 +1,6 @@
 ---
 title: "Pumpad anka"
+author: therese.persson82@gmail.com
 date: "2014-11-02"
 categories: 
   - "allmant"

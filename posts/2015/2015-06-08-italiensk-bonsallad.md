@@ -1,5 +1,6 @@
 ---
 title: "italiensk bönsallad"
+author: therese.persson82@gmail.com
 date: "2015-06-08"
 categories: 
   - "gronsaker"

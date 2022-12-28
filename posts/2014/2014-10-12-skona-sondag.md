@@ -1,5 +1,6 @@
 ---
 title: "Myshelg med en skön söndag"
+author: therese.persson82@gmail.com
 date: "2014-10-12"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "Sensommargryta med kantareller och krondill"
+author: therese.persson82@gmail.com
 date: "2015-09-16"
 categories: 
   - "allmant"

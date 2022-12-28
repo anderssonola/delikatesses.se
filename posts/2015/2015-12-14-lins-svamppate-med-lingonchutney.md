@@ -1,5 +1,6 @@
 ---
 title: "Lins- & svamppaté med lingonchutney"
+author: therese.persson82@gmail.com
 date: "2015-12-14"
 categories: 
   - "allmant"

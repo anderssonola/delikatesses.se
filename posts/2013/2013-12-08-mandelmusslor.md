@@ -1,5 +1,6 @@
 ---
 title: "Mandelmusslor"
+author: therese.persson82@gmail.com
 date: "2013-12-08"
 categories: 
   - "baka"

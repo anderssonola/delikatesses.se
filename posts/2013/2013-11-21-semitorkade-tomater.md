@@ -1,5 +1,6 @@
 ---
 title: "Semitorkade tomater"
+author: therese.persson82@gmail.com
 date: "2013-11-21"
 categories: 
   - "allmant"

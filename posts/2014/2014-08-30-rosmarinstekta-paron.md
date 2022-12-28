@@ -1,5 +1,6 @@
 ---
 title: "Rosmarinstekta päron"
+author: therese.persson82@gmail.com
 date: "2014-08-30"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "rårörd jordgubbssaft"
+author: therese.persson82@gmail.com
 date: "2015-07-09"
 categories: 
   - "allmant"

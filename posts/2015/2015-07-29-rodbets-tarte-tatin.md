@@ -1,5 +1,6 @@
 ---
 title: "Rödbets tarte tatin"
+author: therese.persson82@gmail.com
 date: "2015-07-29"
 categories: 
   - "allmant"

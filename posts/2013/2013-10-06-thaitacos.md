@@ -1,5 +1,6 @@
 ---
 title: "Thaitacos"
+author: therese.persson82@gmail.com
 date: "2013-10-06"
 categories: 
   - "fisk"

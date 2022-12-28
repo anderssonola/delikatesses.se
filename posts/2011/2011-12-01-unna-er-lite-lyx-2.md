@@ -1,5 +1,6 @@
 ---
 title: "Unna er lite lyx..."
+author: therese.persson82@gmail.com
 date: "2011-12-01"
 categories: 
   - "allmant"

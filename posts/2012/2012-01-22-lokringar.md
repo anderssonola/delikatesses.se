@@ -1,5 +1,6 @@
 ---
 title: "Lökringar"
+author: therese.persson82@gmail.com
 date: "2012-01-22"
 categories: 
   - "allmant"

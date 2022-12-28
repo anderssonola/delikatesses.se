@@ -1,5 +1,6 @@
 ---
 title: "Torskrygg med brynt löksmör, ärtor och örtsallad"
+author: therese.persson82@gmail.com
 date: "2016-04-04"
 categories: 
   - "fisk"

@@ -1,5 +1,6 @@
 ---
 title: "[krå:ck miss:jöö]"
+author: therese.persson82@gmail.com
 date: "2015-05-21"
 categories: 
   - "allmant"

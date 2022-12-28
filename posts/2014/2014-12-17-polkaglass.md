@@ -1,5 +1,6 @@
 ---
 title: "Polkaglass"
+author: therese.persson82@gmail.com
 date: "2014-12-17"
 categories: 
   - "allmant"

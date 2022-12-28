@@ -1,5 +1,6 @@
 ---
 title: "Hurra Hurra HURRA!.....för mig;)"
+author: therese.persson82@gmail.com
 date: "2013-01-20"
 categories: 
   - "baka"

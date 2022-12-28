@@ -1,5 +1,6 @@
 ---
 title: "Saffranspajer- med eller utan lyx"
+author: therese.persson82@gmail.com
 date: "2013-12-23"
 categories: 
   - "allmant"

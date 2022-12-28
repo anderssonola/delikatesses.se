@@ -1,5 +1,6 @@
 ---
 title: "Flyttpack och taberas"
+author: therese.persson82@gmail.com
 date: "2013-01-05"
 categories: 
   - "fisk"

@@ -1,5 +1,6 @@
 ---
 title: "Farmorfarmors husvagnslax"
+author: therese.persson82@gmail.com
 date: "2015-02-26"
 categories: 
   - "allmant"

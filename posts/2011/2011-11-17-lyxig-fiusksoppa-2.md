@@ -1,5 +1,6 @@
 ---
 title: "Lyxig fi(u)sksoppa"
+author: therese.persson82@gmail.com
 date: "2011-11-17"
 categories: 
   - "allmant"

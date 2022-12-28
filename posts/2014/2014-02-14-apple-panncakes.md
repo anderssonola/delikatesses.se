@@ -1,5 +1,6 @@
 ---
 title: "Äpple panncakes"
+author: therese.persson82@gmail.com
 date: "2014-02-14"
 categories: 
   - "allmant"

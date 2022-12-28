@@ -1,5 +1,6 @@
 ---
 title: "rädissallad med apelsin"
+author: therese.persson82@gmail.com
 date: "2015-06-19"
 categories: 
   - "allmant"

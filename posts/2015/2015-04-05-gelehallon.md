@@ -1,5 +1,6 @@
 ---
 title: "Geléhallon"
+author: therese.persson82@gmail.com
 date: "2015-04-05"
 categories: 
   - "allmant"

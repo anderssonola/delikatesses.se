@@ -1,5 +1,6 @@
 ---
 title: "Öppen lasagne"
+author: therese.persson82@gmail.com
 date: "2013-03-03"
 categories: 
   - "allmant"

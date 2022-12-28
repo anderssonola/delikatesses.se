@@ -1,5 +1,6 @@
 ---
 title: "Pastastubbar"
+author: therese.persson82@gmail.com
 date: "2012-09-03"
 categories: 
   - "allmant"

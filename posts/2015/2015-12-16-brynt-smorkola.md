@@ -1,5 +1,6 @@
 ---
 title: "Brynt smörkola"
+author: therese.persson82@gmail.com
 date: "2015-12-16"
 categories: 
   - "baka"

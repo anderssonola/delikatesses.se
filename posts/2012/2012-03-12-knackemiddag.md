@@ -1,5 +1,6 @@
 ---
 title: "Knäckemiddag"
+author: therese.persson82@gmail.com
 date: "2012-03-12"
 categories: 
   - "fisk"

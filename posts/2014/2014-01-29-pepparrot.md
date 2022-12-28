@@ -1,5 +1,6 @@
 ---
 title: "Pepparrot"
+author: therese.persson82@gmail.com
 date: "2014-01-29"
 categories: 
   - "allmant"

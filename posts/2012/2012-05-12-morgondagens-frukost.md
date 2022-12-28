@@ -1,5 +1,6 @@
 ---
 title: "Morgondagens frukost"
+author: therese.persson82@gmail.com
 date: "2012-05-12"
 categories: 
   - "allmant"

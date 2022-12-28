@@ -1,5 +1,6 @@
 ---
 title: "Äppelplättar"
+author: therese.persson82@gmail.com
 date: "2014-06-26"
 categories: 
   - "allmant"

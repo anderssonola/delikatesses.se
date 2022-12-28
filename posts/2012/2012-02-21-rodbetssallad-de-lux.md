@@ -1,5 +1,6 @@
 ---
 title: "Rödbetssallad de lux"
+author: therese.persson82@gmail.com
 date: "2012-02-21"
 categories: 
   - "allmant"

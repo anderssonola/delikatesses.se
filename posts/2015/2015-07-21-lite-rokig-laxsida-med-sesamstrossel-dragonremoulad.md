@@ -1,5 +1,6 @@
 ---
 title: "Lite rökig laxsida med sesamströssel & dragonremoulad"
+author: therese.persson82@gmail.com
 date: "2015-07-21"
 categories: 
   - "allmant"

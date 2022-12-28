@@ -1,5 +1,6 @@
 ---
 title: "Fredagsmys med thaimusslor"
+author: therese.persson82@gmail.com
 date: "2015-01-23"
 categories:
   - "gronsaker"

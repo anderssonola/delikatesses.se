@@ -1,5 +1,6 @@
 ---
 title: "saltbakad potatis"
+author: therese.persson82@gmail.com
 date: "2015-10-05"
 categories: 
   - "allmant"

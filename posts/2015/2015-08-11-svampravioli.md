@@ -1,5 +1,6 @@
 ---
 title: "Svampravioli"
+author: therese.persson82@gmail.com
 date: "2015-08-11"
 categories: 
   - "allmant"

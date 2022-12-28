@@ -1,5 +1,6 @@
 ---
 title: "Makaronilåda"
+author: therese.persson82@gmail.com
 date: "2013-09-22"
 categories: 
   - "allmant"

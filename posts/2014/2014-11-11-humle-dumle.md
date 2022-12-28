@@ -1,5 +1,6 @@
 ---
 title: "Humle & Dumle"
+author: therese.persson82@gmail.com
 date: "2014-11-11"
 categories: 
   - "allmant"

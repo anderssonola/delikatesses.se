@@ -1,5 +1,6 @@
 ---
 title: "Jansson, Karlsson, Svensson, Bengtsson och Ronsson"
+author: therese.persson82@gmail.com
 date: "2012-02-14"
 categories: 
   - "allmant"

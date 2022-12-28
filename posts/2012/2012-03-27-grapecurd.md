@@ -1,5 +1,6 @@
 ---
 title: "grapecurd"
+author: therese.persson82@gmail.com
 date: "2012-03-27"
 categories: 
   - "allmant"

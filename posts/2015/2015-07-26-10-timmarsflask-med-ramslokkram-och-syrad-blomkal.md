@@ -1,5 +1,6 @@
 ---
 title: "10 timmarsfläsk med ramslökkräm och syrad blomkål"
+author: therese.persson82@gmail.com
 date: "2015-07-26"
 categories: 
   - "flaskkott"

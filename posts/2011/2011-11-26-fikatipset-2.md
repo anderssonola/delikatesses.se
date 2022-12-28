@@ -1,5 +1,6 @@
 ---
 title: "Fikatipset"
+author: therese.persson82@gmail.com
 date: "2011-11-26"
 categories: 
   - "allmant"

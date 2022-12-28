@@ -1,5 +1,6 @@
 ---
 title: "Höstfärslimpa"
+author: therese.persson82@gmail.com
 date: "2013-09-01"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "jordgubbspaj"
+author: therese.persson82@gmail.com
 date: "2015-07-13"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "Härliga lördag"
+author: therese.persson82@gmail.com
 date: "2014-06-28"
 categories: 
   - "allmant"

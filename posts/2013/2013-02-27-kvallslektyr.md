@@ -1,5 +1,6 @@
 ---
 title: "Kvällslektyr"
+author: therese.persson82@gmail.com
 date: "2013-02-27"
 categories: 
   - "allmant"

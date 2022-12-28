@@ -1,5 +1,6 @@
 ---
 title: "Torsk med citronfrästa belugalinser & grillad paprikakräm"
+author: therese.persson82@gmail.com
 date: "2015-09-30"
 categories: 
   - "allmant"

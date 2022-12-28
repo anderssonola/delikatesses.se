@@ -1,5 +1,6 @@
 ---
 title: "Smördegspaj"
+author: therese.persson82@gmail.com
 date: "2012-06-24"
 categories: 
   - "allmant"

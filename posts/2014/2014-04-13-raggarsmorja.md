@@ -1,5 +1,6 @@
 ---
 title: "Raggarsmörja"
+author: therese.persson82@gmail.com
 date: "2014-04-13"
 categories: 
   - "allmant"

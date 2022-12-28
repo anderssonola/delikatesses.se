@@ -1,5 +1,6 @@
 ---
 title: "Panzanella"
+author: therese.persson82@gmail.com
 date: "2013-08-26"
 categories: 
   - "allmant"

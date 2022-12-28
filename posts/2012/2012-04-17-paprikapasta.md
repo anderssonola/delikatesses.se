@@ -1,5 +1,6 @@
 ---
 title: "PaprikaPasta"
+author: therese.persson82@gmail.com
 date: "2012-04-17"
 categories: 
   - "allmant"

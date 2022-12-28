@@ -1,5 +1,6 @@
 ---
 title: "Allium ursinum"
+author: therese.persson82@gmail.com
 date: "2013-05-22"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "Är dom små får man ta två....."
+author: therese.persson82@gmail.com
 date: "2012-12-04"
 categories: 
   - "allmant"

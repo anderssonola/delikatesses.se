@@ -1,5 +1,6 @@
 ---
 title: "Dumlebiskvier"
+author: therese.persson82@gmail.com
 date: "2015-01-31"
 categories: 
   - "allmant"

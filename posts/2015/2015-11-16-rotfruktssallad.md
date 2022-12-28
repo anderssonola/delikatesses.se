@@ -1,5 +1,6 @@
 ---
 title: "Rotfruktssallad"
+author: therese.persson82@gmail.com
 date: "2015-11-16"
 categories: 
   - "allmant"

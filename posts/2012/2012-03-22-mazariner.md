@@ -1,5 +1,6 @@
 ---
 title: "Mazariner"
+author: therese.persson82@gmail.com
 date: "2012-03-22"
 categories: 
   - "allmant"

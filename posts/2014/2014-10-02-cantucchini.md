@@ -1,5 +1,6 @@
 ---
 title: "Cantucchini"
+author: therese.persson82@gmail.com
 date: "2014-10-02"
 categories: 
   - "allmant"

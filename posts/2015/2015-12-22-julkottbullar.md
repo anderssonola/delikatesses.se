@@ -1,5 +1,6 @@
 ---
 title: "Julköttbullar"
+author: therese.persson82@gmail.com
 date: "2015-12-22"
 categories: 
   - "allmant"

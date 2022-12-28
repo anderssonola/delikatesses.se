@@ -1,5 +1,6 @@
 ---
 title: "Fläderchampagnen"
+author: therese.persson82@gmail.com
 date: "2012-08-21"
 categories: 
   - "allmant"

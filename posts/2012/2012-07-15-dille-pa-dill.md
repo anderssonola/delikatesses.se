@@ -1,5 +1,6 @@
 ---
 title: "Dille på dill"
+author: therese.persson82@gmail.com
 date: "2012-07-15"
 categories: 
   - "allmant"

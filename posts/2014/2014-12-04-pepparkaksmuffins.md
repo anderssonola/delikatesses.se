@@ -1,5 +1,6 @@
 ---
 title: "Pepparkaksmuffins"
+author: therese.persson82@gmail.com
 date: "2014-12-04"
 categories: 
   - "allmant"

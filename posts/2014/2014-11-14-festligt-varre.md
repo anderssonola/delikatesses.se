@@ -1,5 +1,6 @@
 ---
 title: "Festligt värre!"
+author: therese.persson82@gmail.com
 date: "2014-11-14"
 categories: 
   - "allmant"

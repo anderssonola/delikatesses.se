@@ -1,5 +1,6 @@
 ---
 title: "Chokladtryffel med fikon & whisky"
+author: therese.persson82@gmail.com
 date: "2015-10-23"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "Semmelwrap"
+author: therese.persson82@gmail.com
 date: "2016-02-09"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "Munkar- såna där goda"
+author: therese.persson82@gmail.com
 date: "2013-07-21"
 categories: 
   - "allmant"

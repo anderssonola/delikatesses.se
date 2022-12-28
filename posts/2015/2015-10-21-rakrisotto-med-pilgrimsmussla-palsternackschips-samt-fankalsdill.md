@@ -1,5 +1,6 @@
 ---
 title: "Räkrisotto med pilgrimsmussla, palsternackschips samt fänkålsdill"
+author: therese.persson82@gmail.com
 date: "2015-10-21"
 categories: 
   - "allmant"

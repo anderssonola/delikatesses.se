@@ -1,5 +1,6 @@
 ---
 title: "Oxbuljong med Sherry och ostpastej"
+author: therese.persson82@gmail.com
 date: "2012-07-14"
 categories: 
   - "allmant"

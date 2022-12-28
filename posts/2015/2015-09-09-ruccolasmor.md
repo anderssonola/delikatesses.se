@@ -1,5 +1,6 @@
 ---
 title: "Ruccolasmör"
+author: therese.persson82@gmail.com
 date: "2015-09-09"
 categories: 
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "Kokbokshyllan"
+author: therese.persson82@gmail.com
 date: "2013-01-14"
 categories: 
   - "allmant"

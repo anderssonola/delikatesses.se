@@ -1,5 +1,6 @@
 ---
 title: "Pilgrimsmusslor med champagnesås och bröllop"
+author: therese.persson82@gmail.com
 date: "2015-07-04"
 categories: 
   - "allmant"

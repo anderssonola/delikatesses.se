@@ -1,5 +1,6 @@
 ---
 title: "Confit på kyckling, confiterade och färska tomater med linssky och rostade mandlar"
+author: therese.persson82@gmail.com
 date: "2015-09-03"
 categories: 
   - "gronsaker"

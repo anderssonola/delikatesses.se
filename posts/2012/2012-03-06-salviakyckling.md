@@ -1,5 +1,6 @@
 ---
 title: "Salviakyckling"
+author: therese.persson82@gmail.com
 date: "2012-03-06"
 categories: 
   - "gronsaker"

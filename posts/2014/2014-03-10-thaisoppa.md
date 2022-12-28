@@ -1,5 +1,6 @@
 ---
 title: "Thaisoppa"
+author: therese.persson82@gmail.com
 date: "2014-03-10"
 categories: 
   - "allmant"

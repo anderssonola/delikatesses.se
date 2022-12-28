@@ -1,5 +1,6 @@
 ---
 title: "Puylinser"
+author: therese.persson82@gmail.com
 date: "2014-02-03"
 categories: 
   - "allmant"

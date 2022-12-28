@@ -1,5 +1,6 @@
 ---
 title: "Novembersol"
+author: therese.persson82@gmail.com
 date: "2014-11-25"
 categories: 
   - "allmant"

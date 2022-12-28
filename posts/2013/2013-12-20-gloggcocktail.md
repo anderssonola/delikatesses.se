@@ -1,5 +1,6 @@
 ---
 title: "Glöggcocktail"
+author: therese.persson82@gmail.com
 date: "2013-12-20"
 categories: 
   - "dryck"

@@ -1,5 +1,6 @@
 ---
 title: "Han dricker Pimm's"
+author: therese.persson82@gmail.com
 date: "2014-07-27"
 categories: 
   - "allmant"

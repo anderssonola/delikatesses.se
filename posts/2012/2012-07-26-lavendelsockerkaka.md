@@ -1,5 +1,6 @@
 ---
 title: "Lavendelsockerkaka"
+author: therese.persson82@gmail.com
 date: "2012-07-26"
 categories: 
   - "baka"

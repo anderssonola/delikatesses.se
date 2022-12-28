@@ -1,5 +1,6 @@
 ---
 title: "En röd, en gul och en ful..,"
+author: therese.persson82@gmail.com
 date: "2012-11-20"
 categories: 
   - "gronsaker"

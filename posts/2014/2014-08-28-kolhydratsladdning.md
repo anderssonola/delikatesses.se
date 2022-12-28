@@ -1,5 +1,6 @@
 ---
 title: "Kolhydratsladdning"
+author: therese.persson82@gmail.com
 date: "2014-08-28"
 categories: 
   - "allmant"

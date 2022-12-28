@@ -1,5 +1,6 @@
 ---
 title: "Petite sirah till en glad gris"
+author: therese.persson82@gmail.com
 date: "2015-06-27"
 categories: 
   - "allmant"

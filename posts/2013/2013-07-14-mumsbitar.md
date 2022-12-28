@@ -1,5 +1,6 @@
 ---
 title: "Mumsbitar"
+author: therese.persson82@gmail.com
 date: "2013-07-14"
 categories: 
   - "allmant"

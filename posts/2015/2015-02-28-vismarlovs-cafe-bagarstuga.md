@@ -1,5 +1,6 @@
 ---
 title: "Vismarlövs café - & bagarstuga"
+author: therese.persson82@gmail.com
 date: "2015-02-28"
 categories: 
   - "allmant"

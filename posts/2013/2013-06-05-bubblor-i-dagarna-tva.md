@@ -1,5 +1,6 @@
 ---
 title: "Bubblor i dagarna två"
+author: therese.persson82@gmail.com
 date: "2013-06-05"
 categories: 
   - "allmant"

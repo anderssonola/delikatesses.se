@@ -1,5 +1,6 @@
 ---
 title: "Förena nytta med nöje..."
+author: therese.persson82@gmail.com
 date: "2011-12-18"
 categories: 
   - "allmant"

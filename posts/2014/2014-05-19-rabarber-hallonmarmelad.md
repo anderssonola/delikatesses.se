@@ -1,5 +1,6 @@
 ---
 title: "Rabarber- & hallonmarmelad"
+author: therese.persson82@gmail.com
 date: "2014-05-19"
 categories: 
   - "allmant"

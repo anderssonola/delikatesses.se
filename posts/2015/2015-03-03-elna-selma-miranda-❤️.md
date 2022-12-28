@@ -1,5 +1,6 @@
 ---
 title: "Elna Selma Miranda ❤️"
+author: therese.persson82@gmail.com
 date: "2015-03-03"
 categories: 
   - "allmant"

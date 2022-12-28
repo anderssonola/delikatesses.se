@@ -1,5 +1,6 @@
 ---
 title: "Purjolök med vänner"
+author: therese.persson82@gmail.com
 date: "2012-07-04"
 categories: 
   - "allmant"

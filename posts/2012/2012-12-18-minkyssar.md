@@ -1,5 +1,6 @@
 ---
 title: "Mintkyssar"
+author: therese.persson82@gmail.com
 date: "2012-12-18"
 categories: 
   - "allmant"

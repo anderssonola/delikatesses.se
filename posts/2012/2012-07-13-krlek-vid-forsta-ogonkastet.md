@@ -1,5 +1,6 @@
 ---
 title: "K:rlek vid första ögonkastet"
+author: therese.persson82@gmail.com
 date: "2012-07-13"
 categories: 
   - "ol"

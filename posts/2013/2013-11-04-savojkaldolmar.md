@@ -1,5 +1,6 @@
 ---
 title: "Savojkåldolmar"
+author: therese.persson82@gmail.com
 date: "2013-11-04"
 categories: 
   - "gronsaker"

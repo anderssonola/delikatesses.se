@@ -1,5 +1,6 @@
 ---
 title: "Betsallad med kalkon, bacon och fetaost"
+author: therese.persson82@gmail.com
 date: "2014-06-02"
 categories: 
   - "allmant"

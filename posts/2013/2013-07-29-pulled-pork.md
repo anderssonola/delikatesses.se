@@ -1,5 +1,6 @@
 ---
 title: "Dragen gris"
+author: therese.persson82@gmail.com
 date: "2013-07-29"
 categories: 
   - "allmant"

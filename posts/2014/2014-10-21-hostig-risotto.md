@@ -1,5 +1,6 @@
 ---
 title: "Höstig risotto"
+author: therese.persson82@gmail.com
 date: "2014-10-21"
 categories: 
   - "allmant"

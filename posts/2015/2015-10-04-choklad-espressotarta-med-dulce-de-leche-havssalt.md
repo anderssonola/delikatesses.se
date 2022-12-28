@@ -1,5 +1,6 @@
 ---
 title: "Choklad- & espressotårta med dulce de leche & havssalt"
+author: therese.persson82@gmail.com
 date: "2015-10-04"
 categories: 
   - "allmant"

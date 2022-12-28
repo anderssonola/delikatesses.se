@@ -1,5 +1,6 @@
 ---
 title: "Ett skepp kommer lastat..."
+author: therese.persson82@gmail.com
 date: "2014-06-09"
 categories: 
   - "allmant"

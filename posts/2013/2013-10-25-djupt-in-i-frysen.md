@@ -1,5 +1,6 @@
 ---
 title: "Djupt in i frysen"
+author: therese.persson82@gmail.com
 date: "2013-10-25"
 categories: 
   - "baka"

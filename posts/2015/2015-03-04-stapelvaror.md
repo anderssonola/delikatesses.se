@@ -1,5 +1,6 @@
 ---
 title: "Stapelvaror"
+author: therese.persson82@gmail.com
 date: "2015-03-04"
 categories:
   - "allmant"

@@ -1,5 +1,6 @@
 ---
 title: "En skön böna"
+author: therese.persson82@gmail.com
 date: "2012-02-17"
 categories: 
   - "allmant"

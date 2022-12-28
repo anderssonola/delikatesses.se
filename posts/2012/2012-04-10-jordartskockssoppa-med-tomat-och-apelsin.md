@@ -1,5 +1,6 @@
 ---
 title: "jordärtskockssoppa med tomat och apelsin"
+author: therese.persson82@gmail.com
 date: "2012-04-10"
 categories: 
   - "allmant"
