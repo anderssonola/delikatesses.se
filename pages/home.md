@@ -1,11 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Hem
-date: 2022-12-23T00:00:00.000Z
-permalink: /
-eleventyNavigation:
-  key: Hem
-  order: 0
+metaDescription: delikatesses.se en blogg om mat och dryck
+date: 2017-01-01
+permalink: /index.html
 ---
-# delikatesses.se
-
