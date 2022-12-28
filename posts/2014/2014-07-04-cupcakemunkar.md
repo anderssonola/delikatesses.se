@@ -1,6 +1,6 @@
 ---
 title: "Cupcakemunkar"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-07-04"
 categories: 
   - "baka"

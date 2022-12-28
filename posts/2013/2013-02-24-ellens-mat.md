@@ -1,6 +1,6 @@
 ---
 title: "Ellens mat"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-02-24"
 categories: 
   - "allmant"

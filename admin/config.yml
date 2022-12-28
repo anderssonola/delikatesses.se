@@ -26,7 +26,7 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Author", name: "author", widget: "relation", 
         collection: "authors", 
-        value_field: "email", 
+        value_field: "name", 
         display_fields: [ "name" ], 
         search_fields: [ "name", "email" ] }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }

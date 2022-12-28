@@ -1,6 +1,6 @@
 ---
 title: "Mandelbiskvier"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-09-30"
 categories: 
   - "allmant"

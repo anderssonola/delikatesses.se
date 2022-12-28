@@ -1,6 +1,6 @@
 ---
 title: "Rödbetssallad med porcherat ägg, dragonmajjo och picklade senapsfrö"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-10-12"
 categories: 
   - "allmant"

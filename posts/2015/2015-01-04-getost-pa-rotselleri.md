@@ -1,6 +1,6 @@
 ---
 title: "Getost på rotselleri"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-01-04"
 categories: 
   - "allmant"

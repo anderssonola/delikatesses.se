@@ -1,6 +1,6 @@
 ---
 title: "Lax med sherrysås"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2012-07-07"
 categories: 
   - "allmant"

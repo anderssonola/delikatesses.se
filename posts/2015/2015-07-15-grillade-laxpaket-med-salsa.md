@@ -1,6 +1,6 @@
 ---
 title: "Grillade laxpaket med salsa"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-07-15"
 categories: 
   - "allmant"

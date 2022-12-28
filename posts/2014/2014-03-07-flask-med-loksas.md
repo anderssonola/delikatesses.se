@@ -1,6 +1,6 @@
 ---
 title: "Fläsk med löksås"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-03-07"
 categories: 
   - "allmant"

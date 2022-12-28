@@ -1,6 +1,6 @@
 ---
 title: "Jästa pannkakor i bebisbubblan"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-10-10"
 categories: 
   - "allmant"

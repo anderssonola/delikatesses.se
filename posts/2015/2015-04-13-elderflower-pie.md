@@ -1,6 +1,6 @@
 ---
 title: "Elderflower pie"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-04-13"
 categories: 
   - "allmant"

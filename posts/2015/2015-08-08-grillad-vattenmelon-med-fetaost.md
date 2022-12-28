@@ -1,6 +1,6 @@
 ---
 title: "Grillad vattenmelon med fetaost"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-08-08"
 categories: 
   - "allmant"

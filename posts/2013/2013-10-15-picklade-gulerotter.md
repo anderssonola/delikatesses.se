@@ -1,6 +1,6 @@
 ---
 title: "Picklade gulerötter"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-10-15"
 categories: 
   - "tillbehor"

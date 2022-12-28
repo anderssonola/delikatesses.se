@@ -1,6 +1,6 @@
 ---
 title: "Födelsedagsmiddag"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-01-19"
 categories: 
   - "allmant"

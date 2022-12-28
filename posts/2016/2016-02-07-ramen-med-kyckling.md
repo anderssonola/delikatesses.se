@@ -1,6 +1,6 @@
 ---
 title: "Ramen med kyckling"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2016-02-07"
 categories: 
   - "allmant"

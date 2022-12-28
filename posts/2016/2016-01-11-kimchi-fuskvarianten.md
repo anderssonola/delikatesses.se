@@ -1,6 +1,6 @@
 ---
 title: "Kimchi- fuskvarianten"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2016-01-11"
 categories: 
   - "allmant"

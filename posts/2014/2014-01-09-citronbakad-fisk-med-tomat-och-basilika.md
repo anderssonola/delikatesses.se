@@ -1,6 +1,6 @@
 ---
 title: "Citronbakad fisk med tomat och basilika"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-01-09"
 categories: 
   - "allmant"

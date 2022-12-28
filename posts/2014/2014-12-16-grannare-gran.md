@@ -1,6 +1,6 @@
 ---
 title: "Grannare gran"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-12-16"
 categories: 
   - "allmant"

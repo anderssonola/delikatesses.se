@@ -1,6 +1,6 @@
 ---
 title: "chili på (c)Arnes vis"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-11-02"
 categories: 
   - "allmant"

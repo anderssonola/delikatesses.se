@@ -1,6 +1,6 @@
 ---
 title: "Getostpaj med innehållet utanpå"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-12-03"
 categories: 
   - "allmant"

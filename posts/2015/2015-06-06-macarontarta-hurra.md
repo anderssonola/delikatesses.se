@@ -1,6 +1,6 @@
 ---
 title: "macarontårta & HURRA!"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-06-06"
 categories: 
   - "allmant"

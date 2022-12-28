@@ -1,6 +1,6 @@
 ---
 title: "Sverige -Argentina"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-02-06"
 categories: 
   - "allmant"

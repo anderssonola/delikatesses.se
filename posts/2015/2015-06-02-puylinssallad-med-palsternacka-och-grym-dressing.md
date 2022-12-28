@@ -1,6 +1,6 @@
 ---
 title: "Puylinssallad med palsternacka och grym dressing"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-06-02"
 categories: 
   - "allmant"

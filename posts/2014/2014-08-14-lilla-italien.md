@@ -1,6 +1,6 @@
 ---
 title: "Lilla Italien"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-08-14"
 categories: 
   - "allmant"

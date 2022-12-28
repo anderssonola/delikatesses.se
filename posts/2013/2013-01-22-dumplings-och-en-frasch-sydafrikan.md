@@ -1,6 +1,6 @@
 ---
 title: "Dumplings och en fräsch sydafrikan"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-01-22"
 categories: 
   - "baka"

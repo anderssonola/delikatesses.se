@@ -1,6 +1,6 @@
 ---
 title: "Stenåldersmat"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-12-02"
 categories: 
   - "allmant"

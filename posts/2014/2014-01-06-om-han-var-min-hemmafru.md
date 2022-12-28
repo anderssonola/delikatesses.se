@@ -1,6 +1,6 @@
 ---
 title: "Om han var min hemmafru"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-01-06"
 categories: 
   - "allmant"

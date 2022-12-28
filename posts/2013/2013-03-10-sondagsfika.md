@@ -1,6 +1,6 @@
 ---
 title: "Vår i sinne- fika inne"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-03-10"
 categories: 
   - "allmant"

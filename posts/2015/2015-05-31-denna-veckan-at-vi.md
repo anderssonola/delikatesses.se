@@ -1,6 +1,6 @@
 ---
 title: "Denna veckan åt vi...."
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-05-31"
 categories: 
   - "matsedel"

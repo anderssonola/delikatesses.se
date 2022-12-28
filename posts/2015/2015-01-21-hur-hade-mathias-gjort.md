@@ -1,6 +1,6 @@
 ---
 title: "Hur hade Mathias gjort?"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-01-21"
 categories: 
   - "fisk"

@@ -1,6 +1,6 @@
 ---
 title: "Frysen är full av piroger"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-09-17"
 categories: 
   - "allmant"

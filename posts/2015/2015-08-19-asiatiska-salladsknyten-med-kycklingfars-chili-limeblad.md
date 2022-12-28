@@ -1,6 +1,6 @@
 ---
 title: "Asiatiska salladsknyten med kycklingfärs, chili & limeblad"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-08-19"
 categories: 
   - "allmant"

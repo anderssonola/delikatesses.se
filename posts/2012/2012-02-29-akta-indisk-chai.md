@@ -1,6 +1,6 @@
 ---
 title: "Äkta indisk chai"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2012-02-29"
 categories: 
   - "allmant"

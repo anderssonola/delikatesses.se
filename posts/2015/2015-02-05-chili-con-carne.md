@@ -1,6 +1,6 @@
 ---
 title: "Chili con carne"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-02-05"
 categories: 
   - "allmant"

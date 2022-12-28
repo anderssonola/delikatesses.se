@@ -1,6 +1,6 @@
 ---
 title: "Kaffe & twistpåsar, bebisgos och matleveranser"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-10-29"
 categories: 
   - "allmant"

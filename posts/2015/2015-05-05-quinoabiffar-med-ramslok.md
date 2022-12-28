@@ -1,6 +1,6 @@
 ---
 title: "Quinoabiffar med rostad ramslök"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-05-05"
 categories: 
   - "allmant"

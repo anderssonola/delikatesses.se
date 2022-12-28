@@ -1,6 +1,6 @@
 ---
 title: "Pizzadagen"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-01-01"
 categories: 
   - "allmant"

@@ -1,6 +1,6 @@
 ---
 title: "Kokostoppar med saffran"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-12-13"
 categories: 
   - "allmant"

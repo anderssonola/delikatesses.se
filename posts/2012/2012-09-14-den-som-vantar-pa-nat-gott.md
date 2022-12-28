@@ -1,6 +1,6 @@
 ---
 title: "Den som väntar på nåt gott ...."
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2012-09-14"
 categories: 
   - "allmant"

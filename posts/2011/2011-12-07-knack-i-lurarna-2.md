@@ -1,6 +1,6 @@
 ---
 title: "Knäck i lurarna"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2011-12-07"
 categories: 
   - "allmant"

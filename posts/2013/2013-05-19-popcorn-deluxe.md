@@ -1,6 +1,6 @@
 ---
 title: "Popcorn deluxe"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-05-19"
 categories: 
   - "allmant"

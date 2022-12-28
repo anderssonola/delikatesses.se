@@ -1,6 +1,6 @@
 ---
 title: "dillstuvad potatis & lax"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2012-03-26"
 categories: 
   - "allmant"

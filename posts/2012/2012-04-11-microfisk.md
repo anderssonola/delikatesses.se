@@ -1,6 +1,6 @@
 ---
 title: "Microfisk"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2012-04-11"
 categories: 
   - "allmant"

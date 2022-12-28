@@ -1,6 +1,6 @@
 ---
 title: "Orientalisk bulgur med halloumi"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-04-12"
 categories: 
   - "gronsaker"

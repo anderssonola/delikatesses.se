@@ -1,6 +1,6 @@
 ---
 title: "Vårt dagliga bröd"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2011-11-22"
 categories: 
   - "baka"

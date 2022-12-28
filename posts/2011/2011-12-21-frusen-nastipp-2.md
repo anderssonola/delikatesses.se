@@ -1,6 +1,6 @@
 ---
 title: "Frusen nästipp"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2011-12-21"
 categories: 
   - "allmant"

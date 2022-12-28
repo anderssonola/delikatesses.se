@@ -1,6 +1,6 @@
 ---
 title: "Kvällsfika"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2011-11-16"
 categories: 
   - "allmant"

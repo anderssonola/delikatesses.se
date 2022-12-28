@@ -1,6 +1,6 @@
 ---
 title: "Morotssoppa"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-03-15"
 categories: 
   - "gronsaker"

@@ -30,7 +30,7 @@
   }
   
   /* Dark theme */
-  @media (prefers-color-scheme: dark) {
+  /* @media (prefers-color-scheme: dark) {
     :root {
       --bg: #212121;
       --accent-bg: #2b2b2b;
@@ -48,7 +48,7 @@
     video {
       opacity: 0.6;
     }
-  }
+  } */
   
   html {
     /* Set the font globally */

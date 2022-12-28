@@ -1,6 +1,6 @@
 ---
 title: "Rotfruktsbea"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-10-18"
 categories: 
   - "allmant"

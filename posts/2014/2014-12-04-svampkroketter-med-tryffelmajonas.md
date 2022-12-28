@@ -1,6 +1,6 @@
 ---
 title: "Svampkroketter med tryffelmajonäs"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-12-04"
 categories: 
   - "allmant"

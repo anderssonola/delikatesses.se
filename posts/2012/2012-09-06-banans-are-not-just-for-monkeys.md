@@ -1,6 +1,6 @@
 ---
 title: "Bananas are not just for monkeys"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2012-09-06"
 categories: 
   - "baka"

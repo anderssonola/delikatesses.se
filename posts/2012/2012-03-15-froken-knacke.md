@@ -1,6 +1,6 @@
 ---
 title: "Frökens Knäcke"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2012-03-15"
 categories: 
   - "allmant"

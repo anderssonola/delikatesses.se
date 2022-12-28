@@ -1,6 +1,6 @@
 ---
 title: "TandpetsTapas - Barcelona"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-10-24"
 categories: 
   - "allmant"

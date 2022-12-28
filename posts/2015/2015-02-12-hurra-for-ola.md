@@ -1,6 +1,6 @@
 ---
 title: "Hurra för Ola"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-02-12"
 categories: 
   - "allmant"

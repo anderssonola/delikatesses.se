@@ -1,6 +1,6 @@
 ---
 title: "crème brülekräm"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-06-21"
 categories: 
   - "baka"

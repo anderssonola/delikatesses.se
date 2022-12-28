@@ -1,6 +1,6 @@
 ---
 title: "Tigermuffins med klös"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-01-10"
 categories:
   - "baka"

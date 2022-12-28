@@ -1,6 +1,6 @@
 ---
 title: "Glädjeflickans favorit"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-08-18"
 categories: 
   - "allmant"

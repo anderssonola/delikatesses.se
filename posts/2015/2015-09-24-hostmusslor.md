@@ -1,6 +1,6 @@
 ---
 title: "Höstmusslor som snabbmat"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2015-09-24"
 categories: 
   - "allmant"

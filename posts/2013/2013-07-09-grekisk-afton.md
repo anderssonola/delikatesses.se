@@ -1,6 +1,6 @@
 ---
 title: "Grekisk afton"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-07-09"
 categories: 
   - "dryck"

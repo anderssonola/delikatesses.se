@@ -1,6 +1,6 @@
 ---
 title: "Torsk med rödbetor och citronsås"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-11-06"
 categories: 
   - "allmant"

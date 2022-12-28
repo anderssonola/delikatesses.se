@@ -1,6 +1,6 @@
 ---
 title: "Fish n' chips delux"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-12-10"
 categories: 
   - "allmant"

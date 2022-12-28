@@ -1,6 +1,6 @@
 ---
 title: "I väntans tider..."
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-08-09"
 categories: 
   - "allmant"

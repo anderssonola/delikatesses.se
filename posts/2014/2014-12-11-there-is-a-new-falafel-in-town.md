@@ -1,6 +1,6 @@
 ---
 title: "There is a new falafel in town..."
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-12-11"
 categories: 
   - "allmant"

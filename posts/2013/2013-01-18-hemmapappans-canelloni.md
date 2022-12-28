@@ -1,6 +1,6 @@
 ---
 title: "Hemmapappans canelloni"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2013-01-18"
 categories: 
   - "gronsaker"

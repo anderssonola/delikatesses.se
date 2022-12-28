@@ -1,6 +1,6 @@
 ---
 title: "Ledighetskommiteén bakar citronfrallor"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2014-03-15"
 categories: 
   - "allmant"

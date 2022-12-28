@@ -1,6 +1,6 @@
 ---
 title: "Gott nytt grytbröd 2016"
-author: therese.persson82@gmail.com
+author: Therese Persson
 date: "2016-01-03"
 categories: 
   - "allmant"
