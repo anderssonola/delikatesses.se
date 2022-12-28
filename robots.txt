@@ -1,0 +1,9 @@
+# Algolia-Crawler-Verif: AVA1W1G2CW 
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Host: https://delikatesses.se/
+
+# Sitemap: https://mikefallows.com/sitemap.xml
