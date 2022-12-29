@@ -9,7 +9,7 @@ Based on the [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/ele
 ### 1. Clone this repository:
 
 ```
-git clone https://github.com/danurbanowicz/eleventy-netlify-boilerplate.git my-blog-name
+git clone https://github.com/danurbanowicz/eleventy-netlify-boilerplate.git 
 ```
 
 

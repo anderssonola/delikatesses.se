@@ -23,8 +23,9 @@ module.exports = function(eleventyConfig) {
   // Adds an authors collection using the author key in our post frontmatter
   // Thanks to @pdehaan: https://github.com/pdehaan
   eleventyConfig.addCollection("authors", collection => {
-    const blogs = collection.getFilteredByGlob("posts/*.md");
-    return blogs.reduce((coll, post) => {
+    const blogs = collection.getFilteredByGlob("posts/**/*.md");
+    // console.log("APA", collection)
+    const a =  blogs.reduce((coll, post) => {
       const author = post.data.author;
       if (!author) {
         return coll;
@@ -35,6 +36,7 @@ module.exports = function(eleventyConfig) {
       coll[author].push(post.data);
       return coll;
     }, {});
+    return a
   });
 
   // Date formatting (human readable)
