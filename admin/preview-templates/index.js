@@ -6,6 +6,7 @@ CMS.registerPreviewTemplate("blog", Post);
 CMS.registerPreviewTemplate("pages", Page);
 
 CMS.registerPreviewStyle("/_includes/assets/css/simple.css");
+CMS.registerPreviewStyle("/_includes/assets/css/app.css");
 // Register any CSS file on the home page as a preview style
 fetch("/")
   .then(response => response.text())

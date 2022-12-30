@@ -81,6 +81,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin/");
+  eleventyConfig.addPassthroughCopy("_includes/assets/css/app.css");
   eleventyConfig.addPassthroughCopy("_includes/assets/css/simple.css");
   eleventyConfig.addPassthroughCopy({ 'robots.txt': '/robots.txt' });
 

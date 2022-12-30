@@ -5,6 +5,7 @@
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   {% set css %}
     {% include "assets/css/simple.css" %}
+    {% include "assets/css/app.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {# {% set js %}

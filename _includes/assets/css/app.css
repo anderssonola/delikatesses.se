@@ -1,0 +1,9 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+header #search { min-width: 350px; }
+
+ .aa-Input { margin-bottom: unset; }
