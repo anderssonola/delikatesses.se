@@ -8,7 +8,7 @@ categories:
   - "gronsaker"
 tags:
   - "brynt-smor"
-  - "kraase"
+  - "krasse"
   - "mynta"
   - "schalottenlok"
   - "torsk"
