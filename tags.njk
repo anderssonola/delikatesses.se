@@ -1,4 +1,5 @@
 ---
+layout: layouts/base.njk
 pagination:
   data: collections
   size: 1
@@ -9,7 +10,6 @@ pagination:
     - post
     - posts
 permalink: /tags/{{ tag }}/
-layout: layouts/base.njk
 renderData:
   title: "Tagged “{{ tag }}”"
   metaDescription: "All posts from the Blog tagged with “{{ tag }}”"
