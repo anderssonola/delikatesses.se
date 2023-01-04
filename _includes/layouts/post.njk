@@ -10,7 +10,7 @@ section: post
       "@type": "NewsArticle",
       "headline": "{{title}}",
 
-      "datePublished": "{{ page.date | machineDate }}",
+      "datePublished": "{{ date | machineDate }}",
       "author": [
         {
           "@type": "Person",
@@ -23,18 +23,18 @@ section: post
   <h1>{{ title }}</h1>
   <p>
     <small>
-      <time datetime="{{ page.date | machineDate }}">{{ page.date | readableDate }}</time> by {{ author }}
+      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ author }}
     </small>
   </p>
 
   {{ layoutContent | safe }}
 
   {% if tags %}
-    <p>
+    <p itemprop="keywords">
       {% for tag in tags %}
         {%- if tag != "post" -%}
           {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-          <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+          <a href="{{ tagUrl | url }}" rel="category tag">{{ tag }}</a>
         {%- endif -%}
       {% endfor %}
     </p>
