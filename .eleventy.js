@@ -97,8 +97,6 @@ module.exports = function (eleventyConfig) {
     markdownIt(options).use(markdownItAnchor, opts)
   );
 
-  eleventyConfig.addPlugin(UpgradeHelper);
-
   return {
     templateFormats: ["md", "njk", "liquid"],
 

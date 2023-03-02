@@ -37,3 +37,4 @@
   [plugins.inputs]
     ext = "html"
     config = ".htmlvalidate.json"
+    path = "_site"
