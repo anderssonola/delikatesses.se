@@ -30,3 +30,10 @@
 # contexts no matter where you define them in the file.
 # For context-specific rules, use _headers or _redirects files, which are
 # applied on a PER-DEPLOY basis.
+
+[[plugins]]
+  package = "netlify-plugin-html-validate"
+
+  [plugins.inputs]
+    ext = "html"
+    config = ".htmlvalidate.json"

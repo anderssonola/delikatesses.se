@@ -26,6 +26,7 @@
   "dependencies": {
     "clean-css": "^5.2.4",
     "html-minifier": "^4.0.0",
+    "netlify-plugin-html-validate": "^1.1.1",
     "uglify-js": "^3.15.1"
   }
 }
