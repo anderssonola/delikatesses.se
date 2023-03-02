@@ -1,3 +1,4 @@
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-js");
@@ -95,6 +96,8 @@ module.exports = function (eleventyConfig) {
     "md",
     markdownIt(options).use(markdownItAnchor, opts)
   );
+
+  eleventyConfig.addPlugin(UpgradeHelper);
 
   return {
     templateFormats: ["md", "njk", "liquid"],
