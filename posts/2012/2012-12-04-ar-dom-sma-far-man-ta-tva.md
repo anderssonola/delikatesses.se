@@ -2,13 +2,13 @@
 title: "Är dom små får man ta två....."
 author: Therese Persson
 date: "2012-12-04"
-categories: 
+categories:
   - "allmant"
   - "kott"
-tags: 
+tags:
   - "jul"
-  - "kalvfars"
-  - "kottbullar"
+  - "kalvfärs"
+  - "köttbullar"
   - "kryddpeppar"
 ---
 
@@ -18,6 +18,6 @@ Mamma kom med julen i år. Vi har inte pyntat då vi fortfarande är i färd med
 
 500 g kalvfärs 1 riven rödlök 1 dl mjölk 2 msk ströbröd 1 ägg 1 liten potatis 1 tsk salt 2 tsk kryddpeppar 1 krm vitpeppar Smör till stekning
 
-Blanda mjölken med ströbrödet och låt svälla under tiden du river löken och potatisen över färsen. Knäck ägget, mortla kryddpeppar. Blanda ihop allt och låt stå en stund. Rulla så små köttbullar som du önskar. Jag vill ha dom små, små så jag kan äta många.  
-  
+Blanda mjölken med ströbrödet och låt svälla under tiden du river löken och potatisen över färsen. Knäck ägget, mortla kryddpeppar. Blanda ihop allt och låt stå en stund. Rulla så små köttbullar som du önskar. Jag vill ha dom små, små så jag kan äta många.
+
 ![20121204-185941.jpg](/static/img/20121204-185941.jpg)

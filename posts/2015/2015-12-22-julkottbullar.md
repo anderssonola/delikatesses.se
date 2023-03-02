@@ -2,16 +2,16 @@
 title: "Julköttbullar"
 author: Therese Persson
 date: "2015-12-22"
-categories: 
+categories:
   - "allmant"
   - "flaskkott"
   - "kott"
   - "tillbehor"
-tags: 
-  - "flask"
+tags:
+  - "fläsk"
   - "jul"
   - "kalv"
-  - "kottbullar"
+  - "köttbullar"
   - "kryddpeppar"
   - "mejram"
 ---
