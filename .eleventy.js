@@ -1,12 +1,11 @@
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+const glob = require("fast-glob");
 const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-js");
 const htmlmin = require("html-minifier");
+const svgSprite = require("eleventy-plugin-svg-sprite");
 
 module.exports = function (eleventyConfig) {
-
-
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using
   // layout: post. If you don’t want to rewrite all of those values, just map
@@ -16,6 +15,10 @@ module.exports = function (eleventyConfig) {
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
+
+  eleventyConfig.addCollection("posts", (collectionApi) =>
+    collectionApi.getFilteredByGlob("./posts/**/*.md")
+  );
 
   // Add support for maintenance-free post authors
   // Adds an authors collection using the author key in our post frontmatter
@@ -43,6 +46,14 @@ module.exports = function (eleventyConfig) {
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machineDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
+  });
+
+  // Filters
+  glob.sync("./_filters/*.js").forEach((file) => {
+    let filters = require("./" + file);
+    Object.keys(filters).forEach((name) =>
+      eleventyConfig.addFilter(name, filters[name])
+    );
   });
 
   // Minify CSS
@@ -73,12 +84,13 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin/");
   eleventyConfig.addPassthroughCopy("_includes/assets/css/app.css");
-  eleventyConfig.addPassthroughCopy("_includes/assets/css/simple.css");
+  eleventyConfig.addPassthroughCopy("_includes/assets/css/water.css");
   eleventyConfig.addPassthroughCopy({ "robots.txt": "/robots.txt" });
 
   /* Markdown Plugins */
@@ -92,6 +104,11 @@ module.exports = function (eleventyConfig) {
     permalink: false,
   };
 
+  // SVG sprite plugin
+  eleventyConfig.addPlugin(svgSprite, {
+    path: "./static/svg", // relative path to SVG directory
+    // (MUST be defined when initialising plugin)
+  });
   eleventyConfig.setLibrary(
     "md",
     markdownIt(options).use(markdownItAnchor, opts)

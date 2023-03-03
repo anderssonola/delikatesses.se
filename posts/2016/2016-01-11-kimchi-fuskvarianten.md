@@ -1,14 +1,14 @@
 ---
-title: "Kimchi- fuskvarianten"
+title: "Kimchi-fuskvarianten"
 author: Therese Persson
 date: "2016-01-11"
-categories: 
+categories:
   - "allmant"
   - "glutenfritt"
   - "gronsaker"
   - "tillbehor"
   - "vegetariskt"
-tags: 
+tags:
   - "bimbimbap"
   - "kal"
   - "kimchi"
@@ -21,7 +21,7 @@ I början på förra veckan hade vi min lillasyster med man på besök och bjöd
 
 ![IMG_0506](/static/img/IMG_0506-1020x1020.jpg)Fusk-kimchin är den mellan böngroddar och sojabönor
 
-## Kimchi- fuskvarianten
+## Kimchi - fuskvarianten
 
 **_en rejäl sats_**
 

@@ -1,34 +1,35 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="sv">
 
-	{% include "components/head.njk" %}
+  {% include "components/head.njk" %}
 
-	<body>
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			<div id="search"></div>
-		</header>
+  <body>
 
-		<main>
-			{{ layoutContent | safe }}
-		</main>
+    <header>
+      <em>
+        <a href="{{ '/' | url }}">{{ metadata.title }}</a>
+      </em>
+      <div id="search"></div>
+    </header>
 
-		{% include "components/footer.njk" %}
-	</body>
+    <main>
+      {{ layoutContent | safe }}
+    </main>
 
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-	<script type="text/javascript">
-	algoliasearchNetlify({
-		appId: 'A4TO74U8NU',
-		apiKey: 'dda0ad41aad17c2e9b06a7581a221b5c',
-		siteId: '9036c891-0d44-4f81-a0d3-e8ecc2141fe6',
-		branch: 'master',
-		selector: 'div#search',
-		hitsPerPage: '6',
-		placeholder: 'Sök innehåll'
-	});
-	</script>
+    {% svgsprite %}
+  </body>
+
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+  <script type="text/javascript">
+    algoliasearchNetlify({
+      appId: 'A4TO74U8NU',
+      apiKey: 'dda0ad41aad17c2e9b06a7581a221b5c',
+      siteId: '9036c891-0d44-4f81-a0d3-e8ecc2141fe6',
+      branch: 'master',
+      selector: 'div#search',
+      hitsPerPage: '6',
+      placeholder: 'Sök'
+    });
+  </script>
 
 </html>

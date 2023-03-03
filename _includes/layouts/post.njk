@@ -3,45 +3,5 @@ layout: layouts/base.njk
 section: post
 ---
 
-<article>
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "{{title}}",
-
-      "datePublished": "{{ date | machineDate }}",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "{{ author }}"
-        }
-      ]
-    }
-  </script>
-
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ author }}
-    </small>
-  </p>
-
-  {{ layoutContent | safe }}
-
-  {% if tags %}
-    <p itemprop="keywords">
-      {% for tag in tags %}
-        {%- if tag != "post" -%}
-          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-          <a href="{{ tagUrl | url }}" rel="category tag">{{ tag }}</a>
-        {%- endif -%}
-      {% endfor %}
-    </p>
-  {% endif %}
-
-</article>
-
-<nav>
-  <a href="{{ '/' | url }}">← Hem</a>
-</nav>
+{% include "_includes/components/single-post.njk" %}
+{% include "_includes/components/back-home.njk" %}

@@ -1,0 +1,14 @@
+<section>
+  {% for post in posts %}
+
+    {% set date = post.date %}
+    {% set url = post.url %}
+
+    {% set author = post.data.author %}
+    {% set title = post.data.title %}
+    {% set tags = post.data.tags %}
+    {% set layoutContent = post.templateContent %}
+
+    {% include "_includes/components/single-post.njk" %}
+  {% endfor %}
+</section>

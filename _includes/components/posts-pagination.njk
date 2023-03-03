@@ -1,0 +1,11 @@
+<div class="pagination">
+
+  {% if pagination.href.previous %}
+    <a class="pagination__link pagination__link--first" href="{{ pagination.href.previous }}">{% svg "navigateBeforeIcon" %} Nyare inlägg</a>
+  {% endif %}
+
+  {% if pagination.href.next %}
+    <a class="pagination__link pagination__link--last" href="{{ pagination.href.next }}">Äldre inlägg {% svg "navigateNextIcon" %}</a>
+  {% endif %}
+
+</div>

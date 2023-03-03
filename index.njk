@@ -1,0 +1,18 @@
+---
+layout: layouts/base.njk
+section: blog
+permalink: "{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+
+pagination:
+  data: collections.post
+  size: 10
+  alias: posts
+  reverse: true
+---
+
+{% block content %}
+  {% include "_includes/components/posts-list.njk" %}
+{% endblock %}
+
+
+{% include "_includes/components/posts-pagination.njk" %}

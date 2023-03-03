@@ -11,15 +11,13 @@ pagination:
     - posts
 permalink: /tags/{{ tag }}/
 eleventyComputed:
-  title: "Tagged “{{ tag }}”"
-  metaDescription: "All posts from the Blog tagged with “{{ tag }}”"
+  title: "Taggade med \"{{ tag }}\""
+  metaDescription: "Alla inlägg som är taggade med \"{{ tag }}\""
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
+<h2>Taggeade med "{{ tag }}"</h2>
 
-{% set postslist = collections[tag] %}
-{% include "components/postslist.njk" %}
+{% set posts = collections[tag] %}
+{% include "components/posts-list.njk" %}
 
-<nav>
-  <a href="{{ '/' | url }}">← Hem</a>
-</nav>
+{% include "_includes/components/back-home.njk" %}

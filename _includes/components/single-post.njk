@@ -1,0 +1,34 @@
+<article>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "{{title}}",
+
+      "datePublished": "{{ date | machineDate }}",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "{{ author }}"
+        }
+      ]
+    }
+  </script>
+  <h1>
+    <a href="{{ url }}">{{ title }}</a>
+  </h1>
+  <time datetime="{{ date | dateISO }}">{{ date | dateFormat('LL') }}</time>
+
+  {{ layoutContent | safe | trim }}
+
+  {% if tags %}
+    <p itemprop="keywords">
+      {% for tag in tags %}
+        {%- if tag != "post" -%}
+          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+          <a href="{{ tagUrl | url }}" rel="category tag">{{ tag }}</a>
+        {%- endif -%}
+      {% endfor %}
+    </p>
+  {% endif %}
+</article>
