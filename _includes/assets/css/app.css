@@ -16,10 +16,6 @@ header #search {
   min-width: 350px;
 }
 
-.aa-Input {
-  margin-bottom: unset;
-}
-
 article {
   margin: 4em 0;
 }
@@ -27,6 +23,21 @@ article {
 .back-home {
   display: inline-flex;
   align-content: center;
+}
+
+.image {
+  margin: 1em 0;
+}
+.image--markdown {
+}
+
+.image--fallback {
+  align-items: center;
+  aspect-ratio: 16/9;
+  background: var(--background);
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
 
 /* PAGINATION */
@@ -52,4 +63,13 @@ article {
 }
 .pagination__link--last {
   justify-content: flex-end;
+}
+
+/* Search widget styling */
+.aa-Input {
+  margin-bottom: unset;
+}
+
+.aa-SubmitButton:hover {
+  background-color: unset;
 }

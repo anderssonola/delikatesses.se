@@ -2,12 +2,12 @@
 title: "Vår i sinne- fika inne"
 author: Therese Persson
 date: "2013-03-10"
-categories: 
+categories:
   - "allmant"
   - "baka"
   - "dryck"
   - "tillbehor"
-tags: 
+tags:
   - "citron"
   - "flader"
   - "poppy-seed"
@@ -20,7 +20,17 @@ I veckan när vårsolen värmde och skinnjackan åkte fram längtade jag till he
 
 ![20130310-100418.jpg](/static/img/20130310-100418.jpg)
 
-**Citron- & vallmokaka** 2 ägg 1 1/2 dl socker 1/2 tsk vaniljsocker 25 gram smör 1/2 dl mjölk Knappt 2 dl mjöl 1 tsk bakpulver 1 gnutta salt 1/2 dl vallmofrö Skalet och saft från 1 citron
+**Citron- & vallmokaka**
+2 ägg
+1 1/2 dl socker
+1/2 tsk vaniljsocker
+25 gram smör
+1/2 dl mjölk
+Knappt 2 dl mjöl
+1 tsk bakpulver
+1 gnutta salt
+1/2 dl vallmofrö
+Skalet och saft från 1 citron
 
 Vispa ägg, socker och vaniljsocker fluffigt. Smält smöret och låt svalna. Häll i i äggsmeten. Skikta i mjöl, bakpulver och salt. Vänd ner de torra i ingredienserna med en sluckepott. Avsluta med citronen och vallmofrön. Olja en ugnsform eller små formar. "bröa" med vallmofrö för extra crunch. Häll på smeten. Dunka formen så eventuella luftbubblor försvinner. Ställ in i ugnen på 175 grader i 25-30 min. Känn med sticka så den är helt klar.
 

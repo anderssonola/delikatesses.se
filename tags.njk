@@ -15,7 +15,7 @@ eleventyComputed:
   metaDescription: "Alla inlägg som är taggade med \"{{ tag }}\""
 ---
 
-<h2>Taggeade med "{{ tag }}"</h2>
+<h2>Inlägg taggade med: "{{ tag }}"</h2>
 
 {% set posts = collections[tag] %}
 {% include "components/posts-list.njk" %}

@@ -2,12 +2,12 @@
 title: "Gott nytt grytbröd 2016"
 author: Therese Persson
 date: "2016-01-03"
-categories: 
+categories:
   - "allmant"
   - "baka"
   - "frukost"
   - "tillbehor"
-tags: 
+tags:
   - "grahamsmjol"
   - "grytbrod"
   - "ragsikt"
@@ -15,7 +15,7 @@ tags:
 
 Ja, precis så har vi börjat det nya året. Med ett gott grytbröd. Vi avslutade 2015 hos goda vänner som bjöd på en klassisk, fantastisk meny till ett otroligt fint dukat bord. En räksoppa, oxfile, snygga potatisrosor, goda såser samt en himmelsk vattenbadsbakad chokladkaka. Sen bars det in charkbricka och snacks. Till allt detta serverades det en förträfflig Crémant de Alsace följt av Ripasso de valpolicella samt en Klackabackens porter till desserten. Ett bra slut helt enkelt!
 
-![IMG_0435](/static/img//IMG_0435-1020x765.jpg)
+![IMG_0435](/static/img/IMG_0435-1020x765.jpg)
 
 Förutom ett nytt år så har vi (läs Selma) börjat med galet tidiga morgnar. Den lilla lintotten  stiger gärna upp i ottan. Om man inte bara blir sittandes, tomt stirrandes på legomonstret så hinns det med en hel del under förmiddagen. Bla att knåda, jäsa och baka av ett grytbröd innan andrefrukost kl 8;30. Receptet kommer från Lantliv Mat & vin. Har man morgontrötta och sovande snälla barn _(grattis till er!)_ så kan man givetvis baka det dagen innan.
 
